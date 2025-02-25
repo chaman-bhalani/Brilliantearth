@@ -1,0 +1,30 @@
+[
+  {
+    "id": 29,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F3789dbc11df04961abb6f12992f9863d",
+    "alt": "Sol Collection Image",
+    "title": "Top Jewelry Trends",
+    "description": "Here's what's currently peak chic.",
+    "btnText": [
+      "Zodiac Jewelry",
+      "Gemstone Jewelry",
+      "Bezel Jewelry",
+      "Cahin Necklaces"
+    ]
+  },
+  {
+    "id": 30,
+    "imgUrl": "https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F2b6ef3c3519b40a88410288c789f3a16?format=webp&width=2000",
+    "alt": "fl collection image"
+  },
+  {
+    "id": 121,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fa1c467bddbb04d0a96ca1806e0fbd343&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "fl collection image"
+  },
+  {
+    "id": 125,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1376,height=600,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F57d1f7ef62b84f45817cbb2f307710e4",
+    "alt": "fl collection image"
+  }
+]

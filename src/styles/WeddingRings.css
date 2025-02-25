@@ -1,0 +1,376 @@
+.shop-by-style-head {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  margin-bottom: 20px;
+  text-align: left;
+  color: #222;
+}
+
+.sbs-education {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 15px;
+  padding: 20px;
+  justify-items: center;
+}
+
+.sbs-cards {
+  width: 100%;
+  max-width: 280px;
+  height: 400px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+}
+
+.sbs-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sbs-cards h5 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #333;
+  font-family: "Arial", sans-serif;
+}
+
+.sbs-text {
+  font-size: 0.9rem;
+  font-family: "Courier New", Courier, monospace;
+  color: #666;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  .sbs-education {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+
+  .sbs-cards {
+    max-width: 240px;
+    height: 350px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sbs-education {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  }
+
+  .sbs-cards {
+    max-width: 200px;
+    height: 320px;
+  }
+}
+
+.sol-video {
+  margin-top: 20px;
+}
+
+.video-player {
+  width: 700px;
+  height: 500px;
+  margin-right: 20px;
+  object-fit: cover;
+}
+
+@media (max-width: 1024px) {
+  .video-player {
+    max-width: 600px;
+  }
+}
+
+@media (max-width: 768px) {
+  .video-player {
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 480px) {
+  .video-player {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.signature-collection-head {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.sgc-contaier {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  width: 100%;
+}
+
+.sgc-card {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+}
+
+.sgc-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sgc-contaier h5 {
+  font-weight: 600;
+}
+
+.sgc-text {
+  font-size: 1rem;
+  color: #666;
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1.3;
+  margin-top: 10px;
+}
+
+@media (max-width: 1024px) {
+  .sgc-contaier {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .sgc-contaier {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .sgc-card {
+    height: 600px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sgc-card {
+    height: 500px;
+  }
+}
+
+.ring-stack-collection {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.ring-stack-collection .e-text {
+  flex: 1;
+  max-width: 50%;
+}
+
+.ring-stack-collection .e-text h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.ring-stack-collection .e-text p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.ring-stack-collection .p-button {
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+}
+
+.ring-stack-collection .price-btn1 {
+  width: 300px;
+}
+
+.ring-stack-collection .sol-img {
+  flex: 1;
+  max-width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.ring-stack-collection .sol-img img {
+  width: 100%;
+  height: auto;
+  max-width: 700px;
+  object-fit: cover;
+}
+
+@media (max-width: 1024px) {
+  .ring-stack-collection {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .ring-stack-collection .e-text,
+  .ring-stack-collection .sol-img {
+    max-width: 100%;
+  }
+}
+
+.wedr-review-head {
+  font-family: var(--font-family);
+  font-weight: lighter;
+  margin-bottom: 0px;
+  text-align: left;
+}
+
+.wedr-review-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow-x: auto;
+  gap: 45px;
+  margin-bottom: 30px;
+}
+
+.wedr-review-cards .card {
+  width: 420px;
+  height: 600px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+  overflow: hidden;
+  text-align: center;
+}
+
+.wedr-review-cards .card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 1024px) {
+  .wedr-review-cards .card {
+    width: 80%;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .wedr-review-cards {
+    justify-content: space-around;
+  }
+
+  .wedr-review-cards .card {
+    width: 80%;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .wedr-review-cards .card {
+    width: 90%;
+    height: auto;
+  }
+}
+
+.Wedding-ring-education {
+  width: 100%;
+  padding: 20px;
+}
+
+.Wedding-ring-education-head {
+  font-family: var(--font-family);
+  font-weight: lighter;
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.wed-education {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+  padding: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: #aaa transparent;
+}
+
+.wed-education::-webkit-scrollbar {
+  height: 8px;
+}
+
+.wed-education::-webkit-scrollbar-thumb {
+  background: #aaa;
+  border-radius: 10px;
+}
+
+.wed-education-cards {
+  flex: 0 0 350px;
+  height: 440px;
+  background: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.wed-education-img {
+  width: 100%;
+  height: 315px;
+  object-fit: cover;
+}
+
+.wed-education-cards h5 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #222;
+  font-family: "Arial", sans-serif;
+  margin-top: 10px;
+}
+
+.wed-educatioin-text {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Courier New", Courier, monospace;
+  color: #333;
+}
+
+@media (max-width: 768px) {
+  .Wedding-ring-education-head {
+    font-size: 32px;
+  }
+
+  .wed-education-cards {
+    flex: 0 0 250px;
+    height: 380px;
+  }
+
+  .wed-education-img {
+    height: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .Wedding-ring-education-head {
+    font-size: 28px;
+  }
+
+  .wed-education-cards {
+    flex: 0 0 200px;
+    height: 340px;
+  }
+
+  .wed-education-img {
+    height: 250px;
+  }
+}

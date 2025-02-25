@@ -1,0 +1,42 @@
+[
+  {
+    "id": 201,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F33ad772a2531492cb66e18e23526b2cb",
+    "alt": "",
+    "catagory": "set29",
+    "title": "Wedding Band Guide",
+    "description": "Your go-to guide for choosing the perfect wedding ring."
+  },
+  {
+    "id": 202,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F150de77480184acea1502a762ba03436",
+    "alt": "",
+    "catagory": "set14",
+    "title": "How to Wear Your Wedding Ring",
+    "description": "Discover expert tips for styling your wedding ring."
+  },
+  {
+    "id": 203,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F26a9f364288a46bb9ea3bb3a2daec7d7",
+    "alt": "",
+    "catagory": "set14",
+    "title": "Women's Wedding Band Styles",
+    "description": "Learn the different wedding ring types and designs for women."
+  },
+  {
+    "id": 204,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F2745634697ec4fe8a5625ffdb209199a",
+    "alt": "",
+    "catagory": "set14",
+    "title": "Men's Wedding Band Styles",
+    "description": "Learn the different wedding band types and designs for men."
+  },
+  {
+    "id": 205,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F05e1274eb188469e946e54fca690b426",
+    "alt": "",
+    "catagory": "set14",
+    "title": "How to Measure Ring Size",
+    "description": "View our ring size chart, request a free ring sizer, and learn how to find your ring size at home."
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "id": 117,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F7af0a16e0d524918819cf94aafa7e86c",
+    "alt": "Sol Collection Image",
+    "title": "Shop by Price",
+    "description": "",
+    "btnText": [
+      "Gift Under $250",
+      "Gift Under $500",
+      "Gift Under $1000",
+      "The Luxe List"
+    ]
+  },
+  {
+    "id": 118,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F16f2af1632e7401b959ce9b47ce6b805",
+    "alt": "Sol Collection Image",
+    "title": "Shop by Occasion",
+    "description": "",
+    "btnText": [
+      "Shop Anniversary Gifts",
+      "Shop Birthday Gifts",
+      "Shop Milestone Gifts",
+      "Shop Wedding Pary Gifts"
+    ]
+  },
+  {
+    "id": 119,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fee442c63038049edac8fccc5c156fbfd",
+    "alt": "Sol Collection Image",
+    "title": "Design Your Own Diamond Ring",
+    "description": "Your ring, your way. Pair your dream diamond with one of our award-winning settings.​",
+    "btnText": ["Start with a Natural Diamond", "Start with a Lab Diamond"]
+  },
+  {
+    "id": 120,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F67a2c143703b4239a605d7b3a10d4420",
+    "alt": "Sol Collection Image",
+    "title": "Colored Diamonds",
+    "description": "Explore our curated collection of natural and lab created colored diamonds in a variety of stunning shades.​",
+    "btnText": ["Shop Natural Colored Diamonds", "Shop Lab Colored Diamonds"]
+  },
+  {
+    "id": 122,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F0e6279723c964d338e012225b587f4a3",
+    "alt": "Sol Collection Image",
+    "title": "The Capture Collection",
+    "description": "The most innovative lab diamonds on the planet, grown from carbon before it's released into the atmosphere.",
+    "btnText": ["Shop Now"]
+  },
+  {
+    "id": 126,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fa6e7c9b72fb840e29ce3d58ef93d4f6d",
+    "alt": "Sol Collection Image",
+    "title": "Blockchain Diamonds",
+    "description": "Blockchain technology is revolutionizing the natural diamond industry. Our blockchain keeps track of every step in a diamond’s journey – from mining, to market, to the moment it reaches you – safely, securely, and permanently. With our blockchain verified diamonds, you’ll have an enduring digital record about where your diamond comes from and how it was sourced. In 2019, we became one of the first retailers to offer blockchain verified diamonds, and year after year we have increased our offering of blockchain verified diamonds, ahead of our ESG Goals.",
+    "btnText": ["Shop Blockchain Verified Diamonds"]
+  },
+  {
+    "id": 153,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F1cc31690692c4cbe9f66de93b6db46f1",
+    "alt": "Sol Collection Image",
+    "title": "Rare Gemstones",
+    "description": "Discover a limited-edition collection of unique gemstones, hand selected by our team of expert gemologists.",
+    "btnText": ["Shop Now"]
+  },
+  {
+    "id": 193,
+    "videoUrl": "https://cdn.builder.io/o/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F8259017d6f7442d895e921e9bc70ebe8%2Fcompressed?apiKey=9f2a69003c86470ea05deb9ecb9887be&token=8259017d6f7442d895e921e9bc70ebe8&alt=media&optimized=true",
+    "alt": "Sol Collection Image",
+    "title": "Find My Matching Wedding Ring",
+    "description": "Select your engagement ring, then discover the perfect wedding ring to match.",
+    "btnText": ["Get Started"]
+  },
+  {
+    "id": 197,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F5795a55864ef42e49dafe7e31560596e",
+    "alt": "Sol Collection Image",
+    "title": "Ready, Set, Stack",
+    "description": "Go for a set that speaks to your style.",
+    "btnText": ["Shop Now"]
+  },
+  {
+    "id": 212,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=516,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_BE-Difference_01.jpg",
+    "alt": "Expertly Designed jewelry",
+    "title": "Expertly Designed Jewelry",
+    "description": "Award-winning designers in our San Francisco studio dream up each piece, considering every aspect of the distinct design. Then, artisans with masterful attention to detail bring our jewelry to life, so you can wear it forever.",
+    "btnText": []
+  },
+  {
+    "id": 213,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=516,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_BE-Difference_02.jpg",
+    "alt": "Every Piece Crafted Ethically",
+    "title": "Every Piece Crafted Ethically ",
+    "description": "Every aspect of our jewelry is ethically crafted, from the minute the materials are sourced, to the moment you put it on — because we believe you should feel good about what you're wearing.",
+    "btnText": []
+  },
+  {
+    "id": 214,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=516,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_BE-Difference_03.jpg",
+    "alt": "Uniquely Yours",
+    "title": "Uniquely Yours",
+    "description": "We craft our jewelry joyfully, and just for you. Whether it's a made-to-order, one-of-a-kind engagement ring or a personalized piece of fine jewelry, our designs reflect the unique story of who you are.",
+    "btnText": []
+  },
+  {
+    "id": 215,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=922,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_BE-Experience.jpg",
+    "alt": "We're Here for You",
+    "title": "We're Here for You",
+    "description": "Appointments are relaxed, joyful, and tailored to you. Whether it's a milestone moment or an everyday luxury, we're here to help you start your stack, find your fit, and design the perfect piece.",
+    "btnText": ["Visit a Showroom", "Book a Virtual Appointment"]
+  }
+]

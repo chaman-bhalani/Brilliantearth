@@ -1,0 +1,23 @@
+[
+  {
+    "id": "80",
+    "imgUrl": "https://image.brilliantearth.com/media/product_tile_images/Website_CMS_Ready_to_Ship_ER_MoretoExplore_AllERs_DT_760x668.jpg",
+    "alt": "Shop All Engagement Rings",
+    "footer": "Shop All Engagement Rings",
+    "category": "set7"
+  },
+  {
+    "id": "81",
+    "imgUrl": "https://image.brilliantearth.com/media/product_tile_images/Website_CMS_Ready_to_Ship_ER_MoretoExplore_Signature_DT_760x668.jpg",
+    "alt": "Shop Our Signature Collection",
+    "footer": "Shop All Engagement Rings",
+    "category": "set7"
+  },
+  {
+    "id": "82",
+    "imgUrl": "https://image.brilliantearth.com/media/product_tile_images/Website_CMS_Ready_to_Ship_ER_MoretoExplore_AllRings_DT_760x668.jpg",
+    "alt": "Shop All Rings",
+    "footer": "Shop All Rings",
+    "category": "set7"
+  }
+]

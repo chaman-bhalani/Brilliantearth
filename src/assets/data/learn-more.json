@@ -1,0 +1,30 @@
+[
+  {
+    "id": 32,
+    "imgUrl": "https://images.pexels.com/photos/3829444/pexels-photo-3829444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "alt": "backgrond image",
+    "heading": "Jewellery Redefined",
+    "paragraph": "Our jewellery is ethically crafted and expertly designed. Join us in transforming the jewellery industry for good."
+  },
+  {
+    "id": 98,
+    "imgUrl": "https://images.pexels.com/photos/3829444/pexels-photo-3829444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "alt": "backgrond image",
+    "heading": "Leading Diamond Innovation",
+    "paragraph": "Rethink everything you know about diamonds."
+  },
+  {
+    "id": 121,
+    "imgUrl": "https://images.pexels.com/photos/3829444/pexels-photo-3829444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "alt": "backgrond image",
+    "heading": "Custom Cut Lab Grown Diamonds",
+    "paragraph": "we're pushing the boundaries to create truly innovative lab diamond cuts."
+  },
+  {
+    "id": 177,
+    "imgUrl": "https://images.pexels.com/photos/3829444/pexels-photo-3829444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "alt": "backgrond image",
+    "heading": "Innovation. Artistry. Planet-First",
+    "paragraph": "Pioneering industry-defining diamond standards since day one."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 83,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F0b89fc334acc49e09174302956c5e379",
+    "alt": "Earrings",
+    "footer": "Earrings",
+    "category": "set8"
+  },
+  {
+    "id": 84,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Ffe0ca3cb57a444919d2e0a64b9830c7a",
+    "alt": "Necklaces",
+    "footer": "Necklaces",
+    "category": "set8"
+  },
+  {
+    "id": 85,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fe88179ca25264d8ea355b0de416c263c",
+    "alt": "Bracelets",
+    "footer": "Bracelets",
+    "category": "set8"
+  },
+  {
+    "id": 86,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F10ad7b925fc442d9be116f337f6ab72b",
+    "alt": "Rings",
+    "footer": "Rings",
+    "category": "set8"
+  }
+]

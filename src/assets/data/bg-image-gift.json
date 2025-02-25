@@ -1,0 +1,86 @@
+[
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F722d577c2e6a426c906d28c502a50dad&w=1920&q=95&dpl=9b3558b1e0f77740880c275046b4b1b606b39d49",
+    "altText": "Background Image",
+    "heading": "Jewelry Gifts",
+    "paragraph": "Looking for the perfact Jewelry gift?  You're in the right place.",
+    "buttons": [
+      {
+        "text": "Shop Best Selling Gifts",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fd45cf52d55aa46ed899cb251fe6a32ae&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "altText": "Background Image",
+    "heading": "Jewelry",
+    "paragraph": "Sustainable jewelry to put on and never take off.",
+    "buttons": [
+      {
+        "text": "Shop Diamond Jewelry",
+        "link": ""
+      },
+      {
+        "text": "Shop All Jewelry",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F9645025ab0bc46c3a0eeb999d54a1f75&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "altText": "Background Image",
+    "heading": "Diamonds",
+    "paragraph": "Whether natural or lab grown, each of our diamonds is responsibly sourced and selected for its brilliant sparkle.",
+    "buttons": [
+      {
+        "text": "Shop Natural Diamonds",
+        "link": ""
+      },
+      {
+        "text": "Shop Lab Diamonds",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fe309bd274b294a76a217f1a71bfaaac4&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "altText": "Background Image",
+    "heading": "Gemstone Rings",
+    "paragraph": "For your wedding day and evryday, show your true colors with a stiking, ethically sourced gemstone ring.",
+    "buttons": [
+      {
+        "text": "Start with a Gemstone",
+        "link": ""
+      },
+      {
+        "text": "Start with a Setting",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F4ce0405e5d2d4f51ae38ca7fc6e56ffb&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "altText": "Background Image",
+    "heading": "Engagement Rings",
+    "paragraph": "From Beyond Conflict Free Diamonds® to colorful gemstones, discover engagement rings for women, men, and everyone.",
+    "buttons": [
+      {
+        "text": "Shop Engagement Rings",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F4d665357035d450c8fe78b380fbaae2f&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "altText": "Background Image",
+    "heading": "Wedding Rings and Bands",
+    "paragraph": "Find your forever design from our cutarwd collection of ethically sourced wedding rings and bands.",
+    "buttons": [
+      {
+        "text": "Shop Women's Wedding Bands",
+        "link": ""
+      }
+    ]
+  }
+]

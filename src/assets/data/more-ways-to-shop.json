@@ -1,0 +1,23 @@
+[
+  {
+    "id": 112,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=443,height=513,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fc754edf38d2a46b7bf61b019423d50ff",
+    "alt": "Shop all Jewelry",
+    "category": "set17",
+    "footer": "Shop all Jewelry"
+  },
+  {
+    "id": 113,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=443,height=513,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fbe9876dceae6453aa5f0ef6d3c81f559",
+    "alt": "Shop Ready to Ship Rings",
+    "category": "set17",
+    "footer": "Shop Ready to Ship Rings"
+  },
+  {
+    "id": 114,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=443,height=513,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fac50dd4b68d44df7941b81c78278b7ca",
+    "alt": "Shop Gift Cards",
+    "category": "set17",
+    "footer": "Shop Gift Cards"
+  }
+]

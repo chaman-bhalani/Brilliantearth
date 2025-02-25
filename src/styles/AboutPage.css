@@ -1,0 +1,576 @@
+.aboutpage-poster {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  overflow: hidden;
+}
+
+.aboutpage-poster .background-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.aboutpage-poster .overlay-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #000000;
+}
+
+.aboutpage-poster .logo-image {
+  width: 120px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.aboutpage-poster .logo-head {
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: #000000;
+}
+
+.aboutpage-poster .pera {
+  font-size: 18px;
+  font-weight: 500;
+  color: #000000;
+}
+
+.about-navbar {
+  width: 100%;
+  background-color: #183e40;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.about-nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.about-navbar a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #222;
+  padding: 5px 10px;
+}
+
+.about-nav-item {
+  font-size: 17.5px;
+  font-weight: 500;
+  cursor: pointer;
+  color: white;
+}
+
+.about-nav-item:hover {
+  color: green;
+}
+
+.mission-pillars {
+  background-color: #183e40;
+  color: white;
+  padding: 50px 5%;
+  text-align: center;
+}
+
+.mission-pillars p {
+  font-size: 14px;
+  max-width: 800px;
+  margin: 0 auto 20px;
+  line-height: 1.8;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.mission-pillard-message {
+  font-size: 28px;
+  font-family: "Courier New", Courier, monospace;
+}
+.mission-pillar-head {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  color: white;
+}
+.mission-pillar-head .h5 {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.mission-pillars-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.mission-pillars-contaier {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.mission-pillars-card {
+  color: #183e40;
+  flex: 1;
+  max-width: 300px;
+  padding: 20px;
+  text-align: center;
+}
+
+.mission-pillars-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mission-pillars-text p {
+  display: block;
+  margin: 5px 0;
+  color: white;
+}
+
+.mission-pillars-card:not(:last-child) {
+  border-right: 2px solid #28676b;
+  padding-right: 20px;
+}
+
+@media (max-width: 1024px) {
+  .mission-pillars-cards {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .mission-pillars-card {
+    max-width: 45%;
+  }
+
+  .mission-pillars-card:nth-child(2n) {
+    border-right: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .mission-pillars-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .mission-pillars-card {
+    max-width: 90%;
+    border-right: none;
+    padding-right: 0;
+  }
+}
+@media (max-width: 480px) {
+  .mission-pillars-cards {
+    border-right: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .mission-pillars-card .card {
+    max-width: 100%;
+    padding: 15px;
+    text-align: center;
+    border-right: none;
+  }
+
+  .mission-pillars-card:not(:last-child) {
+    border-bottom: 2px solid #28676b;
+    padding-bottom: 15px;
+    border: none;
+    flex-direction: column;
+  }
+
+  .mission-pillars-text p {
+    font-size: 14px;
+  }
+}
+
+.forever-forward {
+  background-color: #ece2df;
+  color: rgb(0, 0, 0);
+  padding: 50px 5%;
+  text-align: center;
+}
+
+.forevre-forward-head {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.ff-head2 {
+  font-size: 18px;
+  max-width: 800px;
+  margin: 0 auto 40px;
+  line-height: 1.6;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.forever-forward > div {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.forever-forward > div > div {
+  flex: 1;
+  max-width: 280px;
+  padding: 20px;
+  text-align: center;
+  border-right: 2px solid #a47379;
+}
+
+.forever-forward > div > div:last-child {
+  border-right: none;
+}
+
+.forever-forward h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.forever-forward p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  font-family: "Courier New", Courier, monospace;
+}
+
+@media (max-width: 1024px) {
+  .forever-forward > div {
+    flex-wrap: wrap;
+  }
+
+  .forever-forward > div > div {
+    max-width: 45%;
+    border-right: none;
+    border-bottom: 2px solid #a47379;
+    padding-bottom: 20px;
+  }
+
+  .forever-forward > div > div:last-child {
+    border-bottom: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .forever-forward > div {
+    flex-direction: column;
+  }
+
+  .forever-forward > div > div {
+    max-width: 100%;
+    border: none;
+  }
+}
+
+.the-difference {
+  background-color: #c2a1a5;
+  padding: 50px 5%;
+  text-align: center;
+}
+
+.the-difference-head {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(0, 0, 0);
+}
+
+.first-cl,
+.reverse-cl,
+.second-cl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  max-width: 1000px;
+  margin: 0 auto 30px;
+}
+
+.reverse-cl {
+  flex-direction: row-reverse;
+}
+
+.first-cl img,
+.reverse-cl img,
+.second-cl img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.first-cl div,
+.reverse-cl div,
+.second-cl div {
+  max-width: 400px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+@media (max-width: 1024px) {
+  .first-cl,
+  .reverse-cl,
+  .second-cl {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .reverse-cl {
+    flex-direction: column-reverse;
+  }
+
+  .first-cl img,
+  .reverse-cl img,
+  .second-cl img {
+    max-width: 300px;
+  }
+
+  .first-cl div,
+  .reverse-cl div,
+  .second-cl div {
+    max-width: 100%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .first-cl img,
+  .reverse-cl img,
+  .second-cl img {
+    max-width: 250px;
+  }
+
+  .first-cl div,
+  .reverse-cl div,
+  .second-cl div {
+    font-size: 14px;
+    max-width: 100%;
+  }
+}
+
+.e-text h1 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(0, 0, 0);
+  text-align: left;
+  position: relative;
+  display: inline-block;
+}
+
+.e-text h1::after {
+  content: "";
+  display: block;
+  width: 150px;
+  height: 3px;
+  background-color: rgb(0, 0, 0);
+  margin-top: 5px;
+}
+
+.reverse-cl .e-text h1 {
+  text-align: right;
+}
+
+.reverse-cl .e-text h1::after {
+  margin-left: auto;
+}
+
+@media (max-width: 1024px) {
+  .e-text h1 {
+    text-align: center;
+    font-size: 28px;
+  }
+
+  .e-text h1::after {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .reverse-cl .e-text h1 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .e-text h1 {
+    font-size: 24px;
+  }
+
+  .e-text h1::after {
+    width: 40px;
+  }
+}
+
+.the-experience {
+  padding: 50px 5%;
+  text-align: center;
+}
+
+.the-experience-head {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(0, 0, 0);
+}
+
+.experience-cl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  max-width: 1000px;
+  margin: 0 auto 30px;
+  flex-direction: row;
+}
+
+.experience-cl img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.experience-cl .e-text {
+  max-width: 400px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+.experience-cl .e-text h1 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+@media (max-width: 1024px) {
+  .experience-cl {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .experience-cl img {
+    max-width: 300px;
+  }
+
+  .experience-cl .e-text {
+    max-width: 80%;
+    text-align: center;
+  }
+
+  .experience-cl .e-text h1 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .experience-cl img {
+    max-width: 250px;
+  }
+
+  .experience-cl .e-text {
+    font-size: 14px;
+    max-width: 90%;
+  }
+
+  .experience-cl .e-text h1 {
+    font-size: 24px;
+  }
+}
+@media (max-width: 480px) {
+  .experience-cl img {
+    max-width: 100%;
+    height: 100%;
+  }
+  .experience-cl .e-text h1 {
+    font-size: 14px;
+    max-width: 90%;
+  }
+
+  .experience-cl .e-text h1 {
+    font-size: 24px;
+  }
+}
+
+.spprt {
+  background-color: #0d6363;
+  color: white;
+  padding: 20px 5%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.spprt div {
+  flex: 1;
+  min-width: 180px;
+}
+
+.spprt h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.spprt a {
+  color: white;
+  text-decoration: underline;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .spprt {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .spprt div {
+    min-width: auto;
+  }
+}
+
+.more-about-mission {
+  justify-content: center;
+  background-color: #183e40;
+  padding-bottom: 20px;
+}
+.more-about-mission-head {
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 550;
+}

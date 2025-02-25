@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=286,height=332,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fa5a5d492a7ff4b2fa820c75891cf48bf",
+    "alt": "Engagement Rings",
+    "footer": "Engagement Rings",
+    "category": "set1",
+    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F895c5b02926a485cad5093339973cb41"
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=286,height=332,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fddb5bd66cbd04f629f9a6fe30ed9690b",
+    "alt": "Women's Wedding Rings",
+    "footer": "Women's Wedding Rings",
+    "category": "set1",
+    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F7eb8d01d4640427d94a739511b7264f5"
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=286,height=332,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Ff02d13aa22714b44942d416a08cfeaa9",
+    "alt": "Men's Wedding Rings",
+    "footer": "Men's Wedding Rings",
+    "category": "set1",
+    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Ff6ab00dacea84733868f9002fb0ed25a"
+  },
+  {
+    "id": 4,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=286,height=332,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F6e21f90c9e9f41688baeea092c56a7e2",
+    "alt": "Gemstone Rings",
+    "footer": "Gemstone Rings",
+    "category": "set1",
+    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F8a3f3390b5ce426e8fe0b5f8b788f600"
+  },
+  {
+    "id": 5,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=286,height=332,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F0caaf9242a0d492da1bc8677ec677d34",
+    "alt": "Fine Jewellery",
+    "footer": "Fine Jewellery",
+    "category": "set1",
+    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F064075fb3fad4356a991073d80d56f3b"
+  },
+  {
+    "id": 6,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=286,height=332,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F090d378a6b10409b9e3d69d3bbd825fe",
+    "alt": "Gifts",
+    "footer": "Gifts",
+    "category": "set1",
+    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F41e52609f91d40efa7d8bf460ae6c2ec"
+  }
+]

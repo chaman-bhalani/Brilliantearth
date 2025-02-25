@@ -1,0 +1,20 @@
+[
+  {
+    "id": 123,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fa9aa8fd2de794d0581588e4a187d878e",
+    "alt": "Design Your Own Earrings",
+    "title": "100% Renewable Energy Lab Diamonds",
+    "description": "Protect the planet with diamonds created from 100% renewable wind and solar energy.",
+    "buttons": ["Shop Now"],
+    "category": "set18"
+  },
+  {
+    "id": 124,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F635c28db892347bf84e349922de9eb2e",
+    "alt": "Design Your Own Necklace",
+    "title": "Truly Brilliant™ Diamonds",
+    "description": "Discover our premium collection of diamonds expertly curated for their traceability, sustainability, cut, color, and clarity.",
+    "buttons": ["Shop Now"],
+    "category": "set18"
+  }
+]

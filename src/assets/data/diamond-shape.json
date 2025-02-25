@@ -1,0 +1,72 @@
+[
+  {
+    "id": 8,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F5eceb83907d944e1a068eafcd691c786&w=96&q=75&dpl=452243e3d35ccf80fe0c1a2f79cc1c9833d4c7ae",
+    "alt": "Round",
+    "footer": "Round",
+    "category": "set2"
+  },
+  {
+    "id": 9,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F365788d569694912b79555fcca7b6be8&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Oval",
+    "footer": "Oval",
+    "category": "set2"
+  },
+  {
+    "id": 10,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fed7545b61198429891fe8314737ed03d&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Emrald",
+    "footer": "Emrald",
+    "category": "set2"
+  },
+  {
+    "id": 11,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F16c9dbe62f5a4ba4b4505f604d4af806&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Cushion",
+    "footer": "Cushion",
+    "category": "set2"
+  },
+  {
+    "id": 12,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F157c3412b22442ad8575444b14dd1283&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Pear",
+    "footer": "Pear",
+    "category": "set2"
+  },
+  {
+    "id": 13,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fef2b0d623b10430ab58a87b17106aa33&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Radinat",
+    "footer": "Radinat",
+    "category": "set2"
+  },
+  {
+    "id": 14,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F21423abdc53b4eeb877329a4b99d3cd4&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Princess",
+    "footer": "Princess",
+    "category": "set2"
+  },
+  {
+    "id": 15,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F300ff174910348fa8bb9d14c7281a459&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Marquise",
+    "footer": "Marquise",
+    "category": "set2"
+  },
+  {
+    "id": 16,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F03408d331fd448509c64ef71e0bd23b2&w=96&q=75&dpl=452243e3d35ccf80fe0c1a2f79cc1c9833d4c7ae",
+    "alt": "Asscher",
+    "footer": "Asscher",
+    "category": "set2"
+  },
+  {
+    "id": 17,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F773863a08196446fb0b19ff4ce894fd3&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Heart",
+    "footer": "Heart",
+    "category": "set2"
+  }
+]

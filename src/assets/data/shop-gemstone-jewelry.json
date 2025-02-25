@@ -1,0 +1,20 @@
+[
+  {
+    "id": 154,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fb594cf1d7268415d8a55367358a39836",
+    "alt": "Gemstone Jewelry",
+    "title": "Gemstone Jewelry",
+    "description": "Vibrant gemstone jewelry is perfect for any occasion.",
+    "buttons": ["Shop Gemstone jewelry"],
+    "category": "set18"
+  },
+  {
+    "id": 155,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F1039e33de7b1424f890edf58bdeb30fd",
+    "alt": "Cocktail Rings",
+    "title": "Cocktail Rings",
+    "description": "Go bold and bright with rare gemstones set in larger-than-life-designs.",
+    "buttons": ["Shop Cocktail Rings"],
+    "category": "set18"
+  }
+]

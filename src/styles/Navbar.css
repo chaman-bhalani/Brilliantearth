@@ -1,0 +1,190 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  position: relative;
+  flex-wrap: wrap;
+}
+.nav-items {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  margin: 0;
+}
+
+.nav-items li {
+  margin: 0 15px;
+  position: relative;
+}
+
+.nav-items a {
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+
+  transition: color 0.3s ease;
+}
+
+.nav-items a:hover {
+  color: #246646;
+}
+
+.dropdown,
+.wr-dropdown,
+.dr,
+.gs,
+.jl {
+  position: relative;
+}
+
+.dropdown a,
+.wr-dropdown a,
+.dr a,
+.gs a,
+.jl a {
+  cursor: pointer;
+  color: black;
+  display: inline-flex;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+}
+
+.er-dropdown-menu,
+.dropdown-menu,
+.dr-dropdown-menu,
+.gs-dropdown-menu,
+.jl-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  padding: 20px;
+  background-color: white;
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  z-index: 10;
+  display: none;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-left: -75vw;
+  transform: translateX(50%);
+}
+
+.er-dropdown-menu {
+  gap: 20px;
+}
+
+.dropdown-menu {
+  gap: 10px;
+}
+
+.dr-dropdown-menu {
+  gap: 20px;
+}
+
+.gs-dropdown-menu {
+  gap: 20px;
+}
+
+.jl-dropdown-menu {
+  gap: 20px;
+}
+
+.er-dropdown-menu .hh,
+.dropdown-menu .hh-wr,
+.dr-dropdown-menu .hh-dr,
+.gs-dropdown-menu .hh-gs,
+.jl-dropdown-menu .hh-jl {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* width: 100%; */
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+  font-weight: bold;
+  align-items: flex-start;
+  gap: 50px;
+  padding-right: 20px;
+}
+
+.er-dropdown-menu .hh > div,
+.dropdown-menu .hh-wr > div,
+.dr-dropdown-menu .hh-dr > div,
+.gs-dropdown-menu .hh-gs > div,
+.jl-dropdown-menu .hh-jl > div {
+  flex: 1;
+  text-align: left;
+}
+
+.er-dropdown-menu a,
+.dropdown-menu a,
+.dr-dropdown-menu a,
+.gs-dropdown-menu a,
+.jl-dropdown-menu a {
+  color: black;
+  display: block;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+
+  font-weight: 300;
+  padding: 8px 12px;
+  transition: 0.3s ease;
+}
+
+.er-dropdown-menu a:hover,
+.dropdown-menu a:hover,
+.dr-dropdown-menu a:hover,
+.gs-dropdown-menu a:hover,
+.jl-dropdown-menu a:hover {
+  color: #246646;
+}
+
+.er-dropdown-menu h5,
+.dropdown-menu h5,
+.dr-dropdown-menu h5,
+.gs-dropdown-menu h5,
+.jl-dropdown-menu h5 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+
+  margin-bottom: 10px;
+}
+
+.dropdown:hover .er-dropdown-menu,
+.wr-dropdown:hover .dropdown-menu,
+.dr:hover .dr-dropdown-menu,
+.gs:hover .gs-dropdown-menu,
+.jl:hover .jl-dropdown-menu {
+  display: flex;
+}
+
+.er-dropdown-menu .hh2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.dr-dropdown-menu h6 {
+  font-size: 12px;
+  font-weight: 400;
+}

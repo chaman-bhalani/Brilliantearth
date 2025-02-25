@@ -1,0 +1,72 @@
+[
+  {
+    "id": 133,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F556e5a429a844ced902077670803c1d5&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sapphire",
+    "footer": "Sapphire",
+    "category": "set20"
+  },
+  {
+    "id": 134,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F0a91a37c12fd4c5ea307a29120d3a64c&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Emerald",
+    "footer": "Emerald",
+    "category": "set20"
+  },
+  {
+    "id": 135,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Ff51bbf765dbb4fbd98f331c61abc73ff&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Moissanite",
+    "footer": "Moissanite",
+    "category": "set20"
+  },
+  {
+    "id": 136,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F901641959f8d40b88ec406df410f1d04&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Lab Colored Diamond",
+    "footer": "Lab Colored Diamond",
+    "category": "set20"
+  },
+  {
+    "id": 137,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F66da0744eaf04d458e97ec896ac23208&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Aquamarine",
+    "footer": "Aquamarine",
+    "category": "set20"
+  },
+  {
+    "id": 138,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fef2b0d623b10430ab58a87b17106aa33&w=96&q=75&dpl=b3530d37485180fb3324f4f5ca1d8a5102030132",
+    "alt": "Morganite",
+    "footer": "Morganite",
+    "category": "set20"
+  },
+  {
+    "id": 139,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fa0e870f5c8994ff68b6f188afb69c677&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Alexandrite",
+    "footer": "Alexandrite",
+    "category": "set20"
+  },
+  {
+    "id": 140,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F6769fb3f2101477fb37ea73cb3470cac&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Ruby",
+    "footer": "Ruby",
+    "category": "set20"
+  },
+  {
+    "id": 141,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F06b5d627940a4e20adfc081fe41cbb39&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Natural Colored Diamond",
+    "footer": "Natural Colored Diamond",
+    "category": "set20"
+  },
+  {
+    "id": 142,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fc6654e9e5cb3487a8aad56ce1b920ce4&w=96&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Tourmaline",
+    "footer": "Tourmaline",
+    "category": "set20"
+  }
+]

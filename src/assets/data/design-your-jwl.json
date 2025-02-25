@@ -1,0 +1,38 @@
+[
+  {
+    "id": 87,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F31e6ff52abf643199c12ade683c01683",
+    "alt": "Design Your Own Earrings",
+    "title": "Customize Your Earrings",
+    "description": "Select your setting and diamonds to create a unique pair of earrings.",
+    "buttons": ["Natural Diamond Earrings", "Lab Diamond Earrings"],
+    "category": "set10"
+  },
+  {
+    "id": 88,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F52528b9f9c7441bea4cece60ee59780e",
+    "alt": "Design Your Own Necklace",
+    "title": "Create Your Own Necklace",
+    "description": "Customize a solitaire necklace with a setting and gemstone that suit your style.",
+    "buttons": ["Diamond Necklaces", "Gemstone Necklace"],
+    "category": "set10"
+  },
+  {
+    "id": 89,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Febd511da843544969e5feff14066d56c",
+    "alt": "Instant Icons",
+    "title": "Personalized Bracelets",
+    "description": "Our cult-favorite fashion and cocktail rings steal the spotlight every time.",
+    "buttons": ["Shop Cocktail Rings", "Shop Fashion Rings"],
+    "category": "set10"
+  },
+  {
+    "id": 90,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=720,height=545,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F98b3d5229ff448818a30af411e26e13b",
+    "alt": "Design Your Own Gemstone Ring",
+    "title": "Create Your Gemstone Ring",
+    "description": "From brilliant moissanites to our colorful array of sapphires, pair a setting with a sparkling gemstone of your choice for a celebration of self-expression.",
+    "buttons": ["Start with a Setting", "Start with a Gemstone"],
+    "category": "set10"
+  }
+]

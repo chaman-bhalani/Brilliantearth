@@ -1,0 +1,335 @@
+.diamond-bg .photo-overlay-content {
+  color: white;
+}
+
+.diamond-bg .photo-head {
+  color: white;
+}
+
+.diamond-bg .photo-pera {
+  color: white;
+}
+
+.reverse-layout,
+.reverse-layout2 {
+  flex-direction: row-reverse;
+}
+
+.reverse-layout2 .price-btn1 {
+  width: 300px;
+  padding: 10px;
+}
+
+.shop-dmd {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+  padding: 20px;
+  width: 100%;
+}
+
+.shop-dmd .design-your-jwl {
+  background: #fff;
+  padding: 20px;
+  text-align: left;
+}
+
+.shop-dmd .dyj-image {
+  width: 700px;
+}
+
+.shop-dmd .dyj-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.shop-dmd .dyj-buttons {
+  display: flex;
+  justify-content: left;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.shop-dmd .dyj-buttons button {
+  background-color: white;
+  color: black;
+  border: solid black 1px;
+  font-size: 1rem;
+  width: 320px;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: 100;
+  transition: all 0.3s ease;
+}
+
+.shop-dmd .dyj-buttons button:hover {
+  background-color: rgb(52, 46, 46);
+  color: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.shop-dmd .dyj-image {
+  width: 100%;
+}
+
+.shop-dmd h1 {
+  font-size: 1.8rem;
+  font-family: var(--font-family);
+}
+
+.shop-dmd p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 1080px) {
+  .shop-dmd h1 {
+    font-size: 1.6rem;
+  }
+
+  .shop-dmd p {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .shop-dmd h1 {
+    font-size: 1.4rem;
+  }
+
+  .shop-dmd p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .shop-dmd h1 {
+    font-size: 1.2rem;
+  }
+
+  .shop-dmd p {
+    font-size: 0.85rem;
+  }
+}
+@media (max-width: 1080px) {
+  .shop-dmd {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    gap: 10px;
+    padding: 15px;
+  }
+  .shop-dmd .dyj-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  .shop-dmd .dyj-buttons button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .shop-dmd {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    gap: 10px;
+    padding: 15px;
+  }
+  .shop-dmd .dyj-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  .shop-dmd .dyj-buttons button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .shop-dmd {
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px;
+  }
+  .shop-dmd .dyj-buttons button {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+  .shop-dmd .dyj-image {
+    width: 100%;
+  }
+}
+
+.fl-collection .inv-para {
+  padding-left: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+.fl-collection .inv-btn-div {
+  padding-left: 10px;
+}
+.fl-collection .inv-btn {
+  width: 300px;
+  background-color: white;
+  border: 1px solid black;
+}
+.fl-collection .inv-btn:hover {
+  background-color: rgb(52, 46, 46);
+  color: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.blockchain-dmd .p-button {
+  display: flex;
+  justify-content: center;
+}
+
+.blockchain-dmd .price-btn1 {
+  width: 900px;
+  text-align: center;
+}
+
+.dmd-review-heading {
+  font-family: var(--font-family);
+  font-weight: lighter;
+  margin-bottom: 0px;
+}
+
+.dmd-review-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow-x: auto;
+  gap: 45px;
+  margin-bottom: 30px;
+}
+.dmd-review-cards .card {
+  width: 420px;
+  height: 600px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.dmd-review-cards .card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+@media (max-width: 1024px) {
+  .dmd-review-cards .card {
+    width: 80%;
+    height: 100%;
+  }
+  .dmd-review-cards .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 768px) {
+  .dmd-review-cards {
+    justify-content: space-around;
+  }
+
+  .dmd-review-cards .card {
+    width: 80%;
+    height: 100%;
+  }
+  .dmd-review-cards .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 480px) {
+  .dmd-review-cards .card {
+    width: 80%;
+    height: 100%;
+  }
+  .dmd-review-cards .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+
+.dmd-education {
+  padding: 20px;
+}
+
+.dmd-edud-head {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.dmd-edu-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.dmd-edu-cards {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background: #fff;
+  padding: 15px;
+}
+
+.dmd-edu-card-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.dmd-edu-cards h5 {
+  text-align: left;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.dmd-edu-text {
+  text-align: left;
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 5px;
+}
+
+@media (max-width: 1024px) {
+  .dmd-edu-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .dmd-edu-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .dmd-edud-head {
+    font-size: 1.6rem;
+  }
+
+  .dmd-edu-cards h5 {
+    font-size: 14px;
+  }
+
+  .dmd-edu-text {
+    font-size: 12px;
+  }
+}

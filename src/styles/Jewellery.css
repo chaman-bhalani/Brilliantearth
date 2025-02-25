@@ -1,0 +1,584 @@
+.Jewellery-head,
+.jwm-head,
+.jewellery-head {
+  font-size: 30px;
+  margin-bottom: 0;
+  text-align: left;
+  font-family: var(--font-family);
+  font-weight: lighter;
+}
+.jl-category-cards,
+.jwm-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow-x: auto;
+  gap: 15px;
+  padding: 10px;
+}
+.jl-category-cards .card,
+.jwm-cards .card {
+  width: 340px;
+  height: 440px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.jl-category-cards .card img,
+.jwm-cards .card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.jwm-cards .footer {
+  font-size: 14px;
+}
+@media (max-width: 1024px) {
+  .jl-category-cards .card,
+  .jwm-cards .card {
+    width: 340px;
+    height: 440px;
+  }
+  .jl-category-cards .card img,
+  .jwm-cards .card img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .jl-category-cards,
+  .jwm-cards {
+    justify-content: space-around;
+  }
+
+  .jl-category-cards .card,
+  .jwm-cards .car {
+    width: 270px;
+    height: 370px;
+  }
+  .jl-category-cards .card img,
+  .jwm-cards .card img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .jl-category-cards .card,
+  .jwm-cards .card {
+    width: 200px;
+    height: 300px;
+  }
+  .jl-category-cards .card img,
+  .jwm-cards .card img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.jl-category-cards .footer,
+.jwm-cards .footer {
+  padding-top: 15px;
+  text-align: left;
+  font-family: "Nimbus Mono PS", "Courier New", monospace;
+  font-weight: normal;
+}
+
+.popular-jewellery {
+  position: relative;
+  z-index: 2;
+}
+
+.popular-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  gap: 40px;
+}
+
+.popular-cards .card {
+  width: 204px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: none;
+  border-radius: 0;
+}
+
+.popular-cards .card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.footer {
+  margin-top: 0px;
+  color: rgb(0, 0, 0);
+  text-align: left;
+  padding-top: 0px;
+  font-family: "Nimbus Mono PS", "Courier New", monospace;
+  font-weight: normal;
+}
+
+@media (max-width: 1024px) {
+  .card {
+    width: 220px;
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 180px;
+  }
+}
+
+.design-your-jwl-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.design-your-jwl {
+  background: #fff;
+  padding: 20px;
+  text-align: left;
+}
+
+.dyj-image {
+  width: 100%;
+}
+
+.dyj-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.design-your-jwl h1 {
+  font-size: 1.8rem;
+}
+
+.design-your-jwl p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.dyj-buttons {
+  display: flex;
+  justify-content: left;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.dyj-buttons button {
+  background-color: white;
+  color: black;
+  border: solid black 1px;
+  font-size: 1rem;
+  width: 320px;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: 100;
+  transition: all 0.3s ease;
+}
+
+.dyj-buttons button:hover {
+  background-color: rgb(52, 46, 46);
+  color: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 1080px) {
+  .design-your-jwl-container {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    gap: 10px;
+    padding: 15px;
+  }
+
+  .design-your-jwl h1 {
+    font-size: 1.6rem;
+  }
+
+  .design-your-jwl p {
+    font-size: 0.85rem;
+  }
+
+  .dyj-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .dyj-buttons button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .design-your-jwl-container {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    gap: 10px;
+    padding: 15px;
+  }
+
+  .design-your-jwl h1 {
+    font-size: 1.4rem;
+  }
+
+  .design-your-jwl p {
+    font-size: 0.8rem;
+  }
+
+  .dyj-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .dyj-buttons button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .design-your-jwl-container {
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px;
+  }
+
+  .design-your-jwl h1 {
+    font-size: 1.2rem;
+  }
+
+  .design-your-jwl p {
+    font-size: 0.75rem;
+  }
+
+  .dyj-buttons button {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+
+  .dyj-image {
+    width: 100%;
+  }
+}
+
+.jwl-collections {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.jwl-collections-cards {
+  display: flex;
+  flex-direction: column;
+
+  text-align: center;
+  background: #fff;
+  padding: 15px;
+}
+
+.jwl-collections-image {
+  width: 100%;
+}
+
+.jwl-collections-img {
+  width: 100%;
+  height: auto;
+}
+
+.jwl-collections-cards h5 {
+  text-align: left;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.jwl-collections-cards p {
+  text-align: left;
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 5px;
+}
+@media (max-width: 1024px) {
+  .jwl-collections {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+
+  .jwl-collections-cards h5 {
+    font-size: 16px;
+  }
+
+  .jwl-collections-cards p {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 768px) {
+  .jwl-collections {
+    grid-template-columns: 1fr;
+  }
+
+  .jwl-collections-cards {
+    padding: 10px;
+  }
+
+  .jwl-collections-img {
+    max-height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .jwl-collections-cards h5 {
+    font-size: 14px;
+  }
+
+  .jwl-collections-cards p {
+    font-size: 12px;
+  }
+}
+
+.jewelry-reviews-head {
+  font-family: var(--font-family);
+  font-weight: lighter;
+  margin-bottom: 0px;
+}
+
+.jewelry-reviews-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow-x: auto;
+  gap: 45px;
+  margin-bottom: 30px;
+}
+.jewelry-reviews-cards .card {
+  width: 420px;
+  height: 600px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.jewelry-reviews-cards .card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+@media (max-width: 1024px) {
+  .jewelry-reviews-cards .card {
+    width: 80%;
+    height: 100%;
+  }
+  .jewelry-reviews-cards .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 768px) {
+  .jewelry-reviews-cards {
+    justify-content: space-around;
+  }
+
+  .jewelry-reviews-cards .card {
+    width: 80%;
+    height: 100%;
+  }
+  .jewelry-reviews-cards .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 480px) {
+  .jewelry-reviews-cards .card {
+    width: 80%;
+    height: 100%;
+  }
+  .jewelry-reviews-cards .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.jleducation {
+  padding: 20px;
+}
+
+.jewelry-education-head {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.jwl-education {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.jwl-education-cards {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background: #fff;
+  padding: 15px;
+}
+
+.jwl-education-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.jwl-education-cards h5 {
+  text-align: left;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.jwl-educatioin-text {
+  text-align: left;
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 5px;
+}
+
+@media (max-width: 1024px) {
+  .jwl-education {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .jwl-education {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .jewelry-education-head {
+    font-size: 1.6rem;
+  }
+
+  .jwl-education-cards h5 {
+    font-size: 14px;
+  }
+
+  .jwl-educatioin-text {
+    font-size: 12px;
+  }
+}
+
+.inf {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.info {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+}
+
+.info-head {
+  font-size: 2rem;
+  font-style: var(--font-family);
+  margin-bottom: 20px;
+}
+
+.info-para {
+  font-size: 1rem;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.6;
+  color: #333;
+  margin-bottom: 20px;
+  padding: 0 20px;
+}
+
+@media (max-width: 1024px) {
+  .inf {
+    padding: 15px;
+  }
+
+  .info {
+    max-width: 90%;
+  }
+
+  .info-head {
+    font-size: 1.8rem;
+  }
+
+  .info-para {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .inf {
+    padding: 10px;
+  }
+
+  .info {
+    max-width: 95%;
+  }
+
+  .info-head {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+  }
+
+  .info-para {
+    font-size: 0.9rem;
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .inf {
+    padding: 5px;
+  }
+
+  .info {
+    max-width: 100%;
+  }
+
+  .info-head {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+  }
+
+  .info-para {
+    font-size: 0.85rem;
+    padding: 0 10px;
+  }
+}

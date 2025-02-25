@@ -1,0 +1,38 @@
+[
+  {
+    "id": 208,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_Mission_Pillars_Transparency_2.jpg",
+    "title": "TRANSPARENCY",
+    "description": [
+      "We know where our precious metals and gemstones come from and how our jewelry is made. And we share that information with you — so you can feel good about the jewelry you're wearing.",
+      "Learn More"
+    ]
+  },
+  {
+    "id": 209,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_Mission-Pillars_Sustainability.jpg",
+    "title": "SUSTAINABILITY",
+    "description": [
+      "We use recycled and sustainable materials, apply energy-efficient practices, and minimize our carbon footprint.",
+      "Learn More"
+    ]
+  },
+  {
+    "id": 210,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_Mission-Pillars_Compassion.jpg",
+    "title": "COMPASSION",
+    "description": [
+      "We care about and are committed to our communities, our employees, and the people who help to bring our jewelry to life.",
+      "Learn More"
+    ]
+  },
+  {
+    "id": 211,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/about/About_Mission-Pillars_Inclusion.jpg",
+    "title": "INCLUSION",
+    "description": [
+      "We support and invest in our diverse teams to ensure every employee knows that they belong, and our designs are always crafted with inclusivity in mind.",
+      "Learn More"
+    ]
+  }
+]

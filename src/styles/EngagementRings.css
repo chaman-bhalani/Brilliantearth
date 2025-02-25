@@ -1,0 +1,264 @@
+.your-engagement-ring-head,
+.ser-by-style-head {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+.your-engagement-ring-cards,
+.ser-by-style-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 100%;
+  padding: 20px;
+}
+
+.your-engagement-ring-cards .card,
+.ser-by-style-cards .card {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .your-engagement-ring-cards,
+  .ser-by-style-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .your-engagement-ring-cards,
+  .ser-by-style-cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.our-signature-collection-head {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.our-signature-collection-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  width: 100%;
+}
+
+.our-signature-collection-cards {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+}
+
+.our-signature-collection-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.our-signature-collection-container h5 {
+  font-weight: 600;
+}
+.our-signature-collection-text {
+  font-size: 1rem;
+  color: #666;
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1.4;
+  margin-top: 10px;
+}
+
+@media (max-width: 1024px) {
+  .our-signature-collection-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .our-signature-collection-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .our-signature-collection-cards {
+    height: 600px;
+  }
+}
+
+@media (max-width: 480px) {
+  .our-signature-collection-cards {
+    height: 500px;
+  }
+}
+
+.err-review-head {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.err-review-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  width: 100%;
+  justify-content: center;
+}
+
+.err-review-cards .card {
+  width: 100%;
+  height: 500px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.err-review-cards .card img {
+  width: 100%;
+  height: 80%;
+  object-fit: cover;
+}
+
+.err-review-cards .card h5 {
+  font-size: 1rem;
+  font-family: var(--font-family);
+  font-weight: bold;
+  margin: 10px 0;
+  color: #333;
+}
+
+.err-review-cards .card p {
+  font-size: 0.9rem;
+  font-family: "Courier New", Courier, monospace;
+  color: #666;
+  line-height: 1.3;
+  padding: 0 10px;
+}
+
+@media (max-width: 1024px) {
+  .err-review-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .err-review-cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .err-review-cards .card {
+    height: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .err-review-cards .card {
+    height: 350px;
+  }
+}
+
+.engagement-ring-education {
+  width: 100%;
+  padding: 20px;
+}
+
+.engagement-ring-education-head {
+  font-family: var(--font-family);
+  font-weight: lighter;
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.eng-education {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+  padding: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: #aaa transparent;
+}
+
+.eng-education::-webkit-scrollbar {
+  height: 8px;
+}
+
+.eng-education::-webkit-scrollbar-thumb {
+  background: #aaa;
+  border-radius: 10px;
+}
+
+.eng-education-cards {
+  flex: 0 0 350px;
+  height: 440px;
+  background: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.eng-education-img {
+  width: 100%;
+  height: 315px;
+  object-fit: cover;
+}
+
+.eng-education-cards h5 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #222;
+  font-family: "Arial", sans-serif;
+  margin-top: 10px;
+}
+
+.eng-educatioin-text {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Courier New", Courier, monospace;
+  color: #333;
+}
+
+@media (max-width: 768px) {
+  .engagement-ring-education-head {
+    font-size: 32px;
+  }
+
+  .eng-education-cards {
+    flex: 0 0 250px;
+    height: 380px;
+  }
+
+  .eng-education-img {
+    height: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .engagement-ring-education-head {
+    font-size: 28px;
+  }
+
+  .eng-education-cards {
+    flex: 0 0 200px;
+    height: 340px;
+  }
+
+  .eng-education-img {
+    height: 250px;
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 172,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F6f1a73668caf4854be15cd325274ac77",
+    "alt": "Bridal Sets",
+    "title": "Bridal Sets",
+    "description": "Our curated collection of bridal sets features expertly matched engagement and wedding rings so you can find the perfect pairing.",
+    "buttons": ["Shop Now"],
+    "category": "set25"
+  },
+  {
+    "id": 173,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F102267d76a6e484a84684fead6d71789",
+    "alt": "Ready to Ship Engagement Rings",
+    "title": "Ready to Ship Engagement Rings",
+    "description": "Explore our top engagement rings set with handpicked lab diamonds. Each design is ready to ship your way right away — so you can propose now.",
+    "buttons": ["Shop Now"],
+    "category": "set25"
+  }
+]

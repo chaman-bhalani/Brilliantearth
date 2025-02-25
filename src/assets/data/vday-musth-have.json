@@ -1,0 +1,36 @@
+[
+  {
+    "id": 22,
+    "imgUrl": "https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F372f11aacdf04a2db2d6fbe1d671964e?format=webp&width=2000",
+    "alt": "valantine's day banner",
+    "category": "banner"
+  },
+  {
+    "id": 23,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fbd85f1a58e184b5dbc9de195b9f04446",
+    "alt": "Gifts Under $500",
+    "footer": "Gifts Under $500",
+    "category": "set4"
+  },
+  {
+    "id": 24,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F4e5e1db2b1a3486b8a61a3f636d1947d",
+    "alt": "Gifts for Her",
+    "footer": "Gifts for Her",
+    "category": "set4"
+  },
+  {
+    "id": 25,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F85dc9d2a49ec43b192ef744c70f913ca",
+    "alt": "Gifts for Him",
+    "footer": "Gifts for Him",
+    "category": "set4"
+  },
+  {
+    "id": 26,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=289,height=335,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fcb7a9cc4bd044484950b4ab6288ede44",
+    "alt": "Heart Shaped Jewellery",
+    "footer": "Heart Shaped Jewellery",
+    "category": "set4"
+  }
+]

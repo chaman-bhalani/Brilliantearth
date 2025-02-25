@@ -1,0 +1,605 @@
+[
+  {
+    "id": "36",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/5f/aa/5faa58db492f7873ea845676fa65d488.png",
+    "footer": "Secret Halo with 1ct Oval Certified Lab Diamond",
+    "price": "$1,990",
+    "alt": "Secret Halo with 1ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/bf/4f/bf4f5ea39f718de3f0b8d65afe0ea8a4.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/9e/49/9e49d108c17361aa36d0325991e4e3d6.webp",
+      "https://image.brilliantearth.com/media/thumbnail/2a/21/2a21bc3d3e9fbf4f4cbdde1f7de4cabf.jpg"
+    ],
+    "alternateFooter": "18K Gold Secret Halo with 1ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "37",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/cf/1d/cf1d1ccfc6a2e7762245ad37bd7c294e.webp",
+    "footer": "Secret Halo with 2ct Oval Certified Lab Diamond $4,090",
+    "price": "$4,090",
+    "alt": "Secret Halo with 2ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/b5/42/b5422aadd52a9c98ba958d781f729f74.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/4c/76/4c76d5f413a639577bbc3c508e6b47fd.webp",
+      "https://image.brilliantearth.com/media/thumbnail/16/7b/167bbafc6e75093fd99a5b02d6811ecf.jpg"
+    ],
+    "alternateFooter": "18K Gold Secret Halo with 2ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "38",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/79/fb/79fb0a069088968f832981bff6824a62.jpg",
+    "footer": "Aria Three Stone with 1ct Round Certified Lab Diamond",
+    "price": "$2,090",
+    "alt": "Aria Three Stone with 1ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/db/67/db67961a9ddd5ec2c323d333cff767d6.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/0a/dd/0addb65f2a62aa5fb3db043ef1681186.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/e2/f6/e2f6d7dd15d6add741c50c0580b26607.jpg"
+    ],
+    "alternateFooter": "18K White Gold Aria Three Stone with 1ct Round Certified Lab Diamond"
+  },
+
+  {
+    "id": "39",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/61/b1/61b190d1db9af5da713f506bb20c348f.jpg",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1ct Round Certified Natural Diamond",
+    "price": "$3,990",
+    "alt": "Petite Elodie 1.5mm Solitaire with 1ct Round Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/e8/43/e8431cf95ce041478e20c0c2efd55e07.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/03/e8/03e8e7407509eac4f99895569cd8823c.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/6e/c2/6ec28b68c4811d24ff76ca24c208b732.jpg"
+    ],
+    "alternateFooter": "18K White Gold Petite Elodie 1.5mm Solitaire with 1ct Round Certified Natural Diamond"
+  },
+  {
+    "id": "40",
+    "imgUrl": "https://image.brilliantearth.com/media/product_tile_images/20230818_Website_ReadytoShip_Tile1_615x756.jpg?v=1739347866",
+    "footer": "",
+    "price":"",
+    "alt": "",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/product_tile_images/20230818_Website_ReadytoShip_Tile1_615x756.jpg?v=1739347866"
+  },
+  {
+    "id": "41",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/69/2e/692efd91919a4b5b1f01936be9471135.webp",
+    "footer": "Demi with 1.5ct Round Certified Lab Diamond",
+    "price": "$3,190",
+    "alt": "Demi with 1.5ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/24/1f/241f326e9de073a5a901e7bacc5c3e40.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/e4/83/e483a58b3a522e6bf6626474d4a947f9.webp",
+      "https://image.brilliantearth.com/media/thumbnail/03/11/031183349a9c13145fb86d8e4b26a575.jpg"
+    ],
+    "alternateFooter": "18K White Gold Demi with 1.5ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "42",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/a3/fe/a3feb8b699dd5f9ee8b67d5f2dec023b.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1ct Oval Certified Lab Diamond",
+    "price": "$1,990",
+    "alt": "Petite Elodie 1.5mm Solitaire with 1ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/85/14/851499cd20301271882c818594714333.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/e0/a5/e0a5554cbe7007de79094521a4ee0d56.webp",
+      "https://image.brilliantearth.com/media/thumbnail/a6/6b/a66b81ef30eccb71d835d5796bbcbeef.jpg"
+    ],
+    "alternateFooter": "18K Gold Petite Elodie 1.5mm Solitaire with 1ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "43",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/ac/b8/acb82f9deaa194a0099a52de2325f25e.jpg",
+    "footer": "Aria Three Stone with 1ct Oval Certified Natural Diamond",
+    "price": "$4,290",
+    "alt": "Aria Three Stone with 1ct Oval Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/ce/1c/ce1ca2b3711eabd535ac2e4cc5ae3ae3.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/93/0d/930d6d6461d18264f04fb1ccaaade2ec.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/ef/15/ef15c0e7e602fd3513ff3b1ead539a84.jpg"
+    ],
+    "alternateFooter": " 18K White Gold Aria Three Stone with 1ct Oval Certified Natural Diamond"
+  },
+  {
+    "id": "44",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/d2/21/d2215612d8f76904dba3445a331d9ffa.webp",
+    "footer": "Demi with 2ct Oval Certified Lab Diamond",
+    "price": "$4,290",
+    "alt": "Demi with 2ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/e4/03/e403e15cdcdd0b2dad7e73b8ab1eadd5.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/50/d1/50d10e602466da2a1dea3b577efc8ee1.webp",
+      "https://image.brilliantearth.com/media/thumbnail/c9/fc/c9fc732e40cccf776a8132024f88d1be.jpg"
+    ],
+    "alternateFooter": "18K White Gold Demi with 2ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "45",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/6c/5d/6c5da1c1390bc42761dc9086da449f8b.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 2ct Oval Certified Lab Diamond",
+    "price": "$3,890",
+    "alt": "Petite Elodie 1.5mm Solitaire with 2ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/2e/d4/2ed45bec91d77f2bbbdb1b3dd122e1c6.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/ef/09/ef09552abef78da2d9cd67f10662dd77.webp",
+      "https://image.brilliantearth.com/media/thumbnail/73/a7/73a772d1177596ae26c7fe4ae4f51e53.jpg"
+    ],
+    "alternateFooter": "18K White Gold Petite Elodie 1.5mm Solitaire with 2ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "46",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/99/8c/998c5b713a8a48ba3c44f37819c3c4cd.jpg",
+    "footer": "Viviana with 1.5ct Oval Certified Natural Diamond",
+    "price": "$10,590",
+    "alt": "Viviana with 1.5ct Oval Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/ce/72/ce72a41c92c4199610ba720a8ab41931.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/51/74/51747c3ac3dd1f19d6b84c47e4de75d1.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/d6/40/d640dd308d18fa8c50b721549b4aef5d.jpg"
+    ],
+    "alternateFooter": " 18K gold Viviana with 1.5ct Oval Certified Natural Diamond"
+  },
+  {
+    "id": "47",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/7a/17/7a17beee3e4259fe41f8df7c4cfa481b.jpg",
+    "footer": "Aria Three Stone with 2ct Round Certified Lab Diamond",
+    "price": "$3,890",
+    "alt": "Aria Three Stone with 2ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/39/11/391169a57ae2dc5ab27bfb0d0687bc1f.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/22/e0/22e0d1a4fb55f0a8697959d462e5d891.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/39/11/391169a57ae2dc5ab27bfb0d0687bc1f.jpg"
+    ],
+    "alternateFooter": "18K Gold Aria Three Stone with 2ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "48",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/52/9e/529e7811af48d81f212f406462bcdc7f.jpg",
+    "footer": "Viviana with 1ct Oval Certified Lab Diamond",
+    "price": "$2,490",
+    "alt": "Viviana with 1ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/c4/6b/c46b3fb3abe9e601a25bd2c76b1bafbf.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/03/98/0398e6b5311102fa0c4f8f4f763456b2.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/88/5a/885a641ae59b6fb34b872980a3d4ca99.jpg"
+    ],
+    "alternateFooter": "18K White Gold Viviana with 1ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "49",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/5e/b4/5eb4a1286f86c8466e4dc1cb7f39a853.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 2ct Round Certified Lab Diamond",
+    "price": "$3,690",
+    "alt": "Petite Elodie 1.5mm Solitaire with 2ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/dc/eb/dceba11152222e5197cde4a5df983e3e.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/eb/e2/ebe2daf9e43492becf2560542981e4ac.webp",
+      "https://image.brilliantearth.com/media/thumbnail/e3/17/e31721e8da5fa5f6cd40874182d97737.jpg"
+    ],
+    "alternateFooter": "18K White Gold Petite Elodie 1.5mm Solitaire with 2ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "50",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/30/58/305835d4ae5c979ad2c20c313eb783d2.jpg",
+    "footer": "Aria Three Stone with 1ct Round Certified Natural Diamond",
+    "price": "$4,190",
+    "alt": "Aria Three Stone with 1ct Round Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/07/07/0707b5a22fb6db77aab668846a74a067.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/b0/38/b038b0403a3339e4ee3371115ba66183.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/a7/4e/a74e0ec3ba3923555ffa6323dc8927ef.jpg"
+    ],
+    "alternateFooter": "18K Yellow Gold Aria Three Stone with 1ct Round Certified Natural Diamond"
+  },
+  {
+    "id": "51",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/0e/6e/0e6ebbf6ab8f2450d94b20504d9b1c4c.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 2.5ct Emerald Certified Lab Diamond",
+    "price": "$4,990",
+    "alt": "Petite Elodie 1.5mm Solitaire with 2.5ct Emerald Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/ca/7f/ca7f4763a5714fb3a24dcc248fac12f1.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/cd/8c/cd8c1f7056263392245368c55ef8808f.webp",
+      "https://image.brilliantearth.com/media/thumbnail/b8/27/b82782c7137b097d0f5aab6ef9f6e8ff.jpg"
+    ],
+    "alternateFooter": "18K Yellow Gold Petite Elodie 1.5mm Solitaire with 2.5ct Emerald Certified Lab Diamond"
+  },
+  {
+    "id": "52",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/82/fd/82fd8107a7fc3771810c3ffc960b092a.jpg",
+    "footer": "Aria Three Stone with 1ct Oval Certified Lab Diamond",
+    "price": "$1,990",
+    "alt": "Aria Three Stone with 1ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/d6/f8/d6f84a464d3130b95d523bb16ecec43f.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/e2/12/e21245266c80989123088f24395b4381.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/01/71/0171e5d5182936692d4252ba3f916899.jpg"
+    ],
+    "alternateFooter": "18K White Gold Aria Three Stone with 1ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "53",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/34/c3/34c30c44aabf82af2a3506efa7a50852.jpg",
+    "footer": "Viviana with 1ct Round Certified Natural Diamond",
+    "price": "$4,590",
+    "alt": "Viviana with 1ct Round Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/bd/cb/bdcb1588847a1bf5341a2543242fc3e8.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/3f/1e/3f1ecd1b84adfe23aad0fbe8157b02c7.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/79/84/7984f8daf1d5a6358b3fd7564a401561.jpg"
+    ],
+    "alternateFooter": "18K White Gold Viviana with 1ct Round Certified Natural Diamond"
+  },
+  {
+    "id": "54",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/3c/9f/3c9f3afaa823920ba744f32dd95d548f.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1.5ct Round Certified Lab Diamond",
+    "price": "$2,690",
+    "alt": "Petite Elodie 1.5mm Solitaire with 1.5ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/c6/3c/c63c47c01a25153f3442dd6434649c44.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/8a/8b/8a8b6e0663ff044a64c00b1ed40d4abf.webp",
+      "https://image.brilliantearth.com/media/thumbnail/73/55/73550531f5b33c0b41bef2df486568a7.jpg"
+    ],
+    "alternateFooter": "18K Gold Petite Elodie 1.5mm Solitaire with 1.5ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "55",
+    "imgUrl": "https://image.brilliantearth.com/media/product_tile_images/RTS_Stylized_Tile_CMS_AlwaysCertified_615x756_DT.jpg?v=1739347866",
+    "footer": "",
+    "price":"",
+    "alt": "as",
+    "category": "set6",
+    "hoverUrl": ""
+  },
+  {
+    "id": "56",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/dd/12/dd129e0b71907d3297b88710c1419f62.jpg",
+    "footer": "Viviana with 2.5ct Round Certified Lab Diamond",
+    "price": "$5,690",
+    "alt": "Viviana with 2.5ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/3c/3f/3c3f0a120f6991334926e215bd10476c.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/d2/fe/d2fe78261407634dbe868d8811b574db.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/b0/51/b051b5ecf3120d52cac942b992d8e981.jpg"
+    ],
+    "alternateFooter": "18K White Gold Viviana with 2.5ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "57",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/ea/ed/eaed38f9c6e81f58ce65afc053279f14.jpg",
+    "footer": "Aria Three Stone with 1.5ct Oval Certified Lab Diamond",
+    "price": "$2,990",
+    "alt": "Aria Three Stone with 1.5ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/cf/ed/cfedc23ea0df6ca0a9bd15c0035e8202.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/b3/8d/b38d5545606ca417c058943645a29ad4.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/fa/bf/fabfed4e5671ef6bfa68ad34c590fce1.jpg"
+    ],
+    "alternateFooter": "18K White Gold Aria Three Stone with 1.5ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "58",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/e0/e4/e0e4af90a142887556709cd94cd89a59.jpg",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1ct Oval Certified Natural Diamond",
+    "price": "$3,990",
+    "alt": "Petite Elodie 1.5mm Solitaire with 1ct Oval Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/59/59/59591212625d9023c7b8961284bd802d.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/93/80/93809437dc54f6c60c9a1bdc99400ae9.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/0f/b5/0fb54c168f000896e5a7cf90548cae5e.jpg"
+    ],
+    "alternateFooter": "18K White Gold Petite Elodie 1.5mm Solitaire with 1ct Oval Certified Natural Diamond"
+  },
+  {
+    "id": "59",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/21/60/2160b5d184c3dc2a01d61213c75c7bad.webp",
+    "footer": "Demi with 2ct Round Certified Lab Diamond",
+    "price": "$4,190",
+    "alt": "Demi with 2ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/0f/b5/0fb54c168f000896e5a7cf90548cae5e.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/ad/d1/add1f7c0162769b680cbe7dd9f6bc59c.webp",
+      "https://image.brilliantearth.com/media/thumbnail/d5/5d/d55d604ac03f4cd7f6bf731ef339ac9e.jpg"
+    ],
+    "alternateFooter": "18K Gold Demi with 2ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "60",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/14/00/1400fb79288e3a0a31c9a5f313b2d077.webp",
+    "footer": "Secret Halo with 2.5ct Oval Certified Lab Diamond",
+    "price": "$5,190",
+    "alt": "Secret Halo with 2.5ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/cf/34/cf34cb5bff4180492bfdc0202f4f8f15.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/27/d9/27d98cb89792dff54ff168b2ce3988af.webp",
+      "https://image.brilliantearth.com/media/thumbnail/4c/0a/4c0a6a06bdcd45069f441725504619bb.jpg"
+    ],
+    "alternateFooter": "18K White Gold Secret Halo with 2.5ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "61",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/b6/86/b686371ee2341bb420844a2177107d76.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1ct Emerald Certified Lab Diamond",
+    "price": "$1,890",
+    "alt": "as",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/87/9c/879c32720c215774d5cdfb69c27df6e4.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/3c/71/3c71c0c80857d947c4c624790db6c424.webp",
+      "https://image.brilliantearth.com/media/thumbnail/c1/77/c17701186f46af5faf3d2ef30c124c19.jpg"
+    ],
+    "alternateFooter": "18K White Gold Petite Elodie 1.5mm Solitaire with 1ct Emerald Certified Lab Diamond"
+  },
+  {
+    "id": "62",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/0c/18/0c18e5bf9c6c10488a690ec25856a37a.webp",
+    "footer": "Nadia with 1.5ct Oval Certified Lab Diamond",
+    "price": "$3,390",
+    "alt": "Nadia with 1.5ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/67/a2/67a22948bdbd8b1225b2c83dba24e420.webp",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/1a/68/1a6822362a4621f522bc90ff97ebdfc1.webp",
+      "https://image.brilliantearth.com/media/thumbnail/ba/25/ba25e5453449b8841ba6977d61c35f0e.webp"
+    ],
+    "alternateFooter": "18K Gold  Nadia with 1.5ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "63",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/54/be/54be9d34fcd5737829d4840e414b220f.jpg",
+    "footer": "Viviana with 1ct Oval Certified Natural Diamond",
+    "price": "$4,690",
+    "alt": "Viviana with 1ct Oval Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/29/27/29275e62c034978b0d050b72604322e6.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/07/1a/071a00f6ed968e71ff400417b7b8897b.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/e4/02/e4023e24306b59215408d014def5ddac.jpg"
+    ],
+    "alternateFooter": "18K Yellow Gold Viviana with 1ct Oval Certified Natural Diamond"
+  },
+  {
+    "id": "64",
+    "imgUrl": "https://image.brilliantearth.com/media/product_tile_images/11.1.24_Ready_to_Ship_ERs_-_Updated_Stylized_Tile_Desktop_v2.jpg?v=1739347866",
+    "footer": "",
+    "price":"",
+    "alt": "as",
+    "category": "set6",
+    "hoverUrl": ""
+  },
+  {
+    "id": "65",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/30/33/30336dfe383c129cac1a91f756a7c39e.webp",
+    "footer": "Secret Halo with 1.5ct Oval Certified Lab Diamond",
+    "price": "$2,990",
+    "alt": "Secret Halo with 1.5ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/e2/a6/e2a63827897d8ff99097abe783c689ed.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/f7/73/f7739973a8dd710b6e905a06c75e5778.webp",
+      "https://image.brilliantearth.com/media/thumbnail/4a/ee/4aee4ea6cd031519cc7051d7f8009246.jpg"
+    ],
+    "alternateFooter": "18K White Gold Secret Halo with 1.5ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "66",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/df/28/df2839a41548573c5893ac59ec05d8bb.jpg",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1.5ct Oval Certified Natural Diamond",
+    "price": "$9,990",
+    "alt": "Petite Elodie 1.5mm Solitaire with 1.5ct Oval Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/d1/3c/d13ca2c04d9b759995e31bf334c43592.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/9b/11/9b119df861c54fcb9b5728ff739a380e.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/4f/e0/4fe0c2e12085074c2d4c4bc4197df175.jpg"
+    ],
+    "alternateFooter": "18K White Gold Petite Elodie 1.5mm Solitaire with 1.5ct Oval Certified Natural Diamond"
+  },
+  {
+    "id": "67",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/28/c0/28c0df01db8eb1d671f453240f3aa2f4.webp",
+    "footer": "Nadia with 2ct Oval Certified Lab Diamond",
+    "price": "$4,490",
+    "alt": "Nadia with 2ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/2b/b9/2bb99f1b65b4c4b06966d43896a29aa5.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/5e/8c/5e8cf977e48f2f73c2ab2ebbe85d7653.webp",
+      "https://image.brilliantearth.com/media/thumbnail/59/37/5937233473c58ca452be94586fc6f317.webp"
+    ],
+    "alternateFooter": "18K White Gold Nadia with 2ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "68",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/a7/20/a72053e1a1734c3685104d8b075da7ef.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1ct Round Certified Lab Diamond",
+    "price": "$1,890",
+    "alt": "Petite Elodie 1.5mm Solitaire with 1ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/6d/6b/6d6b922c0744e0d70843d9724e8f9ab0.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/d0/4c/d04c8e4ecdc0fb52b5a3a9f2e00b9f3d.webp",
+      "https://image.brilliantearth.com/media/thumbnail/26/fd/26fd738d728cd5dc0f542b7c73496289.jpg"
+    ],
+    "alternateFooter": "18K Gold Petite Elodie 1.5mm Solitaire with 1ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "69",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/a4/76/a476440445760c09faffa6b0c2571208.jpg",
+    "footer": "Viviana with 2ct Oval Certified Lab Diamond",
+    "price": "$4,490",
+    "alt": "Viviana with 2ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/2b/9a/2b9a8d3978328b8b0c360077ad55fadc.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/cb/af/cbafd6c9669db83d4aad5f7429e378e6.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/ee/a3/eea3d340a40f811545f535158158af3d.jpg"
+    ],
+    "alternateFooter": "18K White Gold Viviana with 2ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "70",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/35/38/3538d29a101d705709ae34814c08ad91.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 1.5ct Oval Certified Lab Diamond",
+    "price": "$2,890",
+    "alt": "Petite Elodie 1.5mm Solitaire with 1.5ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/ee/7d/ee7dffb71bf88d0143ff76f2661ee39a.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/70/80/7080ef70af1dd5f937357dd129468d9f.webp",
+      "https://image.brilliantearth.com/media/thumbnail/8e/f5/8ef5e68a52c1e2fee965429e5cd6a046.jpg"
+    ],
+    "alternateFooter": "18K White Gold Petite Elodie 1.5mm Solitaire with 1.5ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "71",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/de/46/de461c8849e46255e6e1f48fcd5a0055.jpg",
+    "footer": "Secret Halo with 2.5ct Round Certified Lab Diamond",
+    "price": "$5,190",
+    "alt": "Secret Halo with 2.5ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/03/64/0364c7f23814249d1c122c4f577efeeb.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/15/4f/154f03d5ae03ae9afdeca43be1a424f6.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/c0/45/c045cf32107cd071c2f7e9e314edda1c.jpg"
+    ],
+    "alternateFooter": "18K White Gold Secret Halo with 2.5ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "72",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/08/01/080175893a72ffac397e01dd4c0742ef.jpg",
+    "footer": "Aria Three Stone with 2.5ct Round Certified Lab Diamond",
+    "price": "$5,190",
+    "alt": "Aria Three Stone with 2.5ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/10/03/1003cf322f5c4e2c848cf5f2eeb488c7.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/9d/f7/9df79897335897ab91ccaa5c7fb9b854.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/5b/c9/5bc938617ef165a08fe1cecbcdad1eeb.jpg"
+    ],
+    "alternateFooter": "18K White Gold Aria Three Stone with 2.5ct Round Certified Lab Diamond"
+  },
+
+  {
+    "id": "73",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/93/e1/93e18c05b5bc975b9aeacf2a9e71c1d4.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 2.5ct Oval Certified Lab Diamond",
+    "price": "$4,990",
+    "alt": "Petite Elodie 1.5mm Solitaire with 2.5ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/d0/d1/d0d1da8abb773f485ca49bcc386298a5.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/9f/ed/9fed4668e37cd3f719f412de98386e6d.webp",
+      "https://image.brilliantearth.com/media/thumbnail/12/c7/12c779eb9706baa38f6a95993d760741.jpg"
+    ],
+    "alternateFooter": "18K Gold Petite Elodie 1.5mm Solitaire with 2.5ct Oval Certified Lab Diamond"
+  },
+  {
+    "id": "74",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/25/42/254275c9a43d228e786f827e774a5609.jpg",
+    "footer": "Viviana with 1.5ct Round Certified Natural Diamond",
+    "price": "$8,790",
+    "alt": "Viviana with 1.5ct Round Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/c3/3d/c33dd951c0066306b98da89fd446cd8d.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/e0/b1/e0b1ebcde672221e8d2d21fac1e51045.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/40/20/4020fb6286bf555eff3e05f618f4d4bf.jpg"
+    ],
+    "alternateFooter": "18K Gold Viviana with 1.5ct Round Certified Natural Diamond"
+  },
+  {
+    "id": "75",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/a6/c7/a6c7be80867cd6fdedbc6961e4638e94.png",
+    "footer": "Nadia with 2ct Round Certified Lab Diamond",
+    "price": "$4,290",
+    "alt": "Nadia with 2ct Round Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/7e/0e/7e0e19edf9d39a42ea3756b25acb42f2.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/ed/55/ed55faecbcb3b30b0210044bc50785a6.png",
+      "https://image.brilliantearth.com/media/thumbnail/d2/87/d287366ba3301610b19748a138eefcfb.jpg"
+    ],
+    "alternateFooter": "18K Gold Nadia with 2ct Round Certified Lab Diamond"
+  },
+  {
+    "id": "76",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/26/21/2621cb23d035f8adaab5e6ea37248fa4.webp",
+    "footer": "Petite Elodie 1.5mm Solitaire with 2ct Emerald Certified Lab Diamond",
+    "price": "$3,890",
+    "alt": "Petite Elodie 1.5mm Solitaire with 2ct Emerald Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/2f/55/2f55f8f538458c5d39b63170b7d4cecb.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/51/ac/51ac7502e6f8a40514b7884e53e88c21.webp",
+      "https://image.brilliantearth.com/media/thumbnail/61/37/6137d29ce851d5ca661f4166f855ea24.jpg"
+    ],
+    "alternateFooter": "18K Gold Petite Elodie 1.5mm Solitaire with 2ct Emerald Certified Lab Diamond"
+  },
+  {
+    "id": "77",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/8a/bc/8abc3e355dfc114b0013b56a68e60f23.jpg",
+    "footer": "Aria Three Stone with 1.5ct Round Certified Natural Diamond",
+    "price": "$8,390",
+    "alt": "Aria Three Stone with 1.5ct Round Certified Natural Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/ba/5c/ba5ce37ac3b00b184fe8c54750b9e457.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/4b/72/4b72a7fdb2cba84efbc9e55493dfb72d.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/ad/b7/adb7271fef69b7a91968a92f8a417931.jpg"
+    ],
+    "alternateFooter": "18K White Gold Aria Three Stone with 1.5ct Round Certified Natural Diamond"
+  },
+  {
+    "id": "78",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/b3/a0/b3a0611c1b6b57338f1dda77b81e8119.webp",
+    "footer": "Demi with 1.5ct Oval Certified Lab Diamond",
+    "price": "$3,190",
+    "alt": "Demi with 1.5ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/b8/48/b848be58565e838732d4be534dbe0cf5.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/22/55/2255f285c089b234fe075efea5ea010d.png",
+      "https://image.brilliantearth.com/media/thumbnail/e8/62/e86215368b7c53be960c5aa3a9f9c1cd.jpg"
+    ],
+    "alternateFooter": "18K Gold Demi with 1.5ct Oval Certified Lab Diamond $3,190"
+  },
+  {
+    "id": "79",
+    "imgUrl": "https://image.brilliantearth.com/media/thumbnail/68/14/68142f07383ae6bc95009bbec3d5ab56.jpg",
+    "footer": "Aria Three Stone with 2ct Oval Certified Lab Diamond",
+    "price": "$3,990",
+    "alt": "Aria Three Stone with 2ct Oval Certified Lab Diamond",
+    "category": "set6",
+    "hoverUrl": "https://image.brilliantearth.com/media/thumbnail/97/17/9717d31df2d502474c02b1f798f4c367.jpg",
+    "alternateImages": [
+      "https://image.brilliantearth.com/media/thumbnail/66/c6/66c62abb53294950580169f4caaab142.jpg",
+      "https://image.brilliantearth.com/media/thumbnail/3a/6c/3a6cbe1a7bda20beee9b53d4d762f2b5.jpg"
+    ],
+    "alternateFooter": "18K Gold Aria Three Stone with 2ct Oval Certified Lab Diamond"
+  }
+]
