@@ -3,12 +3,21 @@ import "../styles/ToggleCard.css";
 
 const ToggleCard = ({ data }) => {
   const [selectedIndex, setSelectedIndex] = useState(0);
+  const [isHovered, setIsHovered] = useState(false);
 
   return (
     <div className="card-container">
-      <div className="image-section">
+      <div
+        className="image-section"
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
+      >
         <img
-          src={data[selectedIndex].image}
+          src={
+            isHovered
+              ? data[selectedIndex].hoverUrl
+              : data[selectedIndex].imgUrl
+          }
           alt="toggle-img"
           className="toggle-image"
         />
@@ -28,6 +37,7 @@ const ToggleCard = ({ data }) => {
 
       <div className="footer">
         <p>{data[selectedIndex].footerText}</p>
+        <p className="price">{data[selectedIndex].price}</p>
       </div>
     </div>
   );

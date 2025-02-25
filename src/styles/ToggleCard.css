@@ -2,47 +2,82 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  width: 350px;
+  background: #fff;
   padding: 20px;
-  border-radius: 10px;
-  background: white;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  width: 250px;
+  text-align: center;
 }
 
 .image-section {
   width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
 }
 
 .toggle-image {
   width: 100%;
-  height: auto;
-  border-radius: 8px;
+  max-width: 200px;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
 }
 
 .toggle-buttons {
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .toggle-btn {
-  padding: 8px 12px;
+  width: 30px;
+  height: 30px;
+  min-width: 30px;
+  min-height: 30px;
+  border-radius: 50%;
+  background-color: #ddd;
+  border: 1px solid #aaa;
+  color: #333;
+  font-weight: bold;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
-  border-radius: 5px;
-  border: none;
-  background: #ddd;
-  transition: 0.3s;
+  transition: all 0.3s ease;
+  padding: 0;
+}
+
+.toggle-btn:hover {
+  background-color: #bbb;
 }
 
 .toggle-btn.active {
-  color: rgb(4, 4, 4);
-  font-weight: bold;
+  background-color: #000000;
+  color: white;
+  border-color: #000000;
 }
 
-.footer {
-  margin-top: 15px;
-  font-size: 14px;
-  color: #555;
+.toggle-btn:nth-child(1) {
+  background-color: #e5e4e2;
+}
+
+.toggle-btn:nth-child(2) {
+  background-color: goldenrod;
+}
+
+.toggle-btn:nth-child(3) {
+  background-color: #e7717d9b;
+}
+
+.toggle-btn:nth-child(4) {
+  background-color: #e5e4e2;
+}
+.footer p {
+  text-align: center;
+}
+
+.price {
+  text-align: center;
+  font-weight: bold;
 }

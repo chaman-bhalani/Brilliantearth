@@ -6,7 +6,6 @@ import { TbDiamond } from "react-icons/tb";
 import { GiGems } from "react-icons/gi";
 import { Link } from "react-router-dom";
 
-
 const Navbar = () => {
   const [dropdownState, setDropdownState] = useState({
     isDropdownOpen: false,

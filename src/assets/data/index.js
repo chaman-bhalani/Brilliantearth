@@ -48,3 +48,4 @@ export { default as AboutBgVideoData } from "./aboutpage-bgvideo.json";
 export { default as ourBeginningData } from "./our-beginning.json";
 export { default as missionPillarsData } from "./mission-pillars-cards.json";
 export { default as mteDataAboutPage } from "./more-to-explore-aboutpage.json";
+export { default as EngRingTgcData } from "./engagementring-tgc-data.json";

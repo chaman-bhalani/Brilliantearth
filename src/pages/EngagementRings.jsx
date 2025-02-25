@@ -10,6 +10,7 @@ import CollectionCards from "../components/CollectionCards";
 import AboutPoster from "../components/AboutPoster";
 import EthicMessageEngagementRing from "../components/EhicsMessageEngagementRing";
 import Footer from "../components/Footer";
+import ToggleCard from "../components/ToggleCard";
 
 import {
   logoData,
@@ -23,6 +24,7 @@ import {
   engagementRingReviewData,
   appointmentData,
   engagementRingsEducation,
+  EngRingTgcData,
 } from "../assets/data";
 
 const EngagementRings = () => {
@@ -59,12 +61,14 @@ const EngagementRings = () => {
     ));
   };
 
+  const renderToggleCards = (data) => {
+    return <ToggleCard data={EngRingTgcData} />;
+  };
+  
   return (
     <>
       <Logo logoSrc={logoUrl} altText="Company Logo" />
-
       <Navbar />
-
       <BackgroundImage
         imageSrc={backgroundData.imgUrl}
         heading={backgroundData.heading}
@@ -72,14 +76,15 @@ const EngagementRings = () => {
         buttons={backgroundData.buttons}
       />
 
-      <h1>Popular Engagement Rings</h1>
-      <img src="" alt="cards here" />
+      <div>
+        <h1>Popular Engagement Rings</h1>
+        <div className="app-container">{renderToggleCards(EngRingTgcData)}</div>
+      </div>
 
       <section className="shapes">
         <h1 className="shape-heading">Shop Diamonds by Shape</h1>
         <div className="shape-cards">{renderCards(set2Images)}</div>
       </section>
-
       <section>
         <h1 className="your-engagement-ring-head">
           Design Your Own Engagement Ring
@@ -88,14 +93,11 @@ const EngagementRings = () => {
           {renderCards(set23Images)}
         </div>
       </section>
-
       <section>
         <h1 className="ser-by-style-head">Shop Engagement Rings By Style</h1>
         <div className="ser-by-style-cards">{renderCards(set24Images)}</div>
       </section>
-
       <DesignYourJewelry data={engagementJewelryData} />
-
       <section>
         <h1 className="our-signature-collection-head">
           Explore Our Signature Collections
@@ -109,18 +111,15 @@ const EngagementRings = () => {
           textClass="our-signature-collection-text"
         />
       </section>
-
       <AboutPoster
         imageSrc={bgData.imgUrl}
         heading={bgData.heading}
         paragraph={bgData.paragraph}
       />
-
       <section>
         <h1 className="err-review-head">Engagement Ring Reviews</h1>
         <div className="err-review-cards">{renderCards(set27Images)}</div>
       </section>
-
       <div className="engagement-ring-education">
         <h1 className="engagement-ring-education-head">
           Engagement Ring Education
@@ -135,11 +134,9 @@ const EngagementRings = () => {
           textClass="eng-educatioin-text"
         />
       </div>
-
       <div className="ss-div">
         <img className="ss-img" src={ssUrl} alt="Appointment Banner" />
       </div>
-
       <section className="appointment">
         <h1 className="ap-heading">Our Experts Are Here For You</h1>
         <p className="ap-pera">
@@ -151,9 +148,7 @@ const EngagementRings = () => {
           <button className="ap-btn2">Book a Virtual Appointment</button>
         </div>
       </section>
-
       <EthicMessageEngagementRing />
-
       <Footer />
     </>
   );
