@@ -105,6 +105,8 @@
   color: white;
   font-family: "Courier New", Courier, monospace;
 }
+.mission-pillar-head h1{
+  margin-top:35px;}
 
 .mission-pillars-cards {
   display: flex;
