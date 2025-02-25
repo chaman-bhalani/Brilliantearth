@@ -61,10 +61,6 @@ const EngagementRings = () => {
     ));
   };
 
-  const renderToggleCards = (data) => {
-    return <ToggleCard data={EngRingTgcData} />;
-  };
-  
   return (
     <>
       <Logo logoSrc={logoUrl} altText="Company Logo" />
@@ -78,12 +74,16 @@ const EngagementRings = () => {
 
       <div>
         <h1>Popular Engagement Rings</h1>
-        <div className="app-container">{renderToggleCards(EngRingTgcData)}</div>
+        <div className="app-container">
+          {EngRingTgcData.map((card, index) => (
+            <ToggleCard key={index} data={card.data} />
+          ))}
+        </div>
       </div>
 
       <section className="shapes">
         <h1 className="shape-heading">Shop Diamonds by Shape</h1>
-        <div className="shape-cards">{renderCards(set2Images)}</div>
+        <div className="shape-cards">{renderCards(set2Images)}</div>2
       </section>
       <section>
         <h1 className="your-engagement-ring-head">

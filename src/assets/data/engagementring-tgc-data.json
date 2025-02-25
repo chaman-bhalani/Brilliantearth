@@ -1,26 +1,58 @@
 [
   {
-    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=250,height=250,quality=100,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/FR/BE1D6013_white_Oval_top_2_carat.png?new=1 ",
-    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/65/BE1D6013_OV_200ct_white_side1.jpg?new=1",
-    "footerText": "18K White Gold Nadia Diamond Ring",
-    "price": "$1,290"
+    "data": [
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=250,height=250,quality=100,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/FR/BE1D6013_white_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/65/BE1D6013_OV_200ct_white_side1.jpg?new=1",
+        "footerText": "18K White Gold Nadia Diamond Ring",
+        "price": "$1,290"
+      },
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/14/BE1D6013_yellow_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/52/BE1D6013_OV_200ct_yellow_side1.jpg?new=1",
+        "footerText": "18K Yellow Gold Nadia Diamond Ring",
+        "price": "$1,290"
+      },
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/1E/BE1D6013_rose_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/D5/BE1D6013_OV_200ct_rose_side1.jpg?new=1",
+        "footerText": "18K Rose Gold Nadia Diamond Ring",
+        "price": "$1,500"
+      },
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/FR/BE1D6013_white_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/65/BE1D6013_OV_200ct_white_side1.jpg?new=1",
+        "footerText": "Platinum Nadia Diamond Ring",
+        "price": "$1,500"
+      }
+    ]
   },
   {
-    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/14/BE1D6013_yellow_Oval_top_2_carat.png?new=1",
-    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/52/BE1D6013_OV_200ct_yellow_side1.jpg?new=1",
-    "footerText": "18K Yellow Gold Nadia Diamond Ring",
-    "price": "$1,290"
-  },
-  {
-    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/1E/BE1D6013_rose_Oval_top_2_carat.png?new=1",
-    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/D5/BE1D6013_OV_200ct_rose_side1.jpg?new=1",
-    "footerText": "18K Rose Gold Nadia Diamond Ring",
-    "price": "$1,290"
-  },
-  {
-    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/FR/BE1D6013_white_Oval_top_2_carat.png?new=1",
-    "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/65/BE1D6013_OV_200ct_white_side1.jpg?new=1",
-    "footerText": "PlatinumNadia Diamond Ring",
-    "price": "$1,500"
+    "data": [
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=250,height=250,quality=100,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/FR/BE1D6013_white_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/65/BE1D6013_OV_200ct_white_side1.jpg?new=1",
+        "footerText": "18K White Gold Bella Diamond Ring",
+        "price": "$1,350"
+      },
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/14/BE1D6013_yellow_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/52/BE1D6013_OV_200ct_yellow_side1.jpg?new=1",
+        "footerText": "18K Yellow Gold Bella Diamond Ring",
+        "price": "$1,350"
+      },
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/1E/BE1D6013_rose_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/D5/BE1D6013_OV_200ct_rose_side1.jpg?new=1",
+        "footerText": "18K Rose Gold Bella Diamond Ring",
+        "price": "$1,600"
+      },
+      {
+        "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/diamond_ring_vto/FR/BE1D6013_white_Oval_top_2_carat.png?new=1",
+        "hoverUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=500,height=500,quality=85,format=auto/https://image.brilliantearth.com/media/carat_image/65/BE1D6013_OV_200ct_white_side1.jpg?new=1",
+        "footerText": "Platinum Bella Diamond Ring",
+        "price": "$1,600"
+      }
+    ]
   }
 ]
