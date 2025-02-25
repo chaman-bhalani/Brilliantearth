@@ -74,9 +74,9 @@ const HomePage = () => {
 
       <br />
 
-      <section className="category">
-        <h1 className="category-heading">Shop Jewellery by Category</h1>
-        <div className="card-container">{renderCards(set1Images)}</div>
+      <section className="jl-category">
+        <h1 className="Jewellery-head">Shop Jewellery by Category</h1>
+        <div className="jl-category-cards">{renderCards(set1Images)}</div>
       </section>
 
       <section className="shapes">

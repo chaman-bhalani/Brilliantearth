@@ -138,25 +138,11 @@
   }
 }
 
-.category {
+.jl-category {
   margin-top: 100vh;
   position: relative;
   z-index: 2;
 }
-.category-heading {
-  margin-bottom: 0;
-  font-family: var(--font-family);
-  font-weight: lighter;
-}
-
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 20px;
-  gap: 40px;
-}
-
 .card {
   width: 204px;
   height: 300px;
