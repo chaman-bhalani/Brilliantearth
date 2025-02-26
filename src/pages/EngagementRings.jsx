@@ -83,7 +83,7 @@ const EngagementRings = () => {
 
       <section className="shapes">
         <h1 className="shape-heading">Shop Diamonds by Shape</h1>
-        <div className="shape-cards">{renderCards(set2Images)}</div>2
+        <div className="shape-cards">{renderCards(set2Images)}</div>
       </section>
       <section>
         <h1 className="your-engagement-ring-head">
