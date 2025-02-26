@@ -52,13 +52,13 @@
 
 .most-loved-olivetta {
   padding: 20px;
-  text-align: center; /* Centers the header */
+  text-align: center;
 }
 
 .mlov-head {
   font-size: 2rem;
   margin-bottom: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 .mlov-cards {
