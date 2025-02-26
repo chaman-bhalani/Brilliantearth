@@ -125,8 +125,16 @@
     "id": 236,
     "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F31a33353ce5a46519910b1699f0dd697",
     "alt": "the olivetta collection image",
-    "titl": "",
+    "title": "",
     "description": "An alternating pattern of round and pear diamonds is carefully placed to evoke the branches of an olive tree.",
+    "btnText": ["Shop Now"]
+  },
+  {
+    "id": 247,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fe00a99abb86c4bb1b7a2f9717219ab5f",
+    "alt": "The camellia collection image",
+    "title": "",
+    "description": "We captured the balance of a budding flower with textural details echoing a stem and diamond shapes that act as petal and leaf.",
     "btnText": ["Shop Now"]
   }
 ]

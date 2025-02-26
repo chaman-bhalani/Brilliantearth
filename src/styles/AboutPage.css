@@ -388,9 +388,7 @@
 .e-text h1::after {
   content: "";
   display: block;
-  width: 150px;
   height: 3px;
-  background-color: rgb(0, 0, 0);
   margin-top: 5px;
 }
 
