@@ -9,6 +9,7 @@ import Jewellery from "./pages/Jewellery";
 import Gift from "./pages/Gift";
 import About from "./pages/About";
 import ReadyToShip from "./pages/ReadyToShip";
+import SignatureCollections from "./pages/SignatureCollections";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/engagement-rings" element={<EngagementRings />} />
         <Route path="/ready-to-ship" element={<ReadyToShip />} />
+        <Route path="/signature-collection" element={<SignatureCollections />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />

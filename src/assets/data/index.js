@@ -49,3 +49,5 @@ export { default as ourBeginningData } from "./our-beginning.json";
 export { default as missionPillarsData } from "./mission-pillars-cards.json";
 export { default as mteDataAboutPage } from "./more-to-explore-aboutpage.json";
 export { default as EngRingTgcData } from "./engagementring-tgc-data.json";
+export { default as signatureCollectionImgData } from "./signature-collection-images.json";
+export { default as secretGardenCardData } from "./secret-garden-card.json";

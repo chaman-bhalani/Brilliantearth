@@ -112,5 +112,21 @@
     "title": "We're Here for You",
     "description": "Appointments are relaxed, joyful, and tailored to you. Whether it's a milestone moment or an everyday luxury, we're here to help you start your stack, find your fit, and design the perfect piece.",
     "btnText": ["Visit a Showroom", "Book a Virtual Appointment"]
+  },
+  {
+    "id": 235,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F64cfbb0e79ee4301bdc873276e9b4004",
+    "alt": "We're Here for You",
+    "title": "",
+    "description": "Marquise diamond accents, purposefully nestled within sweeping branches and vines, give the illusion of climbing leaves and buds. ",
+    "btnText": ["Shop Now"]
+  },
+  {
+    "id": 236,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F31a33353ce5a46519910b1699f0dd697",
+    "alt": "the olivetta collection image",
+    "titl": "",
+    "description": "An alternating pattern of round and pear diamonds is carefully placed to evoke the branches of an olive tree.",
+    "btnText": ["Shop Now"]
   }
 ]

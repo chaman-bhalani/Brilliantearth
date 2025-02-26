@@ -1,0 +1,76 @@
+.singnature-page-poster,
+.secret-garden-photo1,
+.the-olivetta-photo1 {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.secret-garden-collection {
+  margin-bottom: 20px;
+}
+
+.secret-garden-collection-head {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.most-loved-secret-garden {
+  padding: 20px;
+  text-align: center;
+}
+
+.mlsc-head {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.mlsc-cards {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 20px;
+  padding-bottom: 20px;
+}
+
+.mlsc-cards .card {
+  flex: 0 0 auto;
+  width: 280px;
+  height: 300px;
+}
+.mlsc-cards .card img {
+  width: 100%;
+  height: 100%;
+}
+.mlsc-cards .card .footer,
+.mlov-cards .card .footer {
+  text-align: center;
+  line-height: 1rem;
+}
+
+.most-loved-olivetta {
+  padding: 20px;
+  text-align: center; /* Centers the header */
+}
+
+.mlov-head {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.mlov-cards {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 20px;
+  padding-bottom: 20px;
+}
+
+.mlov-cards .card {
+  flex: 0 0 auto;
+  width: 280px;
+  height: 300px;
+}
