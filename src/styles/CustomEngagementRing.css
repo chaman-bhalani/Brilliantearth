@@ -1,25 +1,25 @@
 .customize-ring-head,
-.custom-ring-process-head{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+.custom-ring-process-head {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 .customize-ring-para,
-.custom-ring-process-para{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+.custom-ring-process-para {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
 }
 
-.crp-btn{
-    text-align: center;
+.crp-btn {
+  text-align: center;
 }
-.crp-btn .custom-ring-process-btn{
-    background-color: white;
-    border: 1px solid black;
+.crp-btn .custom-ring-process-btn {
+  background-color: white;
+  border: 1px solid black;
 }
 
-.crp-btn .custom-ring-process-btn:hover{
-    background-color: rgb(52, 46, 46);
+.crp-btn .custom-ring-process-btn:hover {
+  background-color: rgb(52, 46, 46);
   color: white;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
 }

@@ -40,7 +40,10 @@ const CustomEngagementRing = () => {
     customizeRingData,
     "ecr-collection"
   );
-  const ecrWeddingRings = filterImageByCategory (customizeRingData, "ecr-wedding");
+  const ecrWeddingRings = filterImageByCategory(
+    customizeRingData,
+    "ecr-wedding"
+  );
 
   const renderCards = (imageArray) => {
     return imageArray.map((item) => (
@@ -68,7 +71,7 @@ const CustomEngagementRing = () => {
         buttons={backgroundData.buttons}
       />
 
-      <div>
+      <div className="custom-design-yourself-container">
         <h1 className="customize-ring-head">
           Completely Custom or Design it Yourself
         </h1>
@@ -80,10 +83,10 @@ const CustomEngagementRing = () => {
           your perfect piece awaits.
         </p>
 
-        <DesignYourJewelry data={customRing} />
+        <DesignYourJewelry data={customRing} className="customize-ring-cards"/>
       </div>
 
-      <div>
+      <div className="custom-ring-process-container">
         <h1 className="custom-ring-process-head">The Custom Ring Process</h1>
         <p className="custom-ring-process-para">
           Creating one-of-a-kind custom jewelry celebrates your unique
@@ -94,7 +97,7 @@ const CustomEngagementRing = () => {
           $2,000.
         </p>
         <div className="crp-btn">
-        <button className="custom-ring-process-btn">Request a Quote</button>
+          <button className="custom-ring-process-btn">Request a Quote</button>
         </div>
         <DesignYourJewelry data={customRingProcess} />
       </div>
@@ -121,7 +124,9 @@ const CustomEngagementRing = () => {
           </p>
           <button className="ecr-btn">Explore Custom Wedding Rings</button>
         </div>
-        <div className="ecr-collection-cards">{renderCards(ecrWeddingRings)}</div>
+        <div className="ecr-collection-cards">
+          {renderCards(ecrWeddingRings)}
+        </div>
       </div>
 
       <Footer />
