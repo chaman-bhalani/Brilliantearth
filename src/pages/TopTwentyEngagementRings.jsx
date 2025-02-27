@@ -52,7 +52,7 @@ const TopTwentyEngagementRings = () => {
         <Collection
           key={index}
           data={data}
-          className={index % 2 === 0 ? "" : "reverse-top-rings"}
+          className={index % 2 === 0 ? "top-twenty-rings" : "reverse-top-rings"}
         />
       ))}
 
