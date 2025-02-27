@@ -12,6 +12,7 @@ import ReadyToShip from "./pages/ReadyToShip";
 import SignatureCollections from "./pages/SignatureCollections";
 import TopTwentyEngagementRings from "./pages/TopTwentyEngagementRings";
 import CustomEngagementRing from "./pages/CustomEngagementRing";
+import WeveGotYouCovered from "./pages/WeveGotYouCovered";
 
 function App() {
   return (
@@ -20,9 +21,16 @@ function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/engagement-rings" element={<EngagementRings />} />
         <Route path="/ready-to-ship" element={<ReadyToShip />} />
-        <Route path="/signature-collection" element={<SignatureCollections />} />
-        <Route path="/top-20"  element={<TopTwentyEngagementRings />} />
-        <Route path="/custom-engagement-rings" element={<CustomEngagementRing/>} />
+        <Route
+          path="/signature-collection"
+          element={<SignatureCollections />}
+        />
+        <Route path="/top-20" element={<TopTwentyEngagementRings />} />
+        <Route
+          path="/custom-engagement-rings"
+          element={<CustomEngagementRing />}
+        />
+        <Route path="/weve-got-you-covered" element={<WeveGotYouCovered />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />

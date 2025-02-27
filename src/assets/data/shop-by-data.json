@@ -304,5 +304,37 @@
     "title": "Unique Engagement Rings",
     "description": "A curated collection of distinctive designs from the imaginations of our award-winning designers.",
     "btnText": ["Shop Unique Enganement Rings"]
+  },
+  {
+    "id": 312,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F8cf1aa01722a48fdb0f3754428853ac4",
+    "alt": "Unique Engagement Rings",
+    "title": "Free Lifetime Warranty",
+    "description": "We stand behind the quality of our designs and offer a free lifetime warranty on all products.",
+    "btnText": ["Learn More"]
+  },
+  {
+    "id": 313,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fca9bbacb914d4ae9b35465878c538dbd",
+    "alt": "Unique Engagement Rings",
+    "title": "Lifetime Diamond Upgrade",
+    "description": "When you're ready for something new, we offer a full credit toward a diamond upgrade.",
+    "btnText": ["Learn More"]
+  },
+  {
+    "id": 318,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F0cdecd5246924c3a8eb6b334e1483b3c",
+    "alt": "buynow,paylater",
+    "title": "Buy Now, Pay Later",
+    "description": "Choose from our flexible financing options, including Affirm, layaway plans, and more, with rates as low as 0% APR.",
+    "btnText": ["Learn More"]
+  },
+  {
+    "id": 319,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F8ffe4408f0e745d380df891a2bcd22a5",
+    "alt": "buynow,paylater",
+    "title": "Our Promotions and Offers",
+    "description": "Instead of traditional markdowns, we offer unique opportunities for you to get even more jewelry.",
+    "btnText": ["Explore Our Promos", "Start Shopping"]
   }
 ]

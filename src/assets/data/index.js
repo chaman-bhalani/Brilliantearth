@@ -53,3 +53,5 @@ export { default as signatureCollectionImgData } from "./signature-collection-im
 export { default as secretGardenCardData } from "./secret-garden-card.json";
 export { default as mteTopRingsData } from "./mte-top-rings.json";
 export { default as customizeRingData } from "./customize-ring.json";
+export { default as unmatchedCareData } from "./unmatched-care.json";
+
