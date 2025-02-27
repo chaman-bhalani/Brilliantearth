@@ -10,6 +10,7 @@ import Gift from "./pages/Gift";
 import About from "./pages/About";
 import ReadyToShip from "./pages/ReadyToShip";
 import SignatureCollections from "./pages/SignatureCollections";
+import TopTwentyEngagementRings from "./pages/TopTwentyEngagementRings";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/engagement-rings" element={<EngagementRings />} />
         <Route path="/ready-to-ship" element={<ReadyToShip />} />
         <Route path="/signature-collection" element={<SignatureCollections />} />
+        <Route path="/top-20"  element={<TopTwentyEngagementRings />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />

@@ -82,5 +82,17 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fa38ca0c3ffe641019fa1c405bb136917",
+    "altText": "Background Image",
+    "heading": "Best Engagement Rings",
+    "paragraph": "Explore our top 20 engagement rings that showcase stunning, exclusive designs.",
+    "buttons": [
+      {
+        "text": "Shop Engagement Rings",
+        "link": ""
+      }
+    ]
   }
 ]

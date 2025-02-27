@@ -95,7 +95,7 @@ const SignatureCollections = () => {
         <h1 className="olivetta-collection-head">
           The Secret Garden Collection
         </h1>
-        <Collection data={shopByData[14]} className="reverse-sngr"/>
+        <Collection data={shopByData[14]} className="reverse-sngr" />
         <img src={thirdUrl} alt="abcd" className="the-olivetta-photo1" />
         <h2 className="collection-head">Timeless & Evocative</h2>
         <p className="collection-para">
