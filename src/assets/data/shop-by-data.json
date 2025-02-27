@@ -296,5 +296,13 @@
     "title": "20.Fiore",
     "description": "Diamond Ring",
     "btnText": []
+  },
+  {
+    "id": 301,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F26939a1d72a846b18b52f00c39b94ed5",
+    "alt": "Unique Engagement Rings",
+    "title": "Unique Engagement Rings",
+    "description": "A curated collection of distinctive designs from the imaginations of our award-winning designers.",
+    "btnText": ["Shop Unique Enganement Rings"]
   }
 ]

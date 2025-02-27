@@ -15,9 +15,11 @@ import {
 } from "../assets/data";
 
 const TopTwentyEngagementRings = () => {
+
   const getUrl = (data, index = 0, key = "imgUrl") => {
     return Array.isArray(data) ? data[index][key] : data[key];
   };
+  
   const logoUrl = getUrl(logoData, 0, "logoUrl");
 
   const backgroundData = Array.isArray(bgImgGftData)

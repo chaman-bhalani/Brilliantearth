@@ -94,5 +94,21 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F17feeb906fb94b56b8b1dc5644a340cb",
+    "alt": "Background Image",
+    "heading": "Custom Rings",
+    "paragraph": "Bring your vision to life by customizing a one-of-a-kind engagement or wedding ring alongside our award-winning designers.",
+    "buttons": [
+      {
+        "text": "Shop Engagement Rings",
+        "link": ""
+      },
+      {
+        "text": "Custom Wedding Rings",
+        "link": ""
+      }
+    ]
   }
 ]

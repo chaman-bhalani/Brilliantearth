@@ -1,0 +1,196 @@
+[
+  {
+    "id": 285,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F96f3bf4e24054f2bb67e9ed8642cc439",
+    "alt": "Design Your Own Gemstone Ring",
+    "title": "Create a One-of-a-Kind Custom Design",
+    "description": "Our custom engagement ring process allows you to work 1:1 with a design consultant to create a completely one-of-a-kind design to your exact specifications. Just bring your vision, and we’ll craft it into reality.",
+    "buttons": [],
+    "category": "customize-ring"
+  },
+  {
+    "id": 286,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fc30c7aac28d846628e1cca131b100c20",
+    "alt": "Design From Our Curated Styles",
+    "title": "Design From Our Curated Styles",
+    "description": "Our design-it-yourself engagement rings allow you to choose your own center stone and setting from our curated styles, then finish the piece in the metal and size of your choice.",
+    "buttons": ["Get Started"],
+    "category": "customize-ring"
+  },
+  {
+    "id": 287,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fe3b0e89d0f124cf4bcea1af0a75a86a8",
+    "alt": "Step 1: Quote Request",
+    "title": "Step 1: Quote Request",
+    "description": "Tell us about your design concept, precious metal preference, accent gemstones, and ring size to receive a complimentary quote.",
+    "buttons": ["Request a Quote", "Find Your Ring Size"],
+    "category": "customize-ring-process"
+  },
+  {
+    "id": 288,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F6b5aa0559f844873ac7617896081e3e7",
+    "alt": "Step 2: Concept",
+    "title": "Step 2: Concept",
+    "description": "Our design consultants are experts at taking your ideas, imagination, and inspiration to determine your dream design. Meanwhile, our GIA Graduate Gemologists will help you select the perfect gemstones.",
+    "buttons": [],
+    "category": "customize-ring-process"
+  },
+  {
+    "id": 289,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F90035f488a5446079b627a9e83d7cb79",
+    "alt": "Step 3: Computerized Model",
+    "title": "Step 3: Computerized Model",
+    "description": "Once your initial concept is finalized and an order is placed, we’ll work directly with you to create a computerized model, ensuring every detail is to your standards—and ours—before receiving your approval on a final design.",
+    "buttons": [],
+    "category": "customize-ring-process"
+  },
+  {
+    "id": 290,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F4a261c5d712942768f713cd94442781e",
+    "alt": "Step 4: Final Creation",
+    "title": "Step 4: Final Creation",
+    "description": "Our artisans create your custom ring to the highest standards of craftsmanship, paying meticulous attention to every detail of its one-of-a-kind design. Once complete, our Quality Assurance team carefully inspects it and then ships it to you.",
+    "buttons": [],
+    "category": "customize-ring-process"
+  },
+  {
+    "id": 291,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fcbb8eac5ec0042afa36c131f09ddcd71&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Diamond and Aquamarine Toi Et Moi Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 292,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F5f1bef8a97e44fc09ac12540bfae54c6&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Twisting Oval Diamond Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 293,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F344fa77814154ae091db79d9e8847b9f&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Antique Inspired Floral Milgrain Diamond Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 294,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fc677f6775e25414896112c317379c7bb&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Marquise Diamond and Emrald Toi Et Moi Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 295,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F4bb6079f9feb4f30b25d1d865f8c987f&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Baguette and Pave Diamond Halo Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 296,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fd60e6816ee0d42768159bd7f076bf584&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Engraved Emerald Ring with Trillion Accents",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 297,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F05fd0775ff264d6e969cc1456c032f82&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Floral Twisted Diamond Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 298,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F390b3473ce9648d495313a85a70338c6&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Cluster Accent and Channel Set Diamond Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 299,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F2af347cefb0944ac834e6aceb0295468&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Luxe Heirloom Diamond Ring",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 300,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Feb47b86dab89463681b37b3dcadf70e8&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "abcd",
+    "footer": "Floral Milgrain Ring With Emrald Accents",
+    "category": "ecr-collection"
+  },
+  {
+    "id": 302,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fac03ec18526a4e3a9ef65b3d2e1ec35f&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Chevron Diamond Baguette Ring",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 303,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F98d19611d35948a29a4fe854ff605a83&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Winding Diamond Bud Eternity Ring",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 304,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F88ec1a7c4c6947259d9273d6d67f961c&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Knurled Men's Wedding Band",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 305,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F915cb5cf2ebd40e3873b0d14ef1232e2&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Crossover Diamond Ring",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 306,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F14e971d936d847f7a35f924a27733dce&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Textured Mens Wedding Ring",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 307,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F07fb32039e6640d2af5f45ccd69347e4&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Emrald Wedding Band",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 308,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fb8650d651c934204b6c3513221e9c4c4&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Pacific Current Rings",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 309,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F22746358c2734a5f8656cfa5f55981a7&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Raised Ivy Rings",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 310,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F3ab5edcff187467398712100017dd7b1&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Vintage Inspired Contoured Wedding Band",
+    "category": "ecr-wedding"
+  },
+  {
+    "id": 311,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fe1125b5d4710483caf26492b5fbd89e5&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Custom Wedding Ring  Ring",
+    "footer": "Blooming Willow Inspired Rings",
+    "category": "ecr-wedding"
+  }
+]
