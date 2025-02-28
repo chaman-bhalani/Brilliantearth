@@ -97,7 +97,7 @@
   display: flex;
   justify-content: center;
   gap: 50px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .dydr-cards {
@@ -121,6 +121,7 @@
   color: black;
   text-align: center;
 }
+
 .dydr-cards h5 {
   font-size: 20px;
   font-weight: bold;
@@ -132,16 +133,101 @@
   gap: 20px;
   justify-content: center;
 }
+
 .dydr-btn1,
 .dydr-btn2 {
   background-color: #183e40;
   color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
 }
+
 .dydr-btn1:hover,
 .dydr-btn2:hover {
   color: black;
   background-color: white;
   border: 1px solid black;
+}
+
+@media screen and (max-width: 1024px) {
+  .dydr-head {
+    font-size: 28px;
+  }
+
+  .dydr-container {
+    gap: 30px;
+  }
+
+  .dydr-cards {
+    width: 250px;
+  }
+
+  .dydr-img {
+    height: 100%;
+  }
+
+  .dydr-btns {
+    gap: 15px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .dydr-head {
+    font-size: 24px;
+  }
+
+  .dydr-container {
+    gap: 20px;
+    justify-content: space-between;
+  }
+
+  .dydr-cards {
+    width: 200px;
+  }
+
+  .dydr-img {
+    height: 100%;
+  }
+
+  .dydr-btns {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .dydr-btn1,
+  .dydr-btn2 {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .dydr-head {
+    font-size: 20px;
+  }
+
+  .dydr-container {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .dydr-cards {
+    width: 100%;
+  }
+
+  .dydr-img {
+    height: 100%;
+  }
+
+  .dydr-btns {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .dydr-btn1,
+  .dydr-btn2 {
+    width: 100%;
+  }
 }
 
 .mte-diamond-innovation {
