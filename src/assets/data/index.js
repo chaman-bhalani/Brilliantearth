@@ -54,4 +54,5 @@ export { default as secretGardenCardData } from "./secret-garden-card.json";
 export { default as mteTopRingsData } from "./mte-top-rings.json";
 export { default as customizeRingData } from "./customize-ring.json";
 export { default as unmatchedCareData } from "./unmatched-care.json";
-
+export { default as innovationData } from "./innovation-diamond.json";
+export { default as dydrData } from "./dydr-innovation.json";

@@ -1,0 +1,245 @@
+.innovation-info-head {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.innovation-info-para1,
+.innovation-info-para2 {
+  font-size: 18px;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 20px auto;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.innovation-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.fl-cl-para {
+  margin-top: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.fl-cl-btn {
+  background-color: white;
+  border: 1px solid black;
+  width: 200px;
+}
+.jane-goodall-collection {
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.jgc-head {
+  text-align: left;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.jgc-cards {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+  padding-bottom: 10px;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  justify-content: flex-start;
+}
+
+.jgc-cards .card {
+  width: 400px;
+  height: auto;
+  flex-shrink: 0;
+  flex-grow: 0;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.jgc-cards .card img {
+  width: 100%;
+  height: auto;
+}
+
+.jgc-cards .card .footer {
+  padding: 10px;
+  color: black;
+  font-size: 14px;
+  text-align: center;
+}
+
+.design-your-deam-ring {
+  text-align: center;
+  padding: 20px;
+}
+
+.dydr-head {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.dydr-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: nowrap;
+}
+
+.dydr-cards {
+  width: 300px;
+  height: auto;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.dydr-img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.dydr-text {
+  font-family: "Courier New", Courier, monospace;
+  padding: 6px;
+  font-size: 14px;
+  color: black;
+  text-align: center;
+}
+.dydr-cards h5 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.dydr-btns {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.dydr-btn1,
+.dydr-btn2 {
+  background-color: #183e40;
+  color: white;
+}
+.dydr-btn1:hover,
+.dydr-btn2:hover {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.mte-diamond-innovation {
+  text-align: center;
+  padding: 20px;
+}
+
+.mte-diamond-innovation-head {
+  text-align: left;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 20px;
+}
+
+.mte-di-in-cards {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: nowrap;
+  padding-bottom: 10px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.mte-di-in-cards .card {
+  width: 300px;
+  height: 400px;
+  cursor: pointer;
+  flex-direction: column;
+}
+
+.mte-di-in-cards .card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mte-di-in-cards .card .footer {
+  padding: 10px;
+  color: black;
+  font-size: 14px;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .mte-diamond-innovation-head {
+    font-size: 28px;
+  }
+
+  .mte-di-in-cards {
+    gap: 30px;
+  }
+
+  .mte-di-in-cards .card {
+    width: 250px;
+    /* height: 350px; */
+  }
+  .mte-di-in-cards .card img {
+    width: 100%;
+    height: 95%;
+  }
+}
+
+@media (max-width: 768px) {
+  .mte-diamond-innovation-head {
+    font-size: 24px;
+  }
+
+  .mte-di-in-cards {
+    gap: 20px;
+  }
+
+  .mte-di-in-cards .card {
+    width: 200px;
+    /* height: 300px; */
+  }
+  .mte-di-in-cards .card img {
+    width: 100%;
+    height: 95%;
+  }
+}
+
+@media (max-width: 480px) {
+  .mte-diamond-innovation-head {
+    font-size: 20px;
+  }
+
+  .mte-di-in-cards {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .mte-di-in-cards .card {
+    width: 100%;
+    /* height: 250px; */
+  }
+  .mte-di-in-cards .card img {
+    width: 100%;
+    height: 95%;
+  }
+}
