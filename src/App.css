@@ -477,11 +477,34 @@
 
 .exclusive {
   display: flex;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  padding-left: 30px;
+  justify-content: space-between;
+}
+
+.reverse-layout {
+  flex-direction: row-reverse;
+}
+
+.first {
+  font-style: var(--font-family);
+}
+
+.second {
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: lighter;
+}
+
+.exclusive {
+  display: flex;
   flex-direction: row;
   align-items: center;
   text-align: center;
   margin-top: 0px;
 }
+
 .exc-btn {
   background-color: white;
   color: black;
@@ -493,17 +516,20 @@
   font-weight: 100;
   transition: all 0.3s ease;
 }
+
 .exc-btn:hover {
   background-color: rgb(52, 46, 46);
   color: white;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
 }
+
 .e-text {
   margin-left: auto;
   margin-right: auto;
   max-width: 600px;
   text-align: center;
 }
+
 .sol-img {
   margin: 50px auto;
   max-width: 100%;
@@ -515,50 +541,59 @@
   .exclusive {
     flex-direction: column;
     padding: 10px;
+    align-items: center;
   }
 
   .e-text {
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
     font-size: 1rem;
+    text-align: center;
   }
 
   .sol-img {
-    margin-left: 0px;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
     max-width: 100%;
   }
+
   .sol-img img {
     width: 100%;
-    height: 100%;
+    height: auto;
   }
 
   .exc-btn {
     width: 90%;
     font-size: 0.9rem;
+    margin-top: 15px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .e-text {
-    margin-top: 30px;
+    margin-top: 20px;
     font-size: 0.9rem;
   }
+
   .sol-img {
-    margin-left: 0px;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
     max-width: 100%;
   }
+
   .sol-img img {
     width: 100%;
-    height: 100%;
+    height: auto;
   }
+
   .exc-btn {
     width: 100%;
     font-size: 0.85rem;
+    margin-top: 10px;
   }
 }
+
 .fl-collection {
   margin-top: 30px;
 }
