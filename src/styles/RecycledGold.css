@@ -1,0 +1,129 @@
+.recycled-bg .photo-text {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.sustain-msg {
+  display: flex;
+  justify-content: center;
+  background-color: #0d6363;
+}
+.msg-para {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  width: 70%;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+.goals {
+  background-color: #ece2df;
+  color: rgb(0, 0, 0);
+  padding: 50px 5%;
+  text-align: center;
+}
+
+.goals-head {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+.goals-head, 
+.metal-head, 
+.circularity-head, 
+.zero-waste-head, 
+.emission-reductions-head {
+  font-weight: bold; 
+}
+
+.goals > div {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.goals > div > div {
+  flex: 1;
+  max-width: 280px;
+  padding: 20px;
+  text-align: center;
+  border-right: 2px solid #a47379;
+}
+
+.goals > div > div:last-child {
+  border-right: none;
+}
+
+.goals h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.goals p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.goals-btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.goals-btn {
+  margin-top: 20px;
+  background-color: #ece2df;
+  color: black;
+  font-size: 1rem;
+  border: 1px solid black;
+  width: 150px;
+  cursor: pointer;
+  font-weight: 100;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 1024px) {
+  .goals > div {
+    flex-wrap: wrap;
+  }
+
+  .goals > div > div {
+    max-width: 45%;
+    border-right: none;
+    border-bottom: 2px solid #a47379;
+    padding-bottom: 20px;
+  }
+
+  .goals > div > div:last-child {
+    border-bottom: none;
+  }
+
+  .goals-btn-container {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .goals > div {
+    flex-direction: column;
+  }
+
+  .goals > div > div {
+    max-width: 100%;
+    border: none;
+  }
+
+  .goals-btn {
+    width: 100%;
+    font-size: 1rem;
+  }
+}

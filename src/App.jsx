@@ -14,6 +14,7 @@ import TopTwentyEngagementRings from "./pages/TopTwentyEngagementRings";
 import CustomEngagementRing from "./pages/CustomEngagementRing";
 import WeveGotYouCovered from "./pages/WeveGotYouCovered";
 import DiamondInnovation from "./pages/DiamondInnovation";
+import RecycledGold from "./pages/RecycledGold";
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         <Route path="/weve-got-you-covered" element={<WeveGotYouCovered />} />
 
         <Route path="/diamond-innovation" element={<DiamondInnovation />} />
+        <Route path="/recycled-gold" element={<RecycledGold />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />
