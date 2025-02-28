@@ -8,3 +8,73 @@
   text-align: center;
   font-family: "Courier New", Courier, monospace;
 }
+
+.personal-attention .photo-head,
+.personal-attention .photo-pera {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.wgc-shopby-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+
+}
+
+.wgc-shopby-head {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.wgc-shopby-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.wgc-shopby-cards .card {
+  position: relative;
+  overflow: hidden;
+  width: 270px;
+  height: auto;
+}
+
+.wgc-shopby-cards .card img {
+  width: 100%;
+  height: 100%;
+  height: auto;
+  display: block;
+}
+.wgc-shopby-cards .card .footer {
+  color: black;
+  padding: 10px;
+  text-align: center;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+
+@media (max-width: 1024px) {
+  .wgc-shopby-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .wgc-shopby-cards .card {
+    width: 220px;
+  }
+}
+
+@media (max-width: 768px) {
+  .wgc-shopby-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .wgc-shopby-cards .card {
+    width: 100%;
+  }
+}

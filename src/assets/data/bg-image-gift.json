@@ -110,5 +110,21 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fe21337d352c84ca880ecaaa80083373b&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Background Image",
+    "heading": "Personal Attention",
+    "paragraph": "Visit any showroom and work 1-1 with a jewelry specialist who can provide expert guidance on materials, styling, customization—and help you find the perfect piece.",
+    "buttons": [
+      {
+        "text": "Visit a Showroom",
+        "link": ""
+      },
+      {
+        "text": "Book a Virtual Appointment",
+        "link": ""
+      }
+    ]
   }
 ]

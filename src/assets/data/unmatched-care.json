@@ -4,20 +4,51 @@
     "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fe22aa775e4cb469ca3364c510ac3b6c1",
     "title": "Free Shipping Both Ways",
     "description": "Whether it’s headed to you or back to us, shipping is always on us.",
-    "alt": "unmatched-img img"
+    "alt": "unmatched-img img",
+    "category": "unmatched-care"
   },
   {
     "id": 316,
     "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fbba6305d26314d468fffc5b978fa0c3f",
     "title": "Free 30 Day Returns & Exchanges",
     "description": "We always cover returns and exchanges so you can get the piece you'll love forever.",
-    "alt": "unmatched-img img"
+    "alt": "unmatched-img img",
+    "category": "unmatched-care"
   },
   {
     "id": 317,
     "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F98c522a6e909411883b5e9c9dea3c22e",
     "title": "Free 60 Day Resizes",
     "description": "We offer complimentary resizing—because we want your fit to be perfect.",
-    "alt": "unmatched-img img"
+    "alt": "unmatched-img img",
+    "category": "unmatched-care"
+  },
+  {
+    "id": 320,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=578,height=670,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F835fb7717c8648faa810fc47902471e6",
+    "alt": "engagement rings",
+    "footer": "Engagement Rings",
+    "category": "wgc-shopby"
+  },
+  {
+    "id": 321,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=578,height=670,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F31c8f7c0724c41e0b6dde3792d682afa",
+    "alt": "engagement rings",
+    "footer": "Women's Wedding Rings",
+    "category": "wgc-shopby"
+  },
+  {
+    "id": 322,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=578,height=670,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F486b1893effa47aba107e6e6919e82c3",
+    "alt": "engagement rings",
+    "footer": "Gemstone Rings",
+    "category": "wgc-shopby"
+  },
+  {
+    "id": 323,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=578,height=670,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F64849d921623422c90cd15644e6ff371",
+    "alt": "engagement rings",
+    "footer": "Fine Jewelry",
+    "category": "wgc-shopby"
   }
 ]
