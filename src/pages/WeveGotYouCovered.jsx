@@ -16,6 +16,9 @@ import {
   bgImgGftData,
 } from "../assets/data";
 
+import { IoCallOutline, IoChatbubbleOutline } from "react-icons/io5";
+import { GoMail } from "react-icons/go";
+
 const WeveGotYouCovered = () => {
   const getUrl = (data, index = 0, key = "imgUrl") => {
     return Array.isArray(data) ? data[index][key] : data[key];
@@ -88,6 +91,46 @@ const WeveGotYouCovered = () => {
         buttons={backgroundData.buttons}
         customClass="personal-attention"
       />
+
+      <div className="contact-us">
+        <h1 className="contact-us-head">Contact Us</h1>
+        <p className="contact-us-para">
+          We're here to help with any questions you may have! Our jewelry
+          specialists are available 24/7.
+        </p>
+        <div className="contact-us-ways">
+          <div className="contact-us-call">
+            <div className="cuw-icon-call">
+              <IoCallOutline />
+            </div>
+            <h2 className="cuw-call-head">Call</h2>
+            <p className="cuw-call-para">
+              We're always game for a good old fashioned phone call at
+              800-691-0952.
+            </p>
+          </div>
+
+          <div className="contact-us-chat">
+            <div className="cuw-icon-chat">
+              <IoChatbubbleOutline />
+            </div>
+            <h2 className="cuw-chat-head">Chat</h2>
+            <p className="cuw-chat-para">
+              Get 24/7 support when you live chat our jewelry specialists.
+            </p>
+          </div>
+          <div className="contact-us-email">
+            <div className="cuw-icon-email">
+              <GoMail />
+            </div>
+            <h2 className="cuw-email-head">Email</h2>
+            <p className="cuw-email-para">
+              Need assistance? Drop us a line and we'll make sure you're taken
+              care of.
+            </p>
+          </div>
+        </div>
+      </div>
 
       <div className="wgc-shopby-container">
         <h1 className="wgc-shopby-head">Shop By Category</h1>
