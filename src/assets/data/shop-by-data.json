@@ -336,5 +336,38 @@
     "title": "Our Promotions and Offers",
     "description": "Instead of traditional markdowns, we offer unique opportunities for you to get even more jewelry.",
     "btnText": ["Explore Our Promos", "Start Shopping"]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1042,height=800,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/ContentBlockOne.jpg",
+    "alt": "recycled gold image",
+    "title": "Recycled Gold & Silver Jewelry",
+    "description": [
+      "We are members of the Responsible Minerals Initiative and say no to 'dirty gold’ because we know how destructive it can be, from ongoing labor abuses to the harmful effects of mercury and other environmental degradation.",
+      " 96% of our gold and 97% of our silver is recycled because we care about miners, their wages, their communities, and the environment."
+    ],
+    "btnText": ["Learn More"]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1042,height=1400,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/ContentBlockTwo.jpg",
+    "alt": "lab diamond image",
+    "title": "Lab Grown Diamonds",
+    "description": [
+      "We were one of the first in the industry to sell lab diamonds as a mining-free alternative to natural diamonds.",
+      " We pioneered new standards to ensure our lab diamonds are even more socially and environmentally responsible: we audited 92% of our lab diamond suppliers for safe working conditions and push them to increase their wind and solar energy use.",
+      " In 2023, we introduced two new lab grown diamond collections: the Renewable Collection which showcases diamonds grown, cut, and polished with 100% renewable wind and solar energy, and the Capture Collection which features diamonds grown with CO2 captured before it is released into the atmosphere.",
+      " By 2025, over 50% of our lab diamonds will be certified to an independent environmental standard. Learn more about our lab grown diamonds."
+    ],
+    "btnText": ["Shop Lab Diamonds"]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1042,height=1400,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/ContentBlockThree.jpg",
+    "alt": "gold for good image",
+    "title": "Gold For Good",
+    "description": [
+      "If our gold isn’t recycled, it’s Fairmined.",
+      " Fairmined turns gold into good. It empowers small-scale miners and encourages responsible mining to minimize environmental impact.",
+      " We’ve been Fairmined certified since 2015, and every year, we grow our line of Fairmined jewelry designs and provide grants through the Brilliant Earth Foundation to support new Fairmined certifications."
+    ],
+    "btnText": ["Shop Fairmined Jewelry"]
   }
 ]

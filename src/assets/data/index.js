@@ -56,3 +56,4 @@ export { default as customizeRingData } from "./customize-ring.json";
 export { default as unmatchedCareData } from "./unmatched-care.json";
 export { default as innovationData } from "./innovation-diamond.json";
 export { default as dydrData } from "./dydr-innovation.json";
+export { default as ourSpData } from "./our-sustainable-practice-date.json";

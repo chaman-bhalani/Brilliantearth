@@ -5,19 +5,45 @@ import Navbar from "../components/Navbar";
 import BackgroundImage from "../components/PosterPhoto";
 import AboutNavbar from "../components/AboutNavbar";
 import Collection from "../components/Collection";
+import CollectionCards from "../components/CollectionCards";
+import Card from "../components/Cards";
 
-import { logoData, bgImgGftData } from "../assets/data";
+import {
+  logoData,
+  bgImgGftData,
+  shopByData,
+  ourSpData,
+  mteDataAboutPage,
+} from "../assets/data";
+import Footer from "../components/Footer";
 
 const RecycledGold = () => {
   const getUrl = (data, index = 0, key = "imgUrl") => {
     return Array.isArray(data) ? data[index][key] : data[key];
   };
 
+  const filterImageByCategory = (data, category) => {
+    return data.filter((item) => item.category === category);
+  };
   const logoUrl = getUrl(logoData, 0, "logoUrl");
 
   const backgroundData = Array.isArray(bgImgGftData)
     ? bgImgGftData[10]
     : bgImgGftData;
+
+  const set30Images = filterImageByCategory(mteDataAboutPage, "set30");
+
+  const renderCards = (imageArray) => {
+    return imageArray.map((item) => (
+      <Card
+        key={item.id}
+        url={item.imgUrl}
+        alt={item.alt}
+        footer={item.footer}
+        hoverUrl={item.hoverUrl}
+      />
+    ));
+  };
 
   return (
     <>
@@ -81,8 +107,58 @@ const RecycledGold = () => {
 
       <div className="sustainable-materials">
         <h1 className="sm-head">Our Sustainable Materials</h1>
-        
+        <Collection data={shopByData[41]} />
+        <Collection data={shopByData[42]} className="sm-reverse" />
+        <Collection data={shopByData[43]} />
       </div>
+
+      <div className="our-sustainable-practices"></div>
+      <h1 className="osp-head">Our Sustainable Practice</h1>
+      <CollectionCards
+        data={ourSpData}
+        containerClass="osp-container"
+        cardClass="osp-cards"
+        imageClass="osp-img"
+        headingTag="h5"
+        textClass="osp-text"
+      />
+      <div className="ttt">
+        <h1 className="ttt-head">Today, Tomorrow & Always</h1>
+
+        <div>
+          <div>
+            <h3>Lifetime Diamond Upgrades</h3>
+            <p>Learn More</p>
+          </div>
+
+          <div>
+            <h3>Lifetime Warranty</h3>
+            <p>Learn More</p>
+          </div>
+
+          <div>
+            <h3>Recycled Diamonds</h3>
+            <p>Learn More</p>
+          </div>
+
+          <div>
+            <h3>Recycle your Jewelry</h3>
+            <p>Learn More</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="more-about-mission">
+        <h1 className="mam-head">MORE ABOUT OUR MISSION</h1>
+        <AboutNavbar />
+      </div>
+
+      <section className="mte">
+        <h1 className="mte-heading">More to Explore</h1>
+        <div className="mh-cards">{renderCards(set30Images)}</div>
+      </section>
+
+      <Footer />
     </>
   );
 };

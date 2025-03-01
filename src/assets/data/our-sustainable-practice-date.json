@@ -1,0 +1,40 @@
+[
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/statSectionTwo/TileOne.jpg",
+    "alt": "",
+    "catagory": "osp-data",
+    "title": "Responsibly Made",
+    "description": "Our sustainable jewelry is made in spaces that are safe and healthy. All of our suppliers agree to our Code of Conduct, and last year, over 90% were audited to ensure they meet our standards. We are pushing ourselves, our suppliers, and the industry to be even safer, healthier, and more transparent. To set the bar, we plan to share audit findings and factory improvements by 2025."
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/statSectionTwo/TileTwo.jpg",
+    "alt": "",
+    "catagory": "osp-data",
+    "title": "Responsibly Packaged",
+    "description": [
+      "Our packaging uses recycled materials made with less energy, less water, and fewer emissions. We make our iconic ring boxes with wood certified by the Forest Stewardship Council and design them to last lifetimes. Since 2021, we’ve used 100% recycled paper, saving hundreds of tons of CO2, and we’re shrinking our packaging even more to reduce waste further.",
+      "Learn More"
+    ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/statSectionTwo/TileThree.jpg",
+    "alt": "",
+    "catagory": "osp-data",
+    "title": "Renewable Energy",
+    "description": [
+      "We are committed to protecting the planet — so we’re leading the jewelry industry towards clean energy. Our Truly Brilliant™ Collection features diamonds made with clean energy, and we purchase clean energy for our showrooms and offices. We also support wind and solar energy projects through collaborations that help address climate change.",
+      " Learn More.",
+      " AB 1305"
+    ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1200,height=644,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/statSectionTwo/TileFour.jpg",
+    "alt": "",
+    "catagory": "osp-data",
+    "title": "Responsibly Made",
+    "description": [
+      "It’s called circularity, and it means reusing and recycling rather than throwing things away. We always start with materials from responsible or recycled sources. Then, we carefully craft those materials into high-quality jewelry made to last generations. And if it’s time for something new, you can find a new diamond with our free lifetime upgrade – and we’ll recycle or recertify your old materials so they can take a new turn in the jewelry lifecycle.",
+      "Learn More"
+    ]
+  }
+]

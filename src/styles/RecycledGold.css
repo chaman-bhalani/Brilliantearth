@@ -31,12 +31,12 @@
   margin-bottom: 20px;
   font-family: "Courier New", Courier, monospace;
 }
-.goals-head, 
-.metal-head, 
-.circularity-head, 
-.zero-waste-head, 
+.goals-head,
+.metal-head,
+.circularity-head,
+.zero-waste-head,
 .emission-reductions-head {
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 .goals > div {
@@ -126,4 +126,221 @@
     width: 100%;
     font-size: 1rem;
   }
+}
+
+.sm-head {
+  margin-top: 30px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+.sm-reverse {
+  flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 768px) {
+  .sm-reverse {
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .e-text {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 90%;
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .e-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 100%;
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+}
+
+.osp-head {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.osp-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-items: center;
+}
+
+.osp-cards {
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+
+  text-align: center;
+}
+
+.osp-img {
+  width: 100%;
+  height: auto;
+}
+
+.osp-text {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  color: #333;
+}
+h5 {
+  font-size: 30px;
+  line-height: 2rem;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .osp-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .osp-head {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .osp-cards {
+    padding: 8px;
+  }
+}
+
+.ttt {
+  background-color: #0d6363;
+  padding: 50px 5%;
+  text-align: center;
+}
+
+.ttt-head {
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.ttt > div {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.ttt > div > div {
+  flex: 1;
+  margin: 0 10px;
+  padding: 20px;
+  border-right: 2px solid whitesmoke;
+  text-align: center;
+}
+
+.ttt > div > div:last-child {
+  border-right: none;
+}
+
+.ttt h3 {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.ttt p {
+  font-size: 16px;
+  line-height: 1.6;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+}
+
+.ttt > div > div p {
+  margin-top: 10px;
+}
+
+@media (max-width: 1024px) {
+  .ttt > div {
+    flex-wrap: nowrap;
+  }
+
+  .ttt > div > div {
+    max-width: 23%;
+    margin: 0 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .ttt > div {
+    flex-wrap: nowrap;
+  }
+
+  .ttt > div > div {
+    max-width: 23%;
+    margin: 0 10px;
+  }
+}
+
+.more-about-mission {
+  background-color: #183e40;
+  padding-bottom: 60px;
+}
+.mam-head {
+  padding-top: 60px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: white;
+}
+
+.mte {
+  margin-top: 20px;
+}
+.mte-heading {
+  padding-left: 8px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 550;
 }
