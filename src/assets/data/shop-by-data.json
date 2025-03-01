@@ -68,7 +68,7 @@
   {
     "id": 193,
     "videoUrl": "https://cdn.builder.io/o/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F8259017d6f7442d895e921e9bc70ebe8%2Fcompressed?apiKey=9f2a69003c86470ea05deb9ecb9887be&token=8259017d6f7442d895e921e9bc70ebe8&alt=media&optimized=true",
-    "alt": "Sol Collection Image",
+    "alt": "Sol Collection video",
     "title": "Find My Matching Wedding Ring",
     "description": "Select your engagement ring, then discover the perfect wedding ring to match.",
     "btnText": ["Get Started"]
@@ -369,5 +369,61 @@
       " We’ve been Fairmined certified since 2015, and every year, we grow our line of Fairmined jewelry designs and provide grants through the Brilliant Earth Foundation to support new Fairmined certifications."
     ],
     "btnText": ["Shop Fairmined Jewelry"]
+  },
+  {
+    "videoUrl": "https://cdn.builder.io/o/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F8259017d6f7442d895e921e9bc70ebe8%2Fcompressed?apiKey=9f2a69003c86470ea05deb9ecb9887be&token=8259017d6f7442d895e921e9bc70ebe8&alt=media&optimized=true",
+    "alt": "Sol Collection video",
+    "title": "Need Help Finding a Matching Wedding Band?",
+    "description": "When it comes to choosing a wedding band, women have various options for matching their ring to their engagement ring or bridal set, as well as coordinating with their partner's wedding band. One option is to select a wedding band that complements the design of the engagement ring or bridal set, ensuring a cohesive and harmonious look. Alternatively, some women prefer to match their wedding band to their partner's band, either by selecting matching bands in terms of metal type, width, or design, or by choosing complementary bands that reflect each other's style and preferences.",
+    "btnText": ["Shop Couple Rings", "Find My Matching Wedding Ring"]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F65823601347a4a9fa44a53d5fe52b8e1&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sol Collection Image",
+    "title": "Plain Metal Wedding Bands",
+    "description": "Although plain metal bands are timeless and comfortable, there are many different variations – from metal types to textures and widths. Women’s wedding ring metal options typically include white gold, rose gold, yellow gold and platinum. Textures range from matte, brushed or satin finishes as well as hammered, matte hammered or knurled finishes. For women’s wedding bands, widths range from slim 1.5mm to the widest option at 4mm.",
+    "btnText": ["Shop Plain Metal Bands"]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F634ec25f0a474137b628c30971834f8f&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sol Collection Image",
+    "title": "Stackable Wedding Bands",
+    "description": "Many women opt to pair their wedding band with their engagement ring to create a cohesive and personalized stack. A third band can be added to complement the set, or multiple thinner bands can be combined for a layered effect. Incorporating a ring guard can also enhance and protect the rings.",
+    "btnText": ["Shop Stackable Bands","Design Your Own Ring Stack"]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F2b81931e32494098bd0c88971c1d56a0&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sol Collection Image",
+    "title": "Pavé Wedding Bands",
+    "description": "Pavé bands are designed with multiple rows of accent diamonds interwoven like cobblestones. The diamonds in this style of ring are closely set together so the metal is barely distinguishable from the diamond, providing a dazzling, glittering effect.",
+    "btnText": ["Shop Diamond Bands"]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Ff089e912347c4c0ea2c76c33f3dab498&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sol Collection Image",
+    "title": "Eternity Wedding Bands",
+    "description": "An eternity band is a ring adorned with diamonds or other gemstones that encircle the entire finger, chosen for ultimate shine and sparkle.",
+    "btnText": ["Shop Eternity Bands"]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F07f040b96eed436581c9c74e0fb665ae&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sol Collection Image",
+    "title": "Curved Wedding Bands",
+    "description": "A curved wedding band is characterized by an extended arc crafted to smoothly encircle the center stone of an engagement ring. Unlike straight bands, which may create a gap between rings, curved wedding bands sit flush against other styles, offering a seamless and luxurious appearance. These bands complement various ring stacks, ranging from simplistic to glamorous designs.",
+    "btnText": ["Shop Curved Bands"]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F0f003a224df94ca9840abc9c8917831b&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sol Collection Image",
+    "title": "Gemstone Wedding Bands",
+    "description": "Women’s wedding band styles can also feature gemstones – from sapphire and blue topaz to emerald or ruby – combined with or as alternatives to diamonds. The gemstones are included either as accents or featured in eternity or baguette designs.",
+    "btnText": ["Shop Gemstone Bands"]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fbed9dea984e14f62b8658cb28d70e496&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sol Collection Image",
+    "title": "5-Stone Wedding Bands",
+    "description": "Usually featuring diamonds of equal size, this women’s wedding ring style is thought to represent the 5 traits of a committed relationship -- love, trust, commitment, communication, and empathy -- in a bold, symmetrical statement. 5-stone bands can also commemorate anniversaries.",
+    "btnText": ["Shop 5-Stone Bands"]
   }
 ]

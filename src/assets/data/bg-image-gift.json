@@ -147,7 +147,14 @@
     "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=800,quality=100,format=auto/https://www.brilliantearth.com/bee2-ui/img/mission/sustainability/SustainabilityHeroDesktop.jpg",
     "alt": "Background Image",
     "heading": "SUSTAINABILTY",
-    "paragraph":"we've led the jewelry industry in sustainable practices since we were found in 2005.",
+    "paragraph": "we've led the jewelry industry in sustainable practices since we were found in 2005.",
     "buttons": []
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fc87de9b2f79a4253ab792e822bdacfb3",
+    "alt": "Background Image",
+    "heading": "Women's Wedding Band Styles",
+    "paragraph": "Learn about the many diffrent types of women's wedding bands, including classic, curved, engraved, and more.",
+    "buttons": [{ "text": "Shop Women's wedding Bands", "link": "" }]
   }
 ]

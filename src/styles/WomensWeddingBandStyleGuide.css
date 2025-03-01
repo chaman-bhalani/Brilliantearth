@@ -1,0 +1,373 @@
+.top-twenty-bg button:hover {
+  color: white;
+}
+
+.wwb-msg {
+  display: flex;
+  justify-content: center;
+}
+.wwb-msg-para {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 70%;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.wwb-style-reverse {
+  flex-direction: row-reverse;
+}
+
+.wwb-style-reverse .p-button .price-btn1 {
+  width: auto;
+}
+
+.reverse-video-collection {
+  flex-direction: row-reverse;
+}
+.reverse-video-collection .p-button .price-btn1 {
+  width: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .exclusive {
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .e-text {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 90%;
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .e-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 100%;
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+}
+
+.top-twenty-wwb-styles {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 99%;
+  margin-bottom: 40px;
+}
+
+.top-twenty-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 35%;
+  padding-left: 15px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.top-twenty-wwb-btn {
+  width: 100%;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.top-twenty-wwb-head {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.top-twenty-wwb-cards {
+  display: flex;
+  overflow-x: auto;
+  gap: 16px;
+  padding: 10px 0;
+  width: 65%;
+  box-sizing: border-box;
+}
+
+.top-twenty-wwb-cards .card {
+  width: 250px;
+  flex-shrink: 0;
+}
+
+.top-twenty-wwb-cards .card img {
+  width: 100%;
+  height: auto;
+}
+
+.top-twenty-wwb-cards::-webkit-scrollbar {
+  height: 8px;
+}
+
+.top-twenty-wwb-cards::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.top-twenty-wwb-cards::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media (max-width: 768px) {
+  .top-twenty-wwb-styles {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .top-twenty-text {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .top-twenty-wwb-btn {
+    width: 100%;
+  }
+
+  .top-twenty-wwb-head {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .top-twenty-wwb-cards {
+    width: 100%;
+    gap: 10px;
+  }
+
+  .top-twenty-wwb-cards .card {
+    width: 200px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .top-twenty-text {
+    width: 60%;
+  }
+
+  .top-twenty-wwb-btn {
+    width: 80%;
+  }
+
+  .top-twenty-wwb-head {
+    font-size: 22px;
+  }
+
+  .top-twenty-wwb-cards .card {
+    width: 220px;
+  }
+}
+
+@media (min-width: 1025px) {
+  .top-twenty-text {
+    width: 40%;
+  }
+
+  .top-twenty-wwb-btn {
+    width: 350px;
+  }
+
+  .top-twenty-wwb-head {
+    font-size: 24px;
+  }
+
+  .top-twenty-wwb-cards .card {
+    width: 250px;
+  }
+}
+
+.wr-trends-head {
+  margin-top: 30px;
+  font-size: 36px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.wr-trends-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 100%;
+  padding: 20px;
+}
+
+.wr-trends-cards .card {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  text-align: center;
+}
+
+.wr-trends-cards .card img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 1024px) {
+  .wr-trends-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .wr-trends-cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.cww-bands,
+.wwd-engraving {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 20px 0;
+}
+
+.cww-bands > div,
+.wwd-engraving > div {
+  width: 70%;
+  text-align: center;
+}
+
+.cww-bands-head,
+.wwd-engraving-head {
+  font-size: 36px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.cww-bands-para,
+.wwd-engraving-para {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.cww-bands-btn,
+.wwd-engraving-btn {
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .cww-bands > div {
+    width: 90%;
+  }
+
+  .cww-bands-head {
+    font-size: 28px;
+  }
+
+  .cww-bands-para {
+    font-size: 14px;
+  }
+
+  .cww-bands-btn {
+    width: 100%;
+  }
+}
+
+.wwd-explore-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.wwd-explore-more-head {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.wwd-er-more-btn1 {
+  background-color: #fff;
+  border: 1px solid black;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.wwd-er-more-btn-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  width: 100%;
+  max-width: 900px;
+}
+
+@media (max-width: 1024px) {
+  .wwd-er-more-btn-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .wwd-er-more-btn-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .wwd-er-more-btn-container {
+    grid-template-columns: 1fr;
+  }
+}

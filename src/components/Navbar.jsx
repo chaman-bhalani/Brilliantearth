@@ -187,6 +187,25 @@ const Navbar = () => {
                     <h5>SHOP BY STYLE</h5>
                   </div>
                 </div>
+
+                <div>
+                  <div className="wedding-band-guides">
+                    <h5>WEDDING BAND GUIDES</h5>
+                    <Link to="/womens-weddingband-style-guide">
+                      Women's Wedding Band Style Guide
+                    </Link>
+                    <Link to="/mens-wedding-band-style-gide">
+                      Men's Wedding Band Style Guide
+                    </Link>
+                    <Link to="/ring-engraving-giude">Ring Engraving Guide</Link>
+                    <Link to="/2025-wedding-ring-trends">
+                      2025 Wedding Ring Trends
+                    </Link>
+                    <Link to="/wedding-ring-budget-guide">
+                      Wedding Ring Budget Guide
+                    </Link>
+                  </div>
+                </div>
               </div>
             </div>
           )}
