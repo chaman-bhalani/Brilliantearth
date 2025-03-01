@@ -16,6 +16,7 @@ import WeveGotYouCovered from "./pages/WeveGotYouCovered";
 import DiamondInnovation from "./pages/DiamondInnovation";
 import RecycledGold from "./pages/RecycledGold";
 import WomensWeddingBandStyleGuide from "./pages/WemensWeddingBandStyleGuide";
+import Engraving from "./pages/Engraving";
 
 function App() {
   return (
@@ -41,6 +42,7 @@ function App() {
           path="/womens-weddingband-style-guide"
           element={<WomensWeddingBandStyleGuide />}
         />
+        <Route path="/ring-engraving-giude" element={<Engraving />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />

@@ -389,7 +389,7 @@
     "alt": "Sol Collection Image",
     "title": "Stackable Wedding Bands",
     "description": "Many women opt to pair their wedding band with their engagement ring to create a cohesive and personalized stack. A third band can be added to complement the set, or multiple thinner bands can be combined for a layered effect. Incorporating a ring guard can also enhance and protect the rings.",
-    "btnText": ["Shop Stackable Bands","Design Your Own Ring Stack"]
+    "btnText": ["Shop Stackable Bands", "Design Your Own Ring Stack"]
   },
   {
     "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F2b81931e32494098bd0c88971c1d56a0&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
@@ -425,5 +425,117 @@
     "title": "5-Stone Wedding Bands",
     "description": "Usually featuring diamonds of equal size, this women’s wedding ring style is thought to represent the 5 traits of a committed relationship -- love, trust, commitment, communication, and empathy -- in a bold, symmetrical statement. 5-stone bands can also commemorate anniversaries.",
     "btnText": ["Shop 5-Stone Bands"]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fedcdd550dc3f49ac83f764e94296af7f",
+    "alt": "What to Engrave on a Wedding Band",
+    "title": "What to Engrave on an Wedding Band",
+    "description": "Wedding bands are symbols of forever. When wondering what to engrave them with, consider a meaningful moment, date, or saying that you and your partner share. Your wedding ring engravings can be exact matches for each other or completely unique. Remember, there are no rules! Your engraving doesn't have to be romantic or serious – just express your personality.",
+    "btnText": ["Shop All Wedding Rings"]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fe00549f7af7e468fb95351d4f0abc684",
+    "alt": "What to Engrave on a Wedding Band",
+    "title": "What to Engrave on an Engagement Ring",
+    "description": "Proposing with an engagement ring is an incredibly romantic gesture that symbolizes the love and commitment between you and your partner, as well as your readiness to take the next step with them. You may want to surprise them with an engraving when you pop the question - it could read, Love You Forever or Now and Always to further express your future together. If you are more traditional, you could opt to engrave the date of your engagement, or the date you first met, or your initials along the band.",
+    "btnText": ["Shop Engagement Rings"]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fedcdd550dc3f49ac83f764e94296af7f",
+    "alt": "What to Engrave on a Wedding Band",
+    "title": "What to Engrave on a Promise Ring",
+    "description": "Promise rings, precursors to engagement rings, are given to a partner prior to a formal engagement as a symbol of hope and commitment for the next chapter of your life together. When considering what to engrave on a promise ring, look towards your next step: what are you the most excited about in the future? How do you picture your life together? What qualities will be important in a long-lasting relationship? Then, engrave a word or sentence that encompasses it. You can also look to the past and engrave the date you first met or an anecdote about your first date.",
+    "btnText": ["Shop Promise Rings"]
+  },
+  {
+    "title": "Classic",
+    "description": "You can't go wrong with the classics. Tried and true for a reason, these traditional ideas are timeless — and meaningful.",
+    "listItems": [
+      "Your wedding date",
+      "Each other’s initials",
+      "A part of your vows",
+      "Your nicknames for each other",
+      "Or a simple “I love you”"
+    ],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F02303b49f00542a5b7adf301e04a2aab",
+    "alt": "Exclusive Collection Image"
+  },
+  {
+    "title": "Romantic",
+    "description": "Ring engravings are like little love notes — why not make them extra romantic?",
+    "listItems": [
+      "Forever starts here",
+      "My one and only",
+      "Now & forever",
+      "To the moon and back",
+      "I'm yours"
+    ],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F9023d383d8f040e589d94b8ca0402def",
+    "alt": "Exclusive Collection Image"
+  },
+  {
+    "title": "Unique",
+    "description": "Your love story is one-of-a-kind. Your engraving should be, too, so make it personal and distinctive.",
+    "listItems": [
+      "Ring engravings are like little love notes — why not make them extra romantic?",
+      "Let your partner surprise you with an engraving of their choice",
+      "An inside joke only the two of you understand",
+      "Qualities you value (loyalty, truthfulness, kindness)",
+      "What made you fall in love (her smile)"
+    ],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F12a92045e8844ac2a58bece9fc523b38"
+  },
+  {
+    "title": "Coordinating",
+    "description": "Coordinating engravings are either complementary pairs or when one engraving finishes the sentence of the other.",
+    "listItems": [
+      "Ring 1: Mr / Ring 2: Mrs ",
+      "Ring 1: After all this time? / Ring 2: Always ",
+      "Ring 1: Hand in hand / Ring 2: Heart to heart ",
+      "Ring 1: My love / Ring 2: My life",
+      "Ring 1: Forever / Ring 2: & always"
+    ],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F03c9ecaf5e804c8084720b52932685da",
+    "alt": "Exclusive Collection Image"
+  },
+  {
+    "title": "One Word",
+    "description": "Keep it short and sweet.",
+    "listItems": ["Soulmates", "Yours ", "Sweetheart ", "Always ", "Promise"],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fdb1dfe4f18c042d59710f980d61a9960",
+    "alt": "Exclusive Collection Image"
+  },
+  {
+    "title": "Poetry/Song Lyrics",
+    "description": "Music and lyrics are a meaningful part of life. If a particular song speaks to your relationship, engrave it on your rings.",
+    "listItems": [
+      "Love is All You Need (Beatles) ",
+      "Better Together (Jack Johnson)",
+      "Endless Love (Lionel Richie)",
+      "At Last (Etta James)",
+      "You Make My Dreams Come True (Hall & Oats)"
+    ],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F4874bfc3d2ec4282b441978001c5e1ba",
+    "alt": "Exclusive Collection Image"
+  },
+  {
+    "title": "Other Languages/Symbols",
+    "description": "If you or your partner are bi-lingual, engrave a phrase in another language (perhaps from somewhere you've visited together) or say it all with a symbol.",
+    "listItems": [
+      "A heart symbol (🖤) ",
+      "An infinity symbol (♾️)",
+      "Joi sans fin (Joy without end, French)",
+      "Tesoro mio (My treasure, Italian)",
+      "Siempre tuyo/a (Always yours, Spanish)"
+    ],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F9c539cd905af488781cae92cf00660e2",
+    "alt": "Exclusive Collection Image"
   }
 ]

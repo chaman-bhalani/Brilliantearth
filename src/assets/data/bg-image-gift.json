@@ -156,5 +156,12 @@
     "heading": "Women's Wedding Band Styles",
     "paragraph": "Learn about the many diffrent types of women's wedding bands, including classic, curved, engraved, and more.",
     "buttons": [{ "text": "Shop Women's wedding Bands", "link": "" }]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fef190413dff5441cae725ad8fdb6da84",
+    "alt": "Background Image",
+    "heading": "Ring Engraving Ideas",
+    "paragraph": "Explore our ideas and get inspired to create your own unique and meaningful engraving.",
+    "buttons": [{ "text": "Shop All Rings", "link": "" }]
   }
 ]
