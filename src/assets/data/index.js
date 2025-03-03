@@ -60,3 +60,5 @@ export { default as ourSpData } from "./our-sustainable-practice-date.json";
 export { default as womensWeddingBandData } from "./womens-wedding-band-style.json";
 export { default as WeddingRingTrendsData } from "./wedding-ring-trends-collection.json";
 export { default as WeddinRingGuideData } from "./wedding-ring-budget-guide.json";
+export { default as EngRingStyleGuideData } from "./eng-ring-style-guide.json";
+export { default as popularEnRings } from "./popular-en-rings.json";

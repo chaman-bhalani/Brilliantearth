@@ -1,0 +1,191 @@
+.enr-style-vs-settings {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.enr-st-vs-se-head {
+  width: 100%;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 20px;
+}
+.enr-st-vs-se-para {
+  width: 100%;
+  font-family: "Courier New", Courier, monospace;
+}
+.en-ri-sty-reverse {
+  flex-direction: row-reverse;
+}
+.en-ri-sty-reverse .e-text,
+.en-ri-sty-cl .e-text {
+  text-align: left;
+}
+
+.popular-eng-rings {
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+  width: 99%;
+  height: 400px;
+  margin-right: 10px;
+}
+
+.per-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 550px;
+  padding-left: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.per-btn {
+  width: 350px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.per-head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 16px;
+  width: 100%;
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.per-para {
+  justify-content: center;
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.per-btn {
+  align-items: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.per-collection-cards {
+  display: flex;
+  overflow-x: auto;
+  gap: 16px;
+  padding: 10px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.per-collection-cards .card {
+  width: 250px;
+  flex-shrink: 0;
+}
+
+.per-collection-cards .card img {
+  width: 100%;
+  height: auto;
+}
+
+.per-collection-cards::-webkit-scrollbar {
+  height: 8px;
+}
+
+.per-collection-cards::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.per-collection-cards::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media (max-width: 768px) {
+  .popular-eng-rings {
+    flex-direction: column;
+    height: auto;
+    margin-right: 0;
+  }
+
+  .per-text {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .per-btn {
+    width: 100%;
+  }
+
+  .per-head {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .per-para {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  .per-collection-cards {
+    gap: 10px;
+  }
+
+  .per-collection-cards .card {
+    width: 200px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .per-text {
+    width: 60%;
+  }
+
+  .per-btn {
+    width: 80%;
+  }
+
+  .per-head {
+    font-size: 22px;
+  }
+
+  .per-para {
+    font-size: 15px;
+  }
+
+  .per-collection-cards .card {
+    width: 220px;
+  }
+}
+
+@media (min-width: 1025px) {
+  .per-text {
+    width: 550px;
+  }
+
+  .per-btn {
+    width: 350px;
+  }
+
+  .per-head {
+    font-size: 24px;
+  }
+
+  .per-para {
+    font-size: 16px;
+  }
+
+  .per-collection-cards .card {
+    width: 250px;
+  }
+}
+
+.uer {
+  flex-direction: row-reverse;
+}

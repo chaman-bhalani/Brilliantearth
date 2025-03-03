@@ -195,5 +195,17 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F9fbdbb18ac41428f88fc17e41cd43755",
+    "alt": "Background Image",
+    "heading": "Engagement Ring Styles",
+    "paragraph": "Learn about the different styles — and settings — of engagement rings to pick the perfect piece.",
+    "buttons": [
+      {
+        "text": "Shop Engagement Rings",
+        "link": ""
+      }
+    ]
   }
 ]

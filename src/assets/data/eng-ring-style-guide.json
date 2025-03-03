@@ -1,0 +1,50 @@
+[
+  {
+    "id": 433,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F04e570a2b0e34e3cae56b4cdeb807dd4",
+    "alt": "",
+    "title": "Classic",
+    "description": "Classic engagement rings feature timeless design motifs like clean lines, solitaire settings, and dainty pavé accents. Elegant and subtly sophisticated, these styles tend to be timeless looks that never go out of style, making them both the perfect choice for the piece of jewelry you'll wear forever and excellent future heirlooms.",
+    "btnText": ["Shop Classic Rings"]
+  },
+  {
+    "id": 434,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F04c6f9be0188407e99ddf824b379eda8",
+    "alt": "",
+    "title": "Luxe",
+    "description": "Luxe engagement rings all have one thing in common: no shortage of diamonds. Whether it's a more traditional diamond setting in a high carat count or a sculptural style adorned with hundreds of tiny shimmering stones, these rings are always big, bold, and eye-catching",
+    "btnText": ["Shop Luxe Rings"]
+  },
+  {
+    "id": 435,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F8b3968829aa54596846418665ff7f845",
+    "alt": "",
+    "title": "Vintage Inspired",
+    "description": "Vintage-inspired engagement rings borrow from the romance of the past by featuring elements such as milgrain details, hand-carved filigree, or three-stone settings that symbolize the past, present, and future. Intricate details, such as step-cut diamond accents, distinguish these designs from modern or contemporary styles with more simplistic, sleek lines.",
+    "btnText": ["Shop Vintage Inspired Rings"]
+  },
+  {
+    "id": 436,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fd8c4cc06b1cb4c32a44e143722298606",
+    "alt": "",
+    "title": "Nature Inspired",
+    "description": "Nature-inspired engagement rings bring on the bloom with design motifs such as floral patterns, diamond petals, organically shaped clusters, and twisting vines of precious metal. These styles can be solitaires or accented with diamonds or other gemstones (such as green sapphires that evoke leaves).",
+    "btnText": ["Shop Nature Inspired Rings"]
+  },
+  {
+    "id": 437,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Ffeac76d844fe401ab7fc6f527162e2f3",
+    "alt": "",
+    "title": "Modern",
+    "description": "Modern engagement rings are all about bold, sleek silhouettes or sculptural details, such as wide widths, gently tapering bands, or a multi-prong style that adds a textural element. Split shank rings are an excellent example of a modern look that makes an impact with a simple, streamlined style.",
+    "btnText": ["Shop Modern Rings"]
+  },
+  {
+    "id": 438,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F49df3629f73f4963928c0db4b5a3ad08",
+    "alt": "",
+    "title": "Nontraditional",
+    "description": "Nontraditional engagement rings break with convention with design features like thick bands or completely unique silhouettes. Often, they can be gender neutral — providing anyone and everyone with a look that works for their personal style.",
+    "btnText": ["Shop Nontraditional Rings"]
+  }
+]

@@ -19,6 +19,7 @@ import WomensWeddingBandStyleGuide from "./pages/WemensWeddingBandStyleGuide";
 import Engraving from "./pages/Engraving";
 import WeddingRingTrends from "./pages/WeddingRingTrends";
 import WeddingRingBudgetGuide from "./pages/WeddingRingBudgetGuide";
+import EngagementRingStyleGuide from "./pages/EngagementRingStyleGuide";
 
 function App() {
   return (
@@ -52,6 +53,10 @@ function App() {
         <Route
           path="/wedding-ring-budget-guide"
           element={<WeddingRingBudgetGuide />}
+        />
+        <Route
+          path="/engagement-ring-style-guide"
+          element={<EngagementRingStyleGuide />}
         />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
