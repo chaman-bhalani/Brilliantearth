@@ -179,5 +179,21 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fbc020cd4f9f2452c99b73eee7006e901&w=1920&q=95&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Background Image",
+    "heading": "How Much Should a Wedding Ring Cost?",
+    "paragraph": "Understand all the financial factors to consider when shopping for a wedding ring.",
+    "buttons": [
+      {
+        "text": "Shop Women's Wedding Rings",
+        "link": ""
+      },
+      {
+        "text": "Shop Men's Wedding Rings",
+        "link": ""
+      }
+    ]
   }
 ]

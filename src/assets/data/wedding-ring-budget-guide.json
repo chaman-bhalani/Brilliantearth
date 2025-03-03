@@ -1,0 +1,45 @@
+[
+  {
+    "id": 429,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fc98966cebf9645b1b00b69132c69ce01",
+    "alt": "",
+    "title": "Average Wedding Ring Cost",
+    "description": "The cost of a wedding ring can vary widely based on factors like the metal type or any gemstones set in the band. For plain metal bands with simpler designs, you can expect to pay a few hundred dollars, while more elaborate designs with diamonds can cost several thousand dollars. While trends in wedding and engagement rings influence average costs, the final price of a wedding ring can be as modest or extravagant as the couple desires. The key is to set a budget that reflects your personal preferences, ensuring that the rings you choose are meaningful and practical for your lifestyle.",
+    "btnText": ["Shop Simple Wedding Rings", "Shop Luxe Wedding Rings"]
+  },
+  {
+    "id": 430,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F5ca8e673f3dc447c94dc293b69a944a3",
+    "alt": "",
+    "title": "How Much Are Wedding Rings?",
+    "description": "Wedding bands come in a wide variety of precious metals and widths, which affect the overall cost. Simpler wedding rings without diamonds or gemstones typically cost a few hundred dollars, while custom designs, engravings, and the addition of diamonds or gemstones can elevate prices to the thousands. Starting with a budget based on your financial situation will give you a clear sense of your options. Open communication about preferences and financial expectations is crucial to make sure both partners are comfortable with the decision. ",
+    "btnText": ["Shop All Wedding Rings"]
+  },
+  {
+    "id": 431,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Ffe635a38cfd34b0ea0420a4a1e9a3066",
+    "alt": "",
+    "title": "Who Buys the Wedding Bands?",
+    "description": "Deciding who buys the wedding bands can vary based on cultural customs and traditions as well as personal preferences. Some couples prefer to stick to tradition, while others opt for a different method that feels right for them. A common tradition is for each partner to buy the other’s wedding band, though many modern couples choose to share the cost, considering it a joint expense as they prepare for their life together. Some couples include the cost of the wedding bands in their overall wedding budget, allocating funds from a shared account. Overall, there is no right or wrong way to decide who buys the wedding bands. The choice should reflect your values and what feels fair and meaningful to you. Whether following tradition or opting for a modern approach, the key is to make the decision together.",
+    "btnText": []
+  },
+  {
+    "title": "Wedding Ring Budget Tips",
+    "description": "Here are several ways to maximize your wedding ring budget: ",
+    "listItems": [
+      "CONSIDER METAL OPTIONS: Different metals have varying costs. Platinum is more expensive than gold, while titanium and other alternative metals can be more affordable.",
+      "BRIDAL SETS: If you haven’t purchased an engagement ring yet, consider a bridal set. They are expertly curated to match each other and can be more cost-effective as they include both the engagement ring and wedding band. ",
+      "DURABLE CHOICES: Choose metals and gemstones that are durable and require minimal maintenance, such as platinum, gold, titanium, tungsten, diamonds, and sapphires. Learn more about the most durable metals and gemstones in our comprehensive platinum vs. gold, diamond guide, and sapphire guide. ",
+      "CLASSIC DESIGNS: Opt for classic designs that remain stylish over the years, avoiding the need for trend-forward replacements.",
+      "MAINTENANCE COSTS: Factor in the cost of regular maintenance like cleaning, re-plating, and stone tightening, and choose a lower maintenance metal—like platinum—if ongoing costs are a concern. Explore the benefits of our free lifetime manufacturing warranty and programs like Extend."
+    ],
+    "btnText": [
+      "Shop Alternative Metal Wedding Rings",
+      "Shop Classic Wedding Rings",
+      "Shop Bridal Sets",
+      "Design Your Own Ring Stack"
+    ],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fdc9c829c742a4ed0acb0f8576c9e97f2",
+    "alt": "Exclusive Collection Image"
+  }
+]

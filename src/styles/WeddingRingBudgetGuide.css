@@ -1,0 +1,111 @@
+.wrbg-msg {
+  display: flex;
+  justify-content: center;
+}
+.wrbg-msg-para {
+  width: 80%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.wrbg-cl-reverse,
+.wrbg-cl-li-reverse {
+  flex-direction: row-reverse;
+}
+
+.flexible-po {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.flexible-po > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.flexible-po-head,
+.flexible-po-para {
+  width: 80%;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.wrbg-cl-li-reverse .p-button {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.wrbg-cl-li-reverse .p-button .price-btn1 {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border: 1px solid black;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 768px) {
+  .exclusive {
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .e-text {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 90%;
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .e-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .wrbg-cl-li-reverse .p-button .price-btn1 {
+    width: 100%;
+    font-size: 0.85rem;
+  }
+}
