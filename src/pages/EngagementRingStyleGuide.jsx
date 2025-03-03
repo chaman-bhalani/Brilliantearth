@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar";
 import BackgroundImage from "../components/PosterPhoto";
 import Collection from "../components/Collection";
 import Card from "../components/Cards";
+import Footer from "../components/Footer";
 
 import {
   logoData,
@@ -104,6 +105,8 @@ const EngagementRingStyleGuide = () => {
           Types of Engagement Ring Setting
         </h1>
       </div>
+
+      <Footer />
     </>
   );
 };
