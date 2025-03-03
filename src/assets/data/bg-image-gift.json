@@ -163,5 +163,21 @@
     "heading": "Ring Engraving Ideas",
     "paragraph": "Explore our ideas and get inspired to create your own unique and meaningful engraving.",
     "buttons": [{ "text": "Shop All Rings", "link": "" }]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F03914fb9816449eea02bf3119918fcba",
+    "alt": "Background Image",
+    "heading": "2025 Wedding Ring Trends",
+    "paragraph": "The top eight trends of 2025 and the wedding styles that speak to each—as told by expert Annie Chen, SVP of Merchandising.",
+    "buttons": [
+      {
+        "text": "Shop Women's Wedding Rings",
+        "link": ""
+      },
+      {
+        "text": "Shop Men's Wedding Rings",
+        "link": ""
+      }
+    ]
   }
 ]

@@ -17,6 +17,7 @@ import DiamondInnovation from "./pages/DiamondInnovation";
 import RecycledGold from "./pages/RecycledGold";
 import WomensWeddingBandStyleGuide from "./pages/WemensWeddingBandStyleGuide";
 import Engraving from "./pages/Engraving";
+import WeddingRingTrends from "./pages/WeddingRingTrends";
 
 function App() {
   return (
@@ -43,6 +44,10 @@ function App() {
           element={<WomensWeddingBandStyleGuide />}
         />
         <Route path="/ring-engraving-giude" element={<Engraving />} />
+        <Route
+          path="/2025-wedding-ring-trends"
+          element={<WeddingRingTrends />}
+        />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />

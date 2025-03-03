@@ -1,0 +1,146 @@
+.top-wedding-ring-trends {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.twrt-head {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.twrt-para {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.twrt-collection .top-paragraph {
+  margin-bottom: 0px;
+  font-size: 1rem;
+  font-family: "Courier New", Courier, monospace;
+  color: #555;
+  text-align: center;
+}
+.twrt-collection .first {
+  margin-top: 0px;
+}
+
+.reverse-twrt-cl {
+  flex-direction: row-reverse;
+}
+
+.first-cl-cards {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding: 10px 0;
+}
+
+.first-cl-cards .card {
+  width: 300px;
+  height: auto;
+}
+
+@media (max-width: 1024px) {
+  .top-wedding-ring-trends {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .first-cl-cards {
+    flex-wrap: wrap;
+  }
+  .first-cl-cards .card {
+    width: 250px;
+  }
+}
+
+@media (max-width: 600px) {
+    .top-wedding-ring-trends {
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+      }
+  .first-cl-cards {
+    flex-wrap: wrap;
+  }
+  .first-cl-cards .card {
+    width: 200px;
+  }
+}
+
+.first-cl-cards::-webkit-scrollbar {
+  height: 8px;
+}
+
+.first-cl-cards::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+}
+
+.first-cl-cards::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 768px) {
+  .exclusive {
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .e-text {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 90%;
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .e-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 100%;
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+}
+
+.mte-wrt-head{
+    margin-top: 30px;
+}
