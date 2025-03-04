@@ -138,5 +138,302 @@
     "alt": "Tapered Baguette Three Stone",
     "footer": "Tapered Baguette Three Stone",
     "category": "plr-en-rings"
+  },
+  {
+    "id": 467,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fd585608a34944a7d9508fc1d24ebe2e5&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Bead",
+    "description": [
+      "Prongs with rounded beads at the tips, providing security and decorative detail."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 468,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Febf3cd09f7e94da0b17215f20ba19240&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Claw",
+    "description": [
+      "Prongs resembling claws, securely holding and showcasing the center stone."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 469,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F5f0eea68a450442bb01a473301226516&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Six Prong",
+    "description": [
+      "Six individual prongs for enhanced stability and presentation."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 470,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F48abd665f8a5463a9a9f19df23ac5f47&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Compass",
+    "description": [
+      "Prongs positioned at cardinal points around the center stone, resembling a compass."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 471,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F4a11184501f74f11ab088c18bdbeb9d2&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Bezel",
+    "description": [
+      "Center stone encircled by a metal trim, offering protection and a modern look."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 472,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F7520d5162e4941e89b6f861169078875&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Semi Bezel",
+    "description": [
+      "Variation of the bezel setting where the center stone is partially encircled by metal, combining protection with visibility."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 473,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fdbabece884ea48a29d1aea16a09b81ca&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Paddle Prong",
+    "description": [
+      "Prongs shaped like paddles, securely holding the stone with a minimal, uniform design."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 474,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fa57edeb7318b4a9597bca0a0d31bbf8b&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Multi Prong",
+    "description": [
+      "Setting with more than six prongs, offering added security and sometimes intricate designs."
+    ],
+    "category": "prong-type"
+  },
+  {
+    "id": 475,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F621e2fa848eb40c5b1fb423b1e5a6f63&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Basket",
+    "description": [
+      "These low settings feature prongs that secure the gemstone in a basket shape, optimizing the amount of light that passes through the gem."
+    ],
+    "category": "ctrGemImages"
+  },
+  {
+    "id": 476,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Faf28eea20eda4b4fb862d6f834754afa&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Trellis",
+    "description": [
+      "A trellis setting features an interwoven head that creates an elegant design and secures the gemstone low in a basket."
+    ],
+    "category": "ctrGemImages"
+  },
+  {
+    "id": 477,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F047c6b3e55c243c982faa777081779c3&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Integrated",
+    "description": [
+      "Integrated heads are cast as one continuous piece of metal and typically sit lower and more flush with bands than peg heads."
+    ],
+    "category": "ctrGemImages"
+  },
+  {
+    "id": 478,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F9b0195dc838e4f5780e966a56ab7771e&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Peg",
+    "description": [
+      "Peg heads are soldered separately onto the shank, typically holding the diamond higher than integrated heads."
+    ],
+    "category": "ctrGemImages"
+  },
+  {
+    "id": 479,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Ff982c637179447318598b88caa667593&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Cathedral",
+    "description": [
+      "In a cathedral setting, elegant archways (often called shoulders) gently taper upward towards the center gem."
+    ],
+    "category": "ctrGemImages"
+  },
+  {
+    "id": 480,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F5b4041295ff14cd4b19a91241721325a&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Pavé",
+    "description": [
+      "In this intricate setting type, gemstones are set closely together for a dazzling, diamond-encrusted look. The gemstones are held securely in place by small beads of precious metal."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 481,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F62d4f626b08642ca9415ece5cf02d9b4&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Scalloped Pavé",
+    "description": [
+      "This technique features metal beads with small U-shaped cutouts, creating a scalloped effect, and are seen as split prongs from the top."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 482,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F1c6c58433e164b22a96f19a1da098cf3&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "French Pavé",
+    "description": [
+      "In French pavé settings the metal beads securing the diamonds feature a small V-shaped cutout underneath each diamond, and are seen as split prongs from the top."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 483,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F6d125677868c419d950dd3c8728ffe9f&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Shared Prong",
+    "description": [
+      "With a shared prong setting, adjacent gemstones share precious metal prongs which allows more light to pass through and increases their brilliance and fire."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 484,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fceaf513e8c5c4e2f84c29f2e5f578965&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Single Shared Prong",
+    "description": [
+      "Adjacent gemstones are held in place by a single shared prong, minimizing metal shown and allowing maximum visibility of the stones."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 485,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fa071be05e5384861884c7cacda06c64a&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Bezel",
+    "description": [
+      "A bezel setting features a gemstone that is fully encircled by a thin border of precious metal, which holds the gem securely in place."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 486,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F95c9c51ec9b44292a1c6c7d659505afe&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Channel",
+    "description": [
+      "A channel setting features gemstones gracefully set between two parallel walls of precious metal for a smooth, elegant look."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 487,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F1aacc195592940eab57bfc42124738e7&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Flush",
+    "description": [
+      "Accent gems are set into the band so only the top of the gem is visible and the rings surface is smooth and even."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 488,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F3844823da35c478aa3b454ccef66c686&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Bar",
+    "description": [
+      "A bar setting is a variation on the channel setting in which gems are held securely in place between parallel vertical channels."
+    ],
+    "category": "accentGemImages"
+  },
+  {
+    "id": 489,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F14b1b111e0cb47858023c6fd6b05f333&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Flat",
+    "description": [
+      "Flat bands feature angular edges and sleek, flat outer surfaces."
+    ],
+    "category": "bandTypeImages"
+  },
+  {
+    "id": 490,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fe4523e9a181e4d00ab5435d6f0d84ebe&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Comfort Fit",
+    "description": [
+      "Comfort fit bands feature a rounded inside edge for increased comfort and wearability."
+    ],
+    "category": "bandTypeImages"
+  },
+  {
+    "id": 491,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F52b75bd855d34528ab21ebda1f8246dd&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Knife Edge",
+    "description": [
+      "A knife edge features two gently slanted sides that meet at a point on the exterior of the band creating a sleek and elegant look."
+    ],
+    "category": "bandTypeImages"
+  },
+  {
+    "id": 492,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F15fd661123344b2ab3f4e91819035b5b&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Rounded",
+    "description": [
+      "A rounded or half-round band features a subtly domed or softened outer surface."
+    ],
+    "category": "bandTypeImages"
+  },
+  {
+    "id": 493,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Ff71b2b01de7841ca83b3de22be773fdd&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Double Band",
+    "description": [
+      "An engagement ring design featuring two parallel bands that may run alongside each other or intersect at points, providing a unique and often modern aesthetic."
+    ],
+    "category": "bandTypeImages"
+  },
+  {
+    "id": 494,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fd625460fab334ab6a02ccdf488ae7d49&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "High Polish",
+    "description": [
+      "A finish on the metal of an engagement ring that results in a smooth and reflective surface, giving the ring a shiny and lustrous appearance."
+    ],
+    "category": "fnshDetailsImages"
+  },
+  {
+    "id": 494,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fe069b1a6183d4e4d821bf6133dfe13d5&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Matte/Brushed/Satin",
+    "description": [
+      "Featuring a soft, non-reflective quality with varying levels of texture, these finishes are popular with those going for a distinctive, vintage look."
+    ],
+    "category": "fnshDetailsImages"
+  },
+  {
+    "id": 494,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F7c45980f5401441196bd2de75ee5ff40&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Filigree",
+    "description": [
+      "An exquisite vintage design element where small threads of precious metal create artistic, lacy designs."
+    ],
+    "category": "fnshDetailsImages"
+  },
+  {
+    "id": 494,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F16d2b3444f7e4ee18025933f8b49a98b&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Milgrain",
+    "description": [
+      "This delicate beaded detailing is popular in vintage and antique style jewelry."
+    ],
+    "category": "fnshDetailsImages"
+  },
+  {
+    "id": 494,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fe995fe14e74b45ac9db0cef59f84b3c3&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Hammered",
+    "description": [
+      "Soft indentations are formed into the precious metal surface adding visual texture. This finishing detail is great for active lifestyles as it easily disguises wear and tear over time."
+    ],
+    "category": "fnshDetailsImages"
+  },
+  {
+    "id": 494,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F441c1d0d44154d7aa015ffb3c820a0a1&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "title": "Engraved",
+    "description": [
+      "Hand engraving is done by a jeweler who hand carves designs into the precious metal. Each hand engraving is unique as no two are exactly the same."
+    ],
+    "category": "fnshDetailsImages"
   }
 ]
