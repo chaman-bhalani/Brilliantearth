@@ -1,0 +1,182 @@
+.pl-vs-gl {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.pl-vs-gl-head {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.pl-vs-gl-para {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+@media (max-width: 1024px) {
+  .pl-vs-gl {
+    width: 100%;
+  }
+
+  .pl-vs-gl-head {
+    font-size: 1.8rem;
+  }
+
+  .pl-vs-gl-para {
+    font-size: 1rem;
+  }
+
+  table {
+    font-size: 0.9rem;
+  }
+
+  th,
+  td {
+    padding: 8px;
+  }
+}
+
+@media (max-width: 768px) {
+  .pl-vs-gl {
+    width: 100%;
+  }
+
+  .pl-vs-gl-head {
+    font-size: 1.5rem;
+  }
+
+  .pl-vs-gl-para {
+    font-size: 0.95rem;
+  }
+
+  table {
+    font-size: 0.85rem;
+  }
+
+  th,
+  td {
+    padding: 6px;
+  }
+}
+
+.precious-mtl-cl-reverse {
+  flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 768px) {
+  .exclusive {
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .e-text {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 90%;
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .e-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 100%;
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+}
+
+.pl-vs-gl-better {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.pl-cs-gl-better-head {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.pl-vs-gl-better p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.pplr-enr {
+  margin-bottom: 30px;
+}
+
+.pplr-enr-head {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}

@@ -21,6 +21,7 @@ import WeddingRingTrends from "./pages/WeddingRingTrends";
 import WeddingRingBudgetGuide from "./pages/WeddingRingBudgetGuide";
 import EngagementRingStyleGuide from "./pages/EngagementRingStyleGuide";
 import BuyingGuideEngagementRing from "./pages/BuyingguideEngagementRing";
+import PreciousMetals from "./pages/PreciousMetals";
 
 function App() {
   return (
@@ -64,6 +65,8 @@ function App() {
           path="/buying-guide-engagement-ring"
           element={<BuyingGuideEngagementRing />}
         />
+
+        <Route path="/precious-metals" element={<PreciousMetals />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />

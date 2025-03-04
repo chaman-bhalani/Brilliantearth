@@ -122,7 +122,7 @@ const Navbar = () => {
                   <Link to="/buying-guide-engagement-ring">
                     How Much to Spend on an Engagement Ring
                   </Link>
-                  <Link to="/is-platinum-better-than-gold?">
+                  <Link to="/precious-metals">
                     Is Platinum Better Than Gold?
                   </Link>
                   <Link to="/Free-Ring-Sizer">Free Ring Sizer</Link>

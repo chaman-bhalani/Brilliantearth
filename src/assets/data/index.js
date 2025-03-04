@@ -64,3 +64,4 @@ export { default as EngRingStyleGuideData } from "./eng-ring-style-guide.json";
 export { default as popularEnRings } from "./popular-en-rings.json";
 export { default as engRingSettingData } from "./eng-ring-setting.json";
 export { default as engRingBuyingGuideData } from "./enr-buying-guide-data.json";
+export { default as preciusMetalData } from "./precious-metals.json";

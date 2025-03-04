@@ -1,0 +1,34 @@
+[
+  {
+    "id": 495,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F07ecfd32f8954c3ba1e6ad787318d51d",
+    "alt": "platinum ring image",
+    "title": "Platinum",
+    "description": "Platinum is a precious metal renowned for its exceptional durability, natural white sheen, and luxurious appeal. Its density and strength make it an excellent choice for crafting fine jewelry and its hypoallergenic properties also make it an ideal option for those with sensitive skin. Platinum does not tarnish or fade over time, so it will maintain its brilliant luster with minimal maintenance. However, over time, platinum can develop a soft matte layer over the metal called a patina, which can give it a slightly frosted finish. To keep platinum jewelry looking its best, regular cleaning is recommended. A simple solution of mild soap and warm water, combined with gentle scrubbing using a soft-bristle brush, can effectively remove dirt and oils. Platinum's inherent durability ensures that it withstands the rigors of daily wear, making it a cherished and enduring choice for significant pieces like engagement rings.",
+    "btnText": ["Shop Platinum Rings", "Shop Platinum Jewelry"]
+  },
+  {
+    "id": 496,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F0eca311fe7e743f2ac3b46f03401fa80",
+    "alt": "White Gold Ring Image",
+    "title": "White Gold",
+    "description": "White gold is made by combining pure gold with white metals such as palladium or nickel, followed by a rhodium plating to enhance its bright, silvery appearance. This combination results in a metal that is both durable and beautiful, making it a popular choice for fine jewelry. A mixture of mild soap and warm water can be used for routine cleaning, along with a soft cloth or brush to gently remove any buildup. Over time, the rhodium plating on white gold may wear off. To maintain its bright white appearance, white gold jewelry should be periodically re-plated by a professional jeweler. Additionally, white gold is generally not hypoallergenic due to its nickel content, so individuals with sensitive skin should consider white gold alloys with palladium or a hypoallergenic metal like platinum.",
+    "btnText": ["Shop White Gold Rings", "Shop White Gold Jewelry"]
+  },
+  {
+    "id": 497,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fbd7ca2e55c1c491db4312f2c5142bb55",
+    "alt": "Yellow Gold Ring Image",
+    "title": "Yellow Gold",
+    "description": "Yellow gold is a classic and timeless metal, prized for its warm, rich hue. Regular cleaning with a mild soap and warm water solution helps maintain its shine, and a soft cloth or brush can be used to gently scrub away dirt and oils. Additionally, yellow gold is generally hypoallergenic, especially in higher karats, making it a suitable choice for individuals with sensitive skin.",
+    "btnText": ["Shop Yellow Gold Rings", "Shop Yellow Gold Jewelry"]
+  },
+  {
+    "id": 498,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fba581e7c678d4acea44ba5e831e4edb8",
+    "alt": "Rose Gold Ring Image",
+    "title": "Rose Gold",
+    "description": "Rose gold is a romantic and distinctive metal known for its warm, blush-pink hue. It is created by alloying pure gold with copper, which gives it its beautiful color. Caring for rose gold follows similar principles to caring for other gold tones. Regular cleaning with a mild soap and warm water solution helps remove dirt and oils, while a soft cloth or brush can be used for gentle scrubbing. As with yellow gold, rose gold is generally hypoallergenic, making it suitable for those with sensitive skin.",
+    "btnText": ["Shop Rose Gold Rings", "Shop Rose Gold Jewelry"]
+  }
+]
