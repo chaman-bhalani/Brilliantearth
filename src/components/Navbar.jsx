@@ -126,7 +126,7 @@ const Navbar = () => {
                     Is Platinum Better Than Gold?
                   </Link>
                   <Link to="/Free-Ring-Sizer">Free Ring Sizer</Link>
-                  <Link to="/025-Engagement-Ring-Trends">
+                  <Link to="/2025-Engagement-Ring-Trends">
                     2025 Engagement Ring Trends
                   </Link>
                 </div>

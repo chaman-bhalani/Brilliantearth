@@ -65,3 +65,5 @@ export { default as popularEnRings } from "./popular-en-rings.json";
 export { default as engRingSettingData } from "./eng-ring-setting.json";
 export { default as engRingBuyingGuideData } from "./enr-buying-guide-data.json";
 export { default as preciusMetalData } from "./precious-metals.json";
+export { default as topEightRingsData } from "./top-eight-eng-rings.json";
+export { default as topEngRingsCardData } from "./top-eng-rings-card-data.json";
