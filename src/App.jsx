@@ -20,6 +20,7 @@ import Engraving from "./pages/Engraving";
 import WeddingRingTrends from "./pages/WeddingRingTrends";
 import WeddingRingBudgetGuide from "./pages/WeddingRingBudgetGuide";
 import EngagementRingStyleGuide from "./pages/EngagementRingStyleGuide";
+import BuyingGuideEngagementRing from "./pages/BuyingguideEngagementRing";
 
 function App() {
   return (
@@ -57,6 +58,11 @@ function App() {
         <Route
           path="/engagement-ring-style-guide"
           element={<EngagementRingStyleGuide />}
+        />
+
+        <Route
+          path="/buying-guide-engagement-ring"
+          element={<BuyingGuideEngagementRing />}
         />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />

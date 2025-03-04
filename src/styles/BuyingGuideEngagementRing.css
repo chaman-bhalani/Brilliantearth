@@ -1,0 +1,184 @@
+.enr-buying-guide-bg .image-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.enr-buying-guide-bg .photo-overlay-content {
+  width: 600px;
+  position: absolute;
+  top: 85%;
+  left: 10%;
+  transform: translate(-20%, -100%);
+  color: rgb(0, 0, 0);
+  text-align: left;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.enr-buying-guide-bg .photo-head {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.enr-buying-guide-bg .photo-pera {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.enr-buying-guide-bg .button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.enr-buying-guide-bg .poster-button {
+  padding: 10px 20px;
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
+.enr-buying-guide-bg .poster-button:hover {
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .enr-buying-guide-bg .photo-overlay-content {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .enr-buying-guide-bg .photo-head {
+    font-size: 1.5rem;
+  }
+
+  .enr-buying-guide-bg .photo-pera {
+    font-size: 1rem;
+  }
+
+  .enr-buying-guide-bg .poster-button {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .enr-buying-guide-bg .photo-overlay-content {
+    width: 50%;
+  }
+}
+
+.enr-buying-guide-msg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.enr-buying-guide-msg-para {
+  width: 70%;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 0 auto;
+}
+
+.cost-info-cl-reverse {
+  flex-direction: row-reverse;
+}
+.cost-info-cl-reverse .second {
+  line-height: 1.4rem;
+}
+
+.cost-info-cl-reverse .price-btn1 {
+  width: 500px;
+  padding: 10px 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+@media screen and (max-width: 768px) {
+  .exclusive {
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .e-text {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 90%;
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .e-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 100%;
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+}
+
+.engagement-ring-budget-tips {
+  width: 65%;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.engagement-ring-budget-tips h2 {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.engagement-ring-budget-tips ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.engagement-ring-budget-tips ul li {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}

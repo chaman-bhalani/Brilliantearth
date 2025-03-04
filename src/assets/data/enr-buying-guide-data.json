@@ -1,0 +1,30 @@
+[
+  {
+    "id": 495,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F12a06eaf8b0847b1a0775f54cf5dd333   ",
+    "alt": "Ring Image",
+    "title": "Average Engagement Ring Cost",
+    "description": "The long-held trope of spending the equivalent of three months of annual salary on an engagement ring is no longer a hard and fast rule. Many couples are taking a more holistic view of their finances and their preferences when setting a budget. While engagement ring trends influence the average engagement ring cost over time, the average carat for engagement rings is around 1.5 carats.",
+    "btnText": []
+  },
+  {
+    "id": 496,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fe32db564de3d40e092e5c0c76f8588c1",
+    "alt": "Ring Image",
+    "title": "How Much Should an Engagement Ring Cost?",
+    "description": [
+      "It’s helpful to start with a budget range based on your financial situation, and will provide you with a general sense of your options.Then, it's important to confirm your partner's taste and expectations, considering what they want in their ring regardless of the price – whether through direct conversations, window shopping, or conferring with their family and friends. The meaning behind the ring is an especially important factor – for instance, perhaps your partner would prefer to reset an heirloom diamond, or skip a traditional diamond altogether. There is also the option of purchasing a “starter ring” with a diamond alternative that can be upgraded later, while you and your partner save up for a diamond or custom ring. Brilliant Earth also offers a free lifetime upgrade on our natural and lab grown diamonds."
+    ],
+    "btnText": ["Shop Natural Diamonds", "Shop Lab Diamonds"]
+  },
+  {
+    "id": 497,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F26939a1d72a846b18b52f00c39b94ed5",
+    "alt": "Ring Image",
+    "title": "Flexible Payment Options",
+    "description": [
+      "Many brands now offer alternative financing options. From layaway to flexible payment plans, we offer several options for financing your order. Financing options are subject to credit approval and can allow you to make monthly payments on any purchase after an initial deposit. You can visit our financing page for more information."
+    ],
+    "btnText": []
+  }
+]
