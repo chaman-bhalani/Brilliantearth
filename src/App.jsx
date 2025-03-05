@@ -24,6 +24,7 @@ import BuyingGuideEngagementRing from "./pages/BuyingGuideEngagementRing";
 import PreciousMetals from "./pages/PreciousMetals";
 import EngagementRingTrends from "./pages/EngagementRingTrends";
 import FreeRingSizer from "./pages/FreeRingSizer";
+import MenWeddingRingStyleGuide from "./pages/MenWeddingRingStyleGuide";
 
 function App() {
   return (
@@ -49,7 +50,14 @@ function App() {
           path="/womens-weddingband-style-guide"
           element={<WomensWeddingBandStyleGuide />}
         />
+
+        <Route
+          path="/mens-wedding-band-style-gide"
+          element={<MenWeddingRingStyleGuide />}
+        />
+
         <Route path="/ring-engraving-giude" element={<Engraving />} />
+
         <Route
           path="/2025-wedding-ring-trends"
           element={<WeddingRingTrends />}

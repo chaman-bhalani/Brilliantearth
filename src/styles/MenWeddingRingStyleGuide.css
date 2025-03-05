@@ -1,0 +1,50 @@
+.mwrsg-msg {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.men-wedding-band-style-cl-reverse {
+  flex-direction: row-reverse;
+}
+
+.men-wedding-band-style-cl .e-text,
+.men-wedding-band-style-cl-reverse .e-text {
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.men-wedding-band-style-cl .section-head,
+.men-wedding-band-style-cl-reverse .section-head {
+  font-weight: bold;
+  margin-top: 20px;
+}
+.men-wedding-band-style-cl .section-link,
+.men-wedding-band-style-cl-reverse .section-link {
+  color: black;
+}
+
+.matching-wed-band {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.mens-wedding-band-custom {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 40px;
+}
+
+.mens-wedding-band-custom button {
+  background: white;
+  border: 1px solid black;
+  color: black;
+}
+.mens-wedding-band-custom button:hover {
+  background-color: rgb(52, 46, 46);
+  color: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}

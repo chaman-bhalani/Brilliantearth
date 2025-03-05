@@ -250,5 +250,17 @@
     "heading": "How To Measure Ring Size at Home",
     "paragraph": "We've made measuring your ring size at home easy with our free ring sizer, printable ring size chart, and step-by-step methods to help you find the perfect fit.",
     "buttons": []
+  },
+  {
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fd7881ffb157f47949175abcbde0dc8d8&w=1920&q=95&dpl=e0fcc8574d264ef913e10532c7387538374dad15",
+    "alt": "Background Image",
+    "heading": "Men's Wedding Band Styles",
+    "paragraph": "From diamond accents to textured finishes, explore different men's wedding band styles to pick the perfect piece",
+    "buttons": [
+      {
+        "text": "Shop Men's Wedding Bands",
+        "link": ""
+      }
+    ]
   }
 ]

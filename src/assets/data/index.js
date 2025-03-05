@@ -69,3 +69,5 @@ export { default as topEightRingsData } from "./top-eight-eng-rings.json";
 export { default as topEngRingsCardData } from "./top-eng-rings-card-data.json";
 export { default as freeRingSizerData } from "./free-ring-sizer-data.json";
 export { default as ringSizeTableData } from "./ring-size-table.json";
+export { default as menWeddingRingStyleData } from "./men-wedding-ring-cl-data.json";
+export { default as menWeddingRingStyleCardData } from "./men-wedding-ring-style-card.json";
