@@ -23,6 +23,7 @@ import EngagementRingStyleGuide from "./pages/EngagementRingStyleGuide";
 import BuyingGuideEngagementRing from "./pages/BuyingguideEngagementRing";
 import PreciousMetals from "./pages/PreciousMetals";
 import EngagementRingTrends from "./pages/EngagementRingTrends";
+import FreeRingSizer from "./pages/FreeRingSizer";
 
 function App() {
   return (
@@ -73,6 +74,7 @@ function App() {
           path="/2025-Engagement-Ring-Trends"
           element={<EngagementRingTrends />}
         />
+        <Route path="/Free-Ring-Sizer" element={<FreeRingSizer />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />
