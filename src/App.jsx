@@ -20,7 +20,7 @@ import Engraving from "./pages/Engraving";
 import WeddingRingTrends from "./pages/WeddingRingTrends";
 import WeddingRingBudgetGuide from "./pages/WeddingRingBudgetGuide";
 import EngagementRingStyleGuide from "./pages/EngagementRingStyleGuide";
-import BuyingGuideEngagementRing from "./pages/BuyingguideEngagementRing";
+import BuyingGuideEngagementRing from "./pages/BuyingGuideEngagementRing";
 import PreciousMetals from "./pages/PreciousMetals";
 import EngagementRingTrends from "./pages/EngagementRingTrends";
 import FreeRingSizer from "./pages/FreeRingSizer";
