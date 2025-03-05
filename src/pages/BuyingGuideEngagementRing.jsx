@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/BuyingguideEngagementRing.css";
+import "../styles/BuyingGuideEngagementRing.css";
 import Logo from "../components/Logo";
 import Navbar from "../components/Navbar";
 import BackgroundImage from "../components/PosterPhoto";
