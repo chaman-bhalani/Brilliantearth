@@ -1,8 +1,179 @@
-.req-free-ring-sizer-head{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+.req-free-ring-sizer-head {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
 }
 
-.free-ring-sizer-form .second{
+.free-ring-sizer-form .second {
+  font-size: 1rem;
+}
+
+.table-container {
+  width: 70%;
+  overflow-x: auto;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .table-container {
+    width: 100%;
+  }
+
+  th,
+  td {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  th,
+  td {
+    font-size: 10px;
+    padding: 4px;
+  }
+}
+
+.make-your-ring-sizer {
+  margin-top: 40px;
+}
+
+.myrs-head1,
+.myrs-head2,
+.myrs-head3 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.make-your-ring-sizer-cl .e-text,
+.re-make-your-ring-sizer-cl .e-text {
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+}
+.make-your-ring-sizer-cl .second,
+.re-make-your-ring-sizer-cl .second {
+  font-weight: bold;
+}
+
+.re-make-your-ring-sizer-cl {
+  flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 768px) {
+  .exclusive {
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+  }
+
+  .e-text {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     font-size: 1rem;
+    text-align: center;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 90%;
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .e-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+
+  .sol-img {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .sol-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .exc-btn {
+    width: 100%;
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+}
+
+.ring-fit-guide {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.ring-fit-head {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.ring-fit-guide p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.ring-size-tips-head {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 0;
+}
+
+.resizing {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 40px;
+}
+
+.resizing-head {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.resizing p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
 }

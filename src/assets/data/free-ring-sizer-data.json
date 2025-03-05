@@ -5,5 +5,139 @@
     "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F83c4993e5f204bcfac8c8c5731f11529&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
     "alt": "Engagement Rings",
     "btnText": ["Shop Now", "Learn More"]
+  },
+  {
+    "title": [],
+    "description1": "What you'll need:",
+    "listItems": [
+      "Printer & paper",
+      "String, yarn, floss, or a thin strip of paper",
+      "Pen or marker",
+      "Ruler"
+    ],
+    "description2": "Steps:",
+    "orderedListItems": [
+      "Cut a piece of string, yarn, floss, or thin strip of paper to at least three inches long.",
+      "Wrap one end of the string around the base of the intended finger.",
+      "Using a pen or marker, mark where the end of the string overlaps with the rest.",
+      "Lay the string flat and use a ruler to measure the length between the end and your mark in millimeters.",
+      "Use the Ring Size Conversion Chart to match the millimeter length to the corresponding ring size."
+    ],
+    "btnText": [],
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F3c970b14d7aa4874a3236b520c49a74b&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "description of image"
+  },
+  {
+    "title": [],
+    "description1": "What you'll need:",
+    "listItems": ["Printer & paper", "Scissors"],
+    "description2": "Steps:",
+    "orderedListItems": [
+      "Print the Printable Ring Sizer & Conversion Chart. Set page scaling to '100' in your print settings and use 8.5 x 11-inch standard paper.",
+      "Cut out the ring sizer and the slot as instructed.",
+      "Wrap the paper ring sizer snuggly around the base of the intended finger so that the numbers are visible and insert the pointed end through the slit you made in the sizer.",
+      "Note the number that lines up with the slit; this is your ring size! Remember that quarter sizes are also available if your sizer indicates that you are between whole and half sizes."
+    ],
+    "btnText": [],
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fdd6eab4e9b824ae99fc82fba90075e91&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "description of image"
+  },
+  {
+    "title": [],
+    "description1": "What you'll need:",
+    "listItems": ["Printer & paper", "Scissors", "An existing ring "],
+    "description2": "Steps:",
+    "orderedListItems": [
+      "Print the Printable Ring Sizer & Conversion Chart. Set page scaling to '100' in your print settings and use 8.5 x 11-inch standard paper.",
+      "Choose a ring that correctly fits the intended finger.",
+      "Lay the ring over each size circle within the chart until you can closely match the inside edge to one of the circles on the guide. If the ring falls between two sizes, contact us to order the quarter size between them."
+    ],
+    "btnText": [],
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F93012cfbd6564ab0955360b0ea4bf2a1&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "description of image"
+  },
+  {
+    "title": [],
+    "description": [],
+    "listItems": [
+      "Our dominant hands are generally slightly larger – measure the hand you plan to wear the ring on.",
+      "Consider the design of your ring. Rings with wider bands will fit tighter. Plan to size up by at least a half size for chunky bands (>4mm) and size down accordingly for very thin designs (<1.3mm). Note that ring sizes are generally measured in millimeters (mm) and are not sized by inch.",
+      "Ensure your body temperature is normal – fingers tend to shrink when cold and expand when hot.",
+      "Fingers change size throughout the day based on the water we drink and the food we eat – the best time to measure is towards the middle or end of the day.",
+      "If your knuckle is pronounced, you may want to measure both the knuckle and the base of the finger. Then, choose a size in between those measurements as rings need to fit over the knuckle but not be too loose or tight to wear comfortably."
+    ],
+    "btnText": [],
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F30f7a585be394a61929a25d8a76de35f&w=1080&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Exclusive Collection Image"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fca73ee115df6433e8418ac868f0e03bd&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Abierta Diamond Ring Image",
+    "category": "fashion-rings",
+    "footer": "Abierta Diamond Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F8003baf754f94fe586e7fc0803ee50ad&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Coastal Ombre Ring Image",
+    "category": "fashion-rings",
+    "footer": "Coastal Ombre Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fbeb362f9467f448386f7dc1c24ed48f1&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Festivity Prasiolite and Diamond Cocktail Ring Image",
+    "category": "fashion-rings",
+    "footer": "Festivity Prasiolite and Diamond Cocktail Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252Fdf5897b518904284b1be3205c7a3945b&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Leo Zodiac Diamond Signet Ring Image",
+    "category": "fashion-rings",
+    "footer": "Leo Zodiac Diamond Signet Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F65163fce1b27432cab7e235cfab264d3&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Luxe Ballad Black Diamond Ring Image",
+    "category": "fashion-rings",
+    "footer": "Luxe Ballad Black Diamond Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F1175ae5644014a509baf544cea43f11d&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Marina Diamond Ring Image",
+    "category": "fashion-rings",
+    "footer": "Marina Diamond Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F65f6f3a4346347cda724456c6aee0387&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Marlene Cultured Pearl and Diamond Ring Image",
+    "category": "fashion-rings",
+    "footer": "Marlene Cultured Pearl and Diamond Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F5122d6b08c524eb594eae6eac10dd5c6&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Petite Vera Diamond Chain Ring Image",
+    "category": "fashion-rings",
+    "footer": "Petite Vera Diamond Chain Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F73ae0f68484548acb9fa278fd9a5a445&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Sonya Lab Diamond Wrap Ring Images",
+    "category": "fashion-rings",
+    "footer": "Sonya Lab Diamond Wrap Ring"
+  },
+  {
+    "id": 555,
+    "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F9f2a69003c86470ea05deb9ecb9887be%252F2d276c8f455247f7b8c1868faa40e840&w=384&q=75&dpl=b40d4d42868e502b277a146105e0235eff008551",
+    "alt": "Toi Et Moi Morganite and Pink Tourmaline Cocktail Ring Images",
+    "category": "fashion-rings",
+    "footer": "Toi Et Moi Morganite and Pink Tourmaline Cocktail Ring"
   }
 ]

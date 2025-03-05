@@ -68,3 +68,4 @@ export { default as preciusMetalData } from "./precious-metals.json";
 export { default as topEightRingsData } from "./top-eight-eng-rings.json";
 export { default as topEngRingsCardData } from "./top-eng-rings-card-data.json";
 export { default as freeRingSizerData } from "./free-ring-sizer-data.json";
+export { default as ringSizeTableData } from "./ring-size-table.json";
