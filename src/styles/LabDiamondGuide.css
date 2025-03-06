@@ -1,0 +1,130 @@
+.lab-diamond-cl-reverse {
+  flex-direction: row-reverse;
+}
+.lab-diamond-cl-reverse .e-text,
+.lab-diamond-cl .e-text {
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+}
+.lab-diamond-cl-reverse .e-text .first {
+  margin-bottom: 0;
+}
+.lab-diamond-cl-reverse .section-head {
+  font-size: 22px;
+  font-weight: 550;
+}
+
+.lab-diamond-cl-reverse-video {
+  margin-top: 40px;
+}
+.lab-diamond-cl-reverse-video .exclusive {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.lab-diamond-cl-reverse-video .exclusive .e-text {
+  width: 55%;
+  text-align: left;
+  margin-right: 20px;
+}
+
+.exclusive .sol-video {
+  width: 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.exclusive .sol-video video {
+  width: 100%;
+}
+
+.lab-diamond-cl-reverse-video .e-text {
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+}
+.lab-diamond-cl-reverse-video .section-head {
+  font-weight: 550;
+}
+
+.lab-diamond-cl-reverse-video .p-button {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+@media (max-width: 768px) {
+  .exclusive {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .exclusive .e-text {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .exclusive .sol-video {
+    width: 100%;
+  }
+}
+
+.lab-diamond-benifits {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 100%;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #183e40;
+  margin-bottom: 40px;
+}
+
+.lab-diamond-benifits h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.benefit-section {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 50px; 
+}
+
+.benefit-item {
+  max-width: 300px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.benefit-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: white;
+}
+
+.benefit-item p {
+  font-size: 1rem;
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .benefit-section {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .benefit-item {
+    max-width: 90%;
+    margin-bottom: 20px;
+  }
+}
+
+

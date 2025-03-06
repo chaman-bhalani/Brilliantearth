@@ -126,7 +126,7 @@ const Navbar = () => {
                     Is Platinum Better Than Gold?
                   </Link>
                   <Link to="/Free-Ring-Sizer">Free Ring Sizer</Link>
-                  <Link to="/2025-Engagement-Ring-Trends">
+                  <Link to="/025-Engagement-Ring-Trends">
                     2025 Engagement Ring Trends
                   </Link>
                 </div>
@@ -253,7 +253,30 @@ const Navbar = () => {
                   <Link to="/heart">Heart</Link>
                   <Link to="/elongated-cushion">Elongated Cushion</Link>
                 </div>
+
+                <div className="br-earth-diffrence">
+                  <h5>BRILLIANT EARTH DIFFERANCE</h5>
+                  <Link to="/weve-got-you-covered">We've got you covered</Link>
+                  <Link to="/diamond-transparency">Diamond Transparency</Link>
+                  <Link to="/our-mission">Our Mission</Link>
+                  <Link to="/diamond-innovation">Diamond Innovation</Link>
+                  <Link to="/recycled-gold">Recycled Gold</Link>
+                </div>
               </div>
+
+              <div className="hh2">
+                  <div className="diamond-guides">
+                    <h5>DIAMOND GUIDES</h5>
+                    <Link to="/diamond-cut-guide">Diamond Cut Guide</Link>
+                    <Link to="/diamond-color-guide">Diamond Color Guide</Link>
+                    <Link to="/diamond-clarity-guide">
+                      Diamond Clarity Guide
+                    </Link>
+                    <Link to="/diamond-carat-guide">Diamond Carat Guide</Link>
+                    <Link to="/diamond-shape-guide">Diamond Shape Guide</Link>
+                    <Link to="/lab-diamond-guide">Lab Diamond Guide</Link>
+                  </div>
+                </div>
             </div>
           )}
         </li>

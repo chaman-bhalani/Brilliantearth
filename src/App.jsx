@@ -25,6 +25,12 @@ import PreciousMetals from "./pages/PreciousMetals";
 import EngagementRingTrends from "./pages/EngagementRingTrends";
 import FreeRingSizer from "./pages/FreeRingSizer";
 import MenWeddingRingStyleGuide from "./pages/MenWeddingRingStyleGuide";
+import DiamondCutGuide from "./pages/DiamondCutGuide";
+import DiamondColorGuide from "./pages/DiamondColorGuide";
+import DiamondClarityGuide from "./pages/DiamondClarityGuide";
+import DiamondCaratGuide from "./pages/DiamondCaratGuide";
+import DiamondShapeGuide from "./pages/DiamondShapeGuide";
+import LabDiamondGuide from "./pages/LabDiamondGuide";
 
 function App() {
   return (
@@ -79,10 +85,20 @@ function App() {
         <Route path="/precious-metals" element={<PreciousMetals />} />
 
         <Route
-          path="/2025-Engagement-Ring-Trends"
+          path="/025-Engagement-Ring-Trends"
           element={<EngagementRingTrends />}
         />
         <Route path="/Free-Ring-Sizer" element={<FreeRingSizer />} />
+
+        <Route path="/diamond-cut-guide" element={<DiamondCutGuide />} />
+        <Route path="/diamond-color-guide" element={<DiamondColorGuide />} />
+        <Route
+          path="/diamond-clarity-guide"
+          element={<DiamondClarityGuide />}
+        />
+        <Route path="/diamond-carat-guide" element={<DiamondCaratGuide />} />
+        <Route path="/diamond-shape-guide" element={<DiamondShapeGuide />} />
+        <Route path="/lab-diamond-guide" element={<LabDiamondGuide />} />
 
         <Route path="/wedding-rings" element={<WeddingRings />} />
         <Route path="/diamonds" element={<Diamonds />} />

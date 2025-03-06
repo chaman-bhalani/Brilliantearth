@@ -1,0 +1,99 @@
+[
+  {
+    "id": 585,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F5ebc8791ef4f4dd0a0d89bed688599a0",
+    "alt": "Sol Collection Image",
+    "title": "What Is a Lab Grown Diamond?",
+    "description": "Lab grown diamonds are real diamonds produced in a controlled setting. They are grown in two ways: a High Pressure, High Temperature (HPHT) process that mimics their natural formation in the Earth, or a Chemical Vapor Deposition (CVD) process. Both processes begin with a pure carbon seed arranged in a crystalline structure and result in a lab diamond that is identical to a mined diamond. Lab grown diamonds are available in colorless ranges and rare fancy colors.",
+    "btnText": ["Design Your Own Lab Diamond Ring"]
+  },
+  {
+    "id": 586,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F2981caa5c4eb4333a3c7ecb98dfd53f5",
+    "alt": "Rings Image",
+    "title": "Are Lab Grown Diamonds Real?",
+    "description": [
+      "Yes, lab grown diamonds are as real as natural diamonds are. Their only difference is origin: lab created diamonds are grown in laboratory settings, while natural diamonds form deep in the Earth. Chemically, physically, and optically, lab diamonds are identical to natural diamonds, with the same hardness, brilliance, and fire.",
+      "A common misconception is that lab created diamonds lack certain qualities of natural diamonds, but they are indistinguishable—only experts using advanced laboratory equipment can detect subtle differences in their growth patterns.",
+      "Lab diamonds also undergo the same grading process as natural diamonds: an assessment of the four Cs—cut, color, clarity, and carat weight. Reputable gemological labs, such as the Gemological Institute of America (GIA) and the International Gemological Institute (IGI), certify lab created diamonds using the same standards as those applied to natural diamonds."
+    ],
+    "btnText": ["Shop Lab Diamond Jewelry"]
+  },
+  {
+    "title": "Lab Grown vs. Natural Diamond",
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fd7a2ac4b68f44f84a7520a621e4881bc",
+    "alt": "Collection Image",
+    "sections": [
+      {
+        "head": [],
+        "para": "The only difference between natural and lab created diamonds is where they come from. Natural diamonds form deep beneath the Earth’s surface under extreme conditions of heat and pressure over billions of years. In contrast, lab diamonds are produced in weeks to months from diamond seeds with the same chemical composition as natural diamonds. Without specialized equipment, it’s nearly impossible to tell lab created diamonds apart from natural ones. Though there are no physical differences between the two, here's how they contrast:",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "Origin ",
+        "para": "Lab-grown diamonds are produced in a controlled laboratory setting, whereas natural diamonds are extracted through mining from the Earth.",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "Price",
+        "para": "Lab grown diamonds typically cost less than natural diamonds of comparable quality.",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "Rarity",
+        "para": "Natural diamonds are much rarer than lab-grown diamonds. Because of their limited quantity, natural diamonds have been cherished for their enduring value and passed from generation to generation.",
+        "linkText": [],
+        "linkUrl": []
+      }
+    ]
+  },
+  {
+    "title": "How Are Lab Grown Diamonds Made?",
+    "sections": [
+      {
+        "head": [],
+        "para": "Lab grown diamonds start as tiny carbon seeds from pre-existing diamonds. Two primary techniques are used to create lab diamonds: High Pressure High Temperature (HPHT) and Chemical Vapor Deposition (CVD). Both methods simulate part of the natural diamond-forming process, resulting in high-quality gemstones that match mined diamonds in every way. After six to ten weeks, a rough diamond is created, then cut, polished, and set in jewelry. Learn more about how lab grown diamonds are made in this comprehensive guide.",
+        "linkUrl": [],
+        "linkText": []
+      },
+      {
+        "head": "Types of Lab Grown Diamonds",
+        "para": "With the naked eye, it’s impossible to differentiate between natural diamonds, HPHT lab diamonds, and CVD lab diamonds; only experts can identify subtle markers related to growth conditions. Both methods yield real diamonds with no differences in durability or quality, differing only in growth patterns and production time.",
+        "linkUrl": [],
+        "linkText": []
+      },
+      {
+        "head": "High Pressure High Temperature Lab Diamonds ",
+        "para": "This method mimics the natural conditions under which diamonds form inside the Earth. A diamond seed is placed in a chamber and subjected to intense heat (over 2,000 degrees Celsius) and pressure (1.5 million pounds per square inch). The carbon atoms in the chamber bond with the seed, crystallizing into a diamond. ",
+        "linkUrl": [],
+        "linkText": []
+      },
+      {
+        "head": "Chemical Vapor Deposition Lab Diamonds",
+        "para": "CVD diamonds grow when a thin piece of diamond seed is placed in a vacuum chamber filled with a carbon-rich gas mixture (typically methane and hydrogen) that’s heated to break down the gas molecules. Carbon atoms settle onto the seed, building layer by layer until the diamond reaches its desired size. Some CVD diamonds undergo additional pressure and heat treatment after growth.",
+        "linkUrl": [],
+        "linkText": []
+      }
+    ],
+    "videoUrl": "https://cdn.builder.io/o/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fd56ddddc79d143b6932ac095f575ad05%2Fcompressed?apiKey=9f2a69003c86470ea05deb9ecb9887be&token=d56ddddc79d143b6932ac095f575ad05&alt=media&optimized=true",
+    "btnText": ["HPHT Diamond Guide", "CVD Diamond Guide"]
+  },
+  {
+    "title": "Difference Between Lab Grown and Natural Diamonds",
+    "description": "To the naked eye, lab grown and natural diamonds are indistinguishable. However, trained gemologists can detect minor differences in their growth structure and inclusions under high magnification. Specialized equipment can identify growth patterns unique to lab created diamonds, such as certain fluorescence patterns and distinctive internal structures. ",
+    "listItems": [
+      "Identifiers of Lab Grown Diamonds :",
+      "Internal Growth Patterns: HPHT and CVD diamonds may exhibit growth patterns that slightly differ from the octahedral growth pattern in natural diamonds.",
+      " These slight differences are only visible with gemological equipment.",
+      "Inclusions: Natural diamonds often contain inclusions from natural minerals, while lab created diamonds may contain metallic inclusions or other markers related to the growth process.",
+      "Laser Inscription: Many lab created diamonds are inscribed on the girdle with a microscopic mark indicating their lab origin.",
+      "Do you think you can tell the difference between lab grown and natural diamonds just by looking? Test your eye with these side-by-side images."
+    ],
+    "btnText": [],
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F36d28dc4d68b402fae51c6a3a1655179",
+    "alt": "Exclusive Collection Image"
+  }
+]

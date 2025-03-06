@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
 
-const CollectionWithLinks = ({ data, className }) => {
+const CollectionWithVideoAndButtons = ({ data, className }) => {
   return (
     <section className={`exclusive ${className}`}>
       <div className="e-text">
@@ -15,12 +15,21 @@ const CollectionWithLinks = ({ data, className }) => {
             </a>
           </div>
         ))}
+        <div className="p-button">
+          {data.btnText.map((btnText, index) => (
+            <button key={index} className="price-btn1">
+              {btnText}
+            </button>
+          ))}
+        </div>
       </div>
-      <div className="sol-img">
-        <img src={data.imgUrl} alt={data.alt} />
+      <div className="sol-video">
+        <video controls autoPlay loop>
+          <source src={data.videoUrl} type="video/mp4" />
+        </video>
       </div>
     </section>
   );
 };
 
-export default CollectionWithLinks;
+export default CollectionWithVideoAndButtons;

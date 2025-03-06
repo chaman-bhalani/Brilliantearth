@@ -262,5 +262,17 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F02924119991045abb1306e209c369ce1",
+    "alt": "Background Image",
+    "heading": "What Is a Lab Grown Diamond?",
+    "paragraph": "Lab grown diamonds are diamonds created in a laboratory environment. They are chemically, physically, and optically identical to natural diamonds",
+    "buttons": [
+      {
+        "text": "Shop Lab Grown Diamonds",
+        "link": ""
+      }
+    ]
   }
 ]

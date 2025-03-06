@@ -71,3 +71,6 @@ export { default as freeRingSizerData } from "./free-ring-sizer-data.json";
 export { default as ringSizeTableData } from "./ring-size-table.json";
 export { default as menWeddingRingStyleData } from "./men-wedding-ring-cl-data.json";
 export { default as menWeddingRingStyleCardData } from "./men-wedding-ring-style-card.json";
+export { default as labDiamondClData } from "./lab-diamond-cl-data.json";
+export { default as labDiamondTgCardData } from "./lab-diamond-tg-card-data.json";
+export { default as rtsRingData } from "./ready-to-ship-en-rings-lab-diamond.json";
