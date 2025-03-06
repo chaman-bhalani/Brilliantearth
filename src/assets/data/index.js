@@ -74,3 +74,5 @@ export { default as menWeddingRingStyleCardData } from "./men-wedding-ring-style
 export { default as labDiamondClData } from "./lab-diamond-cl-data.json";
 export { default as labDiamondTgCardData } from "./lab-diamond-tg-card-data.json";
 export { default as rtsRingData } from "./ready-to-ship-en-rings-lab-diamond.json";
+export { default as diamondShapeClData } from "./diamond-shape-cl-data.json";
+export { default as learnMoreAbtDiamondsCardData } from "./learn-more-diamond-cards-data.json";

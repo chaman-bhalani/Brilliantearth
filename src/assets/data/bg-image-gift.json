@@ -274,5 +274,20 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F7053ef890c5d43b5b162f4728a53c300",
+    "alt": "Background Image",
+    "heading": "Diamond Shape Guide",
+    "paragraph": "Learn how shape impacts a diamond's overall appearance and style to select your perfect diamond.",
+    "buttons": [
+      {
+        "text": "Shop Natural Diamonds",
+        "link": ""
+      },{
+        "text": "Shop Lab Diamonds",
+        "link": ""
+      }
+    ]
   }
 ]

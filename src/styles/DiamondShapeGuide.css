@@ -1,0 +1,90 @@
+.diamond-shape {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.diamond-shape h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.diamond-shape p {
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .diamond-shape {
+    width: 90%;
+  }
+}
+
+.diamond-shape-cl .e-text {
+  text-align: left;
+}
+
+.diamond-shape-cl-reverse {
+  flex-direction: row-reverse;
+}
+
+.diamond-shape-cl-reverse .e-text {
+  text-align: left;
+}
+
+.lma-diamonds {
+  margin-bottom: 30px;
+}
+
+.lma-diamonds-head {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.lma-diamonds-card {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.lma-diamonds-card .card {
+  width: 280px;
+  padding: 30px;
+}
+.lma-diamonds-card .card img {
+  width: 100%;
+}
+@media screen and (max-width: 1024px) {
+  .lma-diamonds-card {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .lma-diamonds-card .card {
+    padding: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lma-diamonds-card {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .lma-diamonds-card .card {
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .lma-diamonds-card {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
+  .lma-diamonds-card .card {
+    padding: 20px;
+  }
+}

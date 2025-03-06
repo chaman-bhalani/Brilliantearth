@@ -1,0 +1,37 @@
+[
+  {
+    "id": 601,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F3b816ef467364fbdb861024751ec2f05",
+    "alt": "Rings Image",
+    "footer": "Diamond Cuts Guide",
+    "category": "lma-diamonds"
+  },
+  {
+    "id": 602,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fd14dad0d571f44d385cf20b0736f5b38",
+    "alt": "Rings Image",
+    "footer": "Diamond Color Guide",
+    "category": "lma-diamonds"
+  },
+  {
+    "id": 603,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F206a8ed708034bcca7ad4cc510490297",
+    "alt": "Rings Image",
+    "footer": "Diamond Clarity Guide",
+    "category": "lma-diamonds"
+  },
+  {
+    "id": 604,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F972e7ac8025f49f98982be967ca490af",
+    "alt": "Ring Image",
+    "footer": "Diamond Carat Guide",
+    "category": "lma-diamonds"
+  },
+  {
+    "id": 605,
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=886,height=1026,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fd8775ab7deb148d39668675ae55ec0a3",
+    "alt": "Diamonds Image",
+    "footer": "4 C's of Diamonds",
+    "category": "lma-diamonds"
+  }
+]
