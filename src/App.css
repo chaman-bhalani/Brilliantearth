@@ -545,6 +545,7 @@
   }
 
   .e-text {
+    width: 90%;
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
@@ -572,6 +573,7 @@
 
 @media screen and (max-width: 480px) {
   .e-text {
+    width: 90%;
     margin-top: 20px;
     font-size: 0.9rem;
   }

@@ -284,7 +284,24 @@
       {
         "text": "Shop Natural Diamonds",
         "link": ""
-      },{
+      },
+      {
+        "text": "Shop Lab Diamonds",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F7d7bfd18a5034903923499a19a9b7ca1",
+    "alt": "Background Image",
+    "heading": "Diamond Cuts",
+    "paragraph": "Learn everything you need to know about diamond cuts, from how they sparkle to how they’re graded.",
+    "buttons": [
+      {
+        "text": "Shop Natural Diamonds",
+        "link": ""
+      },
+      {
         "text": "Shop Lab Diamonds",
         "link": ""
       }
