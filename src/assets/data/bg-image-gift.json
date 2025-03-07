@@ -306,5 +306,21 @@
         "link": ""
       }
     ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=2880,height=700,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F47fc94ac31a141c693d295c34720f4c5",
+    "alt": "Background Image",
+    "heading": "Diamond Color Scale Guide",
+    "paragraph": "Learn everything you need to know about the diamond color scale to select the perfect diamond for you.",
+    "buttons": [
+      {
+        "text": "Shop Natural Diamonds",
+        "link": ""
+      },
+      {
+        "text": "Shop Lab Diamonds",
+        "link": ""
+      }
+    ]
   }
 ]

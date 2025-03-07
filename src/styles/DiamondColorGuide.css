@@ -1,0 +1,57 @@
+.color-scale {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.color-scale h1 {
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .color-scale {
+    width: 90%;
+  }
+}
+
+.color-guide-cl-reverse {
+  flex-direction: row-reverse;
+  margin-top: 40px;
+}
+
+.color-guide-cl {
+  margin-top: 40px;
+}
+
+.color-guide-cl-reverse .e-text,
+.color-guide-cl .e-text {
+  font-family: "Courier New", Courier, monospace;
+}
+.color-guide-cl-reverse .section-head,
+.color-guide-cl .section-head {
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.color-guide-cl-reverse .section-link,
+.color-guide-cl .section-link {
+  color: black;
+}
+
+.color-chart-img {
+  width: 60%; /* You can adjust this width to your preference */
+  margin: 0 auto; /* Centers the div horizontally */
+  text-align: center; /* Centers the text inside */
+}
+
+.cci-head {
+  margin-bottom: 0px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+.color-chart-img img {
+  width: 100%;
+  height: auto;
+}

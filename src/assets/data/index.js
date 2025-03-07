@@ -77,3 +77,4 @@ export { default as rtsRingData } from "./ready-to-ship-en-rings-lab-diamond.jso
 export { default as diamondShapeClData } from "./diamond-shape-cl-data.json";
 export { default as learnMoreAbtDiamondsCardData } from "./learn-more-diamond-cards-data.json";
 export { default as diamondCutClData } from "./diamond-cut-collection-data.json";
+export { default as diamondColorData } from "./diamond-color-data.json";

@@ -1,0 +1,185 @@
+[
+  {
+    "title": "What Is Diamond Color?",
+    "btnText": [],
+    "items": [
+      {
+        "label": "D Color",
+        "description": "Diamond color refers not to the presence of color within a diamond but to the absence or lack of it. As one of the 4 C's used to describe and determine diamond quality, it is an important factor in a diamond's appearance and value. A technically perfect diamond, like a drop of pure water, is colorless, while others may contain a slight yellowish tint or a fancy color, such as pink or blue.",
+        "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcss.brilliantearth.com%2Fstatic%2Fimg%2Fdiamond-search%2Fdiamond-color%2Fcolor-scale-7-D.png&w=1920&q=75&dpl=4d5da3a7b61564869ef70ff3939f769fd6431205",
+        "alt": "Fair cut diamond",
+        "detail": "Absolutely colorless or icy white. The highest color grade—extremely rare and most expensive."
+      },
+      {
+        "label": "I Color",
+        "description": "Diamond color refers not to the presence of color within a diamond but to the absence or lack of it. As one of the 4 C's used to describe and determine diamond quality, it is an important factor in a diamond's appearance and value. A technically perfect diamond, like a drop of pure water, is colorless, while others may contain a slight yellowish tint or a fancy color, such as pink or blue.",
+        "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcss.brilliantearth.com%2Fstatic%2Fimg%2Fdiamond-search%2Fdiamond-color%2Fcolor-scale-2-I.png&w=1920&q=75&dpl=4d5da3a7b61564869ef70ff3939f769fd6431205",
+        "alt": "I Color",
+        "detail": "Near-colorless. Slightly detected color—a good value."
+      },
+      {
+        "label": "H Color",
+        "description": "Diamond color refers not to the presence of color within a diamond but to the absence or lack of it. As one of the 4 C's used to describe and determine diamond quality, it is an important factor in a diamond's appearance and value. A technically perfect diamond, like a drop of pure water, is colorless, while others may contain a slight yellowish tint or a fancy color, such as pink or blue.",
+        "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcss.brilliantearth.com%2Fstatic%2Fimg%2Fdiamond-search%2Fdiamond-color%2Fcolor-scale-3-H.png&w=1920&q=75&dpl=4d5da3a7b61564869ef70ff3939f769fd6431205",
+        "alt": "H Color",
+        "detail": "Near-colorless. Color noticeable when compared to diamonds of better grades, but offers excellent value."
+      },
+      {
+        "label": "G Color",
+        "description": "Diamond color refers not to the presence of color within a diamond but to the absence or lack of it. As one of the 4 C's used to describe and determine diamond quality, it is an important factor in a diamond's appearance and value. A technically perfect diamond, like a drop of pure water, is colorless, while others may contain a slight yellowish tint or a fancy color, such as pink or blue.",
+        "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcss.brilliantearth.com%2Fstatic%2Fimg%2Fdiamond-search%2Fdiamond-color%2Fcolor-scale-4-G.png&w=1920&q=75&dpl=4d5da3a7b61564869ef70ff3939f769fd6431205",
+        "alt": "G Color",
+        "detail": "Near-colorless. Color noticeable when compared to diamonds of better grades, but offers excellent value."
+      },
+      {
+        "label": "F Color",
+        "description": "Diamond color refers not to the presence of color within a diamond but to the absence or lack of it. As one of the 4 C's used to describe and determine diamond quality, it is an important factor in a diamond's appearance and value. A technically perfect diamond, like a drop of pure water, is colorless, while others may contain a slight yellowish tint or a fancy color, such as pink or blue.",
+        "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcss.brilliantearth.com%2Fstatic%2Fimg%2Fdiamond-search%2Fdiamond-color%2Fcolor-scale-5-F.png&w=1920&q=75&dpl=4d5da3a7b61564869ef70ff3939f769fd6431205",
+        "alt": "F Color",
+        "detail": "Colorless. Slight color detected by an expert gemologist, but still considered a “colorless” grade—a high-quality diamond."
+      },
+      {
+        "label": "E Color",
+        "description": "Diamond color refers not to the presence of color within a diamond but to the absence or lack of it. As one of the 4 C's used to describe and determine diamond quality, it is an important factor in a diamond's appearance and value. A technically perfect diamond, like a drop of pure water, is colorless, while others may contain a slight yellowish tint or a fancy color, such as pink or blue.",
+        "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcss.brilliantearth.com%2Fstatic%2Fimg%2Fdiamond-search%2Fdiamond-color%2Fcolor-scale-6-E.png&w=1920&q=75&dpl=4d5da3a7b61564869ef70ff3939f769fd6431205",
+        "alt": "E Color",
+        "detail": "Colorless. Only miniscule traces of color can be detected by an expert gemologist—a rare, high quality diamond."
+      },
+      {
+        "label": "D Color",
+        "description": "Diamond color refers not to the presence of color within a diamond but to the absence or lack of it. As one of the 4 C's used to describe and determine diamond quality, it is an important factor in a diamond's appearance and value. A technically perfect diamond, like a drop of pure water, is colorless, while others may contain a slight yellowish tint or a fancy color, such as pink or blue.",
+        "imgUrl": "https://www.brilliantearth.com/_next/image/?url=https%3A%2F%2Fcss.brilliantearth.com%2Fstatic%2Fimg%2Fdiamond-search%2Fdiamond-color%2Fcolor-scale-7-D.png&w=1920&q=75&dpl=4d5da3a7b61564869ef70ff3939f769fd6431205",
+        "alt": "D Color",
+        "detail": "Absolutely colorless or icy white. The highest color grade—extremely rare and most expensive."
+      }
+    ]
+  },
+  {
+    "title": "Colorless Diamond Grades",
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F1544af4a9f0f47ab970e590a2d29be99",
+    "alt": "Collection Image",
+    "sections": [
+      {
+        "head": [],
+        "para": "D, E, and F are colorless grades. D and E-colored diamonds have virtually no color, and F diamonds have a nearly undetectable amount of color that shows only in the face-down position (when the diamond is viewed from the bottom). These icy-white diamonds are the rarest and the highest quality in color.",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "D Color ",
+        "para": "D is the highest color grade awarded only to completely colorless diamonds. To the naked eye, D color diamonds feature an icy whiteness that contains no color at all.  ",
+        "linkText": "Shop D Color Diamonds",
+        "linkUrl": []
+      },
+      {
+        "head": "E Color",
+        "para": "E-color diamonds are colorless and appear almost identical to D-color diamonds. The majority of the time, the difference between these two grades is only visible to an expert gemologist.",
+        "linkText": "Shop E Color Diamonds",
+        "linkUrl": []
+      },
+      {
+        "head": "F Color",
+        "para": "F-color diamonds are also colorless and appear almost identical to D and E-color diamonds. Generally, only an expert gemologist or trained professional can distinguish between a D, E, and F-color diamond when viewing them from a top-down position.",
+        "linkText": "Shop F Color Diamonds",
+        "linkUrl": []
+      },
+      {
+        "head": "Colorless Diamond Value",
+        "para": "Colorless diamonds are the rarest and most expensive white diamonds, as they are considered the highest quality on the GIA color scale. Since only an expert can easily tell the difference between a D, E, or F-colored diamond, they all make for top-notch, premium options when considering which color is best for you.",
+        "linkText": [],
+        "linkUrl": []
+      }
+    ]
+  },
+  {
+    "title": "Near Colorless Diamond Grades",
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F86b5370bfa3d4070a372544d9c9c7a0f",
+    "alt": "Diamond Image",
+    "sections": [
+      {
+        "head": [],
+        "para": "G, H, I, and J are near colorless grades. They can feature a warmth but mostly look colorless face-up and nearly colorless face-down. When mounted in a yellow or rose gold setting, they may appear to have slight traces of color that are generally not noticeable without a professional eye.  ",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "H Color",
+        "para": "H-color diamonds also appear mostly colorless to the naked eye but can have a faint yellow tint against white backgrounds or in bright lighting. This very slight tint may be noticeable when compared to diamonds of a higher color grade but is generally not apparent to the untrained, unaided eye.",
+        "linkText": "Shop H Color Diamonds ",
+        "linkUrl": []
+      },
+      {
+        "head": "I Color",
+        "para": "I-color diamonds have a slight tint that's apparent against white backgrounds or in bright lighting. Like H-color diamonds, their slight tint may be noticeable when compared to diamonds of a higher color grade but is generally not apparent to the untrained, unaided eye.",
+        "linkText": "Shop I Color Diamonds",
+        "linkUrl": []
+      },
+      {
+        "head": "J Color",
+        "para": "J-color diamonds have a slight tint when viewed against white backgrounds or in bright lighting. Like H and I-color diamonds, their tint may be noticeable when compared to diamonds of a higher color grade, but it's generally not apparent to the untrained, unaided eye.",
+        "linkText": "Shop J Color Diamonds",
+        "linkUrl": []
+      },
+      {
+        "head": "Near Colorless Diamond Value ",
+        "para": "Near-colorless diamonds are normally more affordable than colorless diamonds. As they are typically difficult to distinguish without an expert eye, G, H, I, and J-color diamonds make for a stunning and often more affordable option in comparison with colorless diamonds. The difference between each near-colorless grade appears so slight that they all make for stunning, sparkling options.",
+        "linkText": [],
+        "linkUrl": []
+      }
+    ]
+  },
+  {
+    "title": "Faint Color Diamond Grades",
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F86b5370bfa3d4070a372544d9c9c7a0f",
+    "alt": "Diamond Image",
+    "sections": [
+      {
+        "head": [],
+        "para": "K, L, and M are considered faint color grades. They exhibit a warm tint visible to the naked eye that is increasingly sought after, especially for those whose hearts are set on yellow or rose gold designs with a vintage feel. Please note that Brilliant Earth does not carry K, L, or M-color diamonds.",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "K Color",
+        "para": "K-color diamonds have a tint that can be visible to the naked eye in normal lighting conditions.",
+        "linkText": "Shop H Color Diamonds ",
+        "linkUrl": []
+      },
+      {
+        "head": "L Color",
+        "para": "L-color diamonds, like K-color diamonds, have a faint tint that can be visible to the naked eye in normal lighting conditions. ",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "M Color",
+        "para": "M-color diamonds, like K and L-color diamonds, have a faint tint that can be visible to the naked eye in normal lighting conditions.",
+        "linkText": [],
+        "linkUrl": []
+      },
+      {
+        "head": "Faint Color Diamond Value",
+        "para": "Compared to colorless and near-colorless diamonds, faint color diamonds can be much more affordable options. However, as the tint of these stones is visible to the naked eye, we do not recommend them to anyone looking for a bright white diamond. However, if a slight tint is beautiful to you, these stones make for a unique, more accessible choice.",
+        "linkText": [],
+        "linkUrl": []
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2Fed7d0fd8501243f9af24b381647b43b7",
+    "alt": "Rings Image",
+    "title": "Very Light and Light Color Grades",
+    "description": "Diamonds graded between N-Z are considered very light or light color diamonds. They exhibit a yellow, brown, or grey tint that is very noticeable even to the untrained eye. Considered to be low color grade stones, these diamonds are generally the least desired and most affordable. Brilliant Earth does not carry N-Z color diamonds, though we offer an assortment of fancy-colored diamonds in various colors.",
+    "btnText": []
+  },
+  {
+    "imgUrl": "https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F41e37661176942a1aeeb91581edb2a87?format=webp&width=2000"
+  },
+  {
+    "imgUrl": "https://image.brilliantearth.com/cdn-cgi/image/width=1440,height=1090,quality=100,format=auto/https://cdn.builder.io/api/v1/image/assets%2F9f2a69003c86470ea05deb9ecb9887be%2F0e6c3a17b72943cb9231d171c6103d87",
+    "alt": "Diamond Color Grading Process",
+    "title": "Diamond Color Grading Process",
+    "description": "To grade a diamond's color on the GIA scale, experts compare it to stones of known color, called master stones, under controlled lighting and precise viewing conditions on pure white paper. This comparative process allows for a precise and accurate description of the diamond's color on a scale between D and Z. Once the color grade is determined, it's added to the diamond's certified grading report alongside cut, clarity, carat, and other identifying details.",
+    "btnText": []
+  }
+]

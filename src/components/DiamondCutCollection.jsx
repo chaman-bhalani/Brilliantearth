@@ -3,7 +3,7 @@ import "../App.css";
 import "../styles/DiamondCutCollection.css";
 
 const DiamondCutCollection = ({ data, className }) => {
-  const [selectedIndex, setSelectedIndex] = useState(1);
+  const [selectedIndex, setSelectedIndex] = useState(0);
 
   const selectedItem = data.items[selectedIndex];
 
